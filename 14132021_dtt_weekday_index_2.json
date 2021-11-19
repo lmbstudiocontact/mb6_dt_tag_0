@@ -1,0 +1,26 @@
+[
+  {
+    "author": "glebych",
+    "link_thumb": "https://live.staticflickr.com/65535/51670061073_406e87cd59_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb6_1/raw/main/973.bin",
+    "id_bin": "973",
+    "list_language": [],
+    "array_tags": [
+      "date",
+      "bluetooth",
+      "weekday",
+      "lock",
+      "time",
+      "battery",
+      "steps",
+      "donotdisturb"
+    ],
+    "list_album": [
+      {
+        "id_album": "2433880",
+        "link_thumb": "https://live.staticflickr.com/65535/51670061073_406e87cd59_o.gif",
+        "title": "None"
+      }
+    ]
+  }
+]

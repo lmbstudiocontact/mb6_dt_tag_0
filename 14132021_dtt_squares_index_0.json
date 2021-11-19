@@ -1,0 +1,31 @@
+[
+  {
+    "author": "glebych",
+    "link_thumb": "https://live.staticflickr.com/65535/51668672377_7f6e43efb6_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1095.bin",
+    "id_bin": "1095",
+    "list_language": [],
+    "array_tags": [
+      "date",
+      "digital",
+      "distance",
+      "ampm",
+      "heartrate",
+      "squares",
+      "weekday",
+      "calories",
+      "battery",
+      "steps",
+      "animation",
+      "blue",
+      "weather"
+    ],
+    "list_album": [
+      {
+        "id_album": "2433880",
+        "link_thumb": "https://live.staticflickr.com/65535/51668672377_7f6e43efb6_o.gif",
+        "title": "None"
+      }
+    ]
+  }
+]

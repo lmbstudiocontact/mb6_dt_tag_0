@@ -1,0 +1,75 @@
+[
+  {
+    "author": "Rahmaniardi",
+    "link_thumb": "https://live.staticflickr.com/65535/51668706222_d05ae3523c_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1379.bin",
+    "id_bin": "1379",
+    "list_language": [],
+    "array_tags": [
+      "digimon"
+    ],
+    "list_album": [
+      {
+        "id_album": "63410260",
+        "link_thumb": "https://live.staticflickr.com/65535/51668706222_d05ae3523c_o.gif",
+        "title": "Anime"
+      }
+    ]
+  },
+  {
+    "author": "Rahmaniardi",
+    "link_thumb": "https://live.staticflickr.com/65535/51670384780_7563c56035_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1381.bin",
+    "id_bin": "1381",
+    "list_language": [],
+    "array_tags": [
+      "digimon"
+    ],
+    "list_album": [
+      {
+        "id_album": "63410260",
+        "link_thumb": "https://live.staticflickr.com/65535/51670384780_7563c56035_o.gif",
+        "title": "Anime"
+      }
+    ]
+  },
+  {
+    "author": "FranJacksonn",
+    "link_thumb": "https://live.staticflickr.com/65535/51670583120_150a9dcd7e_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/409.bin",
+    "id_bin": "409",
+    "list_language": [],
+    "array_tags": [
+      "digital",
+      "distance",
+      "digimon",
+      "steps"
+    ],
+    "list_album": [
+      {
+        "id_album": "2211858",
+        "link_thumb": "https://live.staticflickr.com/65535/51670583120_150a9dcd7e_o.gif",
+        "title": "Game"
+      }
+    ]
+  },
+  {
+    "author": "ZanarkTempest",
+    "link_thumb": "https://live.staticflickr.com/65535/51669842008_1cb95bc869_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb6_1/raw/main/2056.bin",
+    "id_bin": "2056",
+    "list_language": [],
+    "array_tags": [
+      "digimon",
+      "anime",
+      "greymon"
+    ],
+    "list_album": [
+      {
+        "id_album": "63410260",
+        "link_thumb": "https://live.staticflickr.com/65535/51669842008_1cb95bc869_o.gif",
+        "title": "Anime"
+      }
+    ]
+  }
+]
