@@ -6,7 +6,6 @@
     "id_bin": "1219",
     "list_language": [],
     "array_tags": [
-      "moon",
       "dark"
     ],
     "list_album": [
@@ -47,12 +46,10 @@
     "list_language": [],
     "array_tags": [
       "white",
-      "design",
       "black",
       "dark",
       "retro",
-      "simple",
-      "pixel"
+      "simple"
     ],
     "list_album": [
       {
@@ -70,11 +67,9 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "electronics",
       "black",
       "dark",
-      "retro",
-      "pcb"
+      "retro"
     ],
     "list_album": [
       {
@@ -94,7 +89,6 @@
       "date",
       "white",
       "heartrate",
-      "design",
       "black",
       "dark",
       "battery",
@@ -122,7 +116,6 @@
       "calories",
       "battery",
       "steps",
-      "classy",
       "donotdisturb",
       "month",
       "bluetooth",
@@ -145,11 +138,7 @@
     "id_bin": "361",
     "list_language": [],
     "array_tags": [
-      "gold",
-      "salamanca",
-      "unionistas",
-      "dark",
-      "futbol"
+      "dark"
     ],
     "list_album": [
       {
@@ -166,10 +155,8 @@
     "id_bin": "376",
     "list_language": [],
     "array_tags": [
-      "gold",
       "distance",
       "heartrate",
-      "honey",
       "dark",
       "calories",
       "battery",
@@ -190,11 +177,9 @@
     "id_bin": "460",
     "list_language": [],
     "array_tags": [
-      "calendar",
       "date",
       "distance",
       "heartrate",
-      "binary",
       "weather",
       "dark",
       "battery",
@@ -215,33 +200,19 @@
     "id_bin": "580",
     "list_language": [],
     "array_tags": [
+      "digital",
       "date",
-      "escuro",
       "game",
+      "heartrate",
       "weekday",
       "brasil",
       "battery",
+      "steps",
       "space",
-      "crewmate",
-      "computer",
-      "amongus",
-      "videogame",
+      "month",
       "games",
       "dark",
-      "jogo",
-      "day",
-      "popular",
-      "us",
-      "digital",
-      "gaming",
-      "heartrate",
-      "stars",
-      "steps",
-      "estrelas",
-      "impostor",
-      "month",
-      "among",
-      "cian"
+      "day"
     ],
     "list_album": [
       {
@@ -260,15 +231,10 @@
     "array_tags": [
       "digital",
       "date",
-      "horror",
       "heartrate",
-      "bones",
       "dark",
-      "bone",
-      "skull",
       "battery",
-      "steps",
-      "blood"
+      "steps"
     ],
     "list_album": [
       {

@@ -11,7 +11,6 @@
       "dragonball",
       "goku",
       "bluetooth",
-      "night",
       "weekday",
       "lock",
       "battery",
@@ -52,8 +51,7 @@
     "list_language": [],
     "array_tags": [
       "dragonball",
-      "goku",
-      "kid"
+      "goku"
     ],
     "list_album": [
       {
@@ -89,8 +87,6 @@
     "list_language": [],
     "array_tags": [
       "dragonball",
-      "dragonballsuper",
-      "broly",
       "anime"
     ],
     "list_album": [
@@ -109,8 +105,6 @@
     "list_language": [],
     "array_tags": [
       "dragonball",
-      "dragonballz",
-      "cell",
       "anime"
     ],
     "list_album": [
@@ -129,9 +123,6 @@
     "list_language": [],
     "array_tags": [
       "dragonball",
-      "dragonballz",
-      "freezer",
-      "frieza",
       "anime"
     ],
     "list_album": [
@@ -150,8 +141,6 @@
     "list_language": [],
     "array_tags": [
       "dragonball",
-      "gohan",
-      "dragonballz",
       "anime"
     ],
     "list_album": [
@@ -170,8 +159,6 @@
     "list_language": [],
     "array_tags": [
       "dragonball",
-      "gohan",
-      "dragonballz",
       "anime"
     ],
     "list_album": [
@@ -229,7 +216,6 @@
     "array_tags": [
       "dragonball",
       "goku",
-      "dragonballsuper",
       "anime"
     ],
     "list_album": [
@@ -249,7 +235,6 @@
     "array_tags": [
       "dragonball",
       "goku",
-      "dragonballsuper",
       "anime"
     ],
     "list_album": [
@@ -269,7 +254,6 @@
     "array_tags": [
       "dragonball",
       "goku",
-      "dragonballz",
       "anime"
     ],
     "list_album": [
@@ -288,8 +272,6 @@
     "list_language": [],
     "array_tags": [
       "dragonball",
-      "kidbuu",
-      "dragonballz",
       "anime"
     ],
     "list_album": [
@@ -307,10 +289,7 @@
     "id_bin": "1812",
     "list_language": [],
     "array_tags": [
-      "piccolo",
       "dragonball",
-      "dragonballz",
-      "piccoro",
       "anime"
     ],
     "list_album": [
@@ -328,7 +307,6 @@
     "id_bin": "1813",
     "list_language": [],
     "array_tags": [
-      "vegeta",
       "dragonball",
       "anime"
     ],
@@ -349,7 +327,6 @@
     "array_tags": [
       "dragonball",
       "goku",
-      "frieza",
       "anime"
     ],
     "list_album": [
@@ -368,7 +345,6 @@
     "list_language": [],
     "array_tags": [
       "dragonball",
-      "android",
       "anime"
     ],
     "list_album": [
@@ -404,7 +380,6 @@
     "id_bin": "1971",
     "list_language": [],
     "array_tags": [
-      "trunks",
       "dragonball",
       "anime"
     ],

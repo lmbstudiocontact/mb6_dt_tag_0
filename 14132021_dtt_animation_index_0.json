@@ -25,9 +25,6 @@
     "id_bin": "1080",
     "list_language": [],
     "array_tags": [
-      "dj",
-      "google",
-      "dance",
       "animation"
     ],
     "list_album": [
@@ -47,17 +44,15 @@
     "array_tags": [
       "date",
       "digital",
+      "blue",
       "distance",
-      "ampm",
       "heartrate",
-      "squares",
+      "weather",
       "weekday",
       "calories",
       "battery",
       "steps",
-      "animation",
-      "blue",
-      "weather"
+      "animation"
     ],
     "list_album": [
       {
@@ -109,15 +104,12 @@
       "steps",
       "donotdisturb",
       "animation",
-      "rainbow",
-      "amoled",
       "bluetooth",
       "weather",
       "temperature",
       "animated",
       "lock",
       "pai",
-      "dijkmeneer",
       "status"
     ],
     "list_album": [
@@ -136,12 +128,9 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "evelynn",
       "games",
-      "lol",
       "english",
       "animated",
-      "animes",
       "anime",
       "animation"
     ],
@@ -162,30 +151,21 @@
     "array_tags": [
       "date",
       "distance",
-      "oled",
-      "battery",
-      "qled",
-      "miles",
-      "amoled",
-      "temperature",
-      "pai",
-      "lock",
-      "dnd",
-      "mi",
-      "km",
-      "blocks",
       "heartrate",
       "calories",
+      "battery",
       "steps",
       "animation",
       "donotdisturb",
       "kcal",
       "bluetooth",
+      "temperature",
       "pulse",
-      "kilometer",
+      "pai",
       "animated",
+      "lock",
       "time",
-      "dijkmeneer"
+      "dnd"
     ],
     "list_album": [
       {
@@ -203,11 +183,9 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "jujutsu",
       "english",
       "games",
       "animated",
-      "animes",
       "anime",
       "animation"
     ],
@@ -250,14 +228,10 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "nike",
       "animated",
       "simple",
-      "animes",
-      "girl",
       "anime",
-      "animation",
-      "simples"
+      "animation"
     ],
     "list_album": [
       {
@@ -278,7 +252,6 @@
       "date",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "animation",
@@ -307,11 +280,9 @@
       "digital",
       "game",
       "blue",
-      "rabbit",
       "games",
       "animated",
       "simple",
-      "girl",
       "steps",
       "anime",
       "animation"
@@ -331,20 +302,15 @@
     "id_bin": "1277",
     "list_language": [],
     "array_tags": [
+      "naruto",
       "digital",
       "game",
-      "cyberpunk",
       "black",
-      "animation",
-      "apex",
-      "naruto",
-      "japanese",
       "english",
       "games",
       "animated",
-      "animes",
-      "colorful",
-      "anime"
+      "anime",
+      "animation"
     ],
     "list_album": [
       {
@@ -362,7 +328,6 @@
     "list_language": [],
     "array_tags": [
       "animated",
-      "animes",
       "anime",
       "animation"
     ],
@@ -382,8 +347,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "light",
-      "komisan",
       "animated",
       "time",
       "battery",
@@ -411,7 +374,6 @@
       "weekday",
       "animated",
       "calories",
-      "portugues",
       "steps",
       "animation"
     ],
@@ -455,19 +417,14 @@
     "array_tags": [
       "digital",
       "date",
-      "porsche",
-      "wheels",
-      "underglow",
-      "heartrate",
-      "battery",
-      "steps",
-      "animation",
-      "cars",
       "bluetooth",
+      "heartrate",
       "pulse",
       "animated",
-      "purple",
-      "status"
+      "battery",
+      "steps",
+      "status",
+      "animation"
     ],
     "list_album": [
       {
@@ -486,7 +443,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digitalky",
       "weather",
       "weekday",
       "alarm",
@@ -514,7 +470,6 @@
       "date",
       "weekday",
       "weather",
-      "bender",
       "battery",
       "animation"
     ],
@@ -533,7 +488,6 @@
     "id_bin": "203",
     "list_language": [],
     "array_tags": [
-      "dog",
       "steps",
       "animation"
     ],
@@ -601,9 +555,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "gif",
       "heartrate",
-      "alien",
       "animation"
     ],
     "list_album": [
@@ -622,10 +574,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "rainbow",
-      "meme",
       "heartrate",
-      "nyancat",
       "animation"
     ],
     "list_album": [
@@ -645,10 +594,7 @@
     "array_tags": [
       "digital",
       "soccer",
-      "ceni",
-      "libertadores",
       "animated",
-      "tricolor",
       "futebol",
       "animation"
     ],
@@ -667,7 +613,6 @@
     "id_bin": "581",
     "list_language": [],
     "array_tags": [
-      "minecraft",
       "animation"
     ],
     "list_album": [
@@ -685,8 +630,6 @@
     "id_bin": "600",
     "list_language": [],
     "array_tags": [
-      "starve",
-      "dont",
       "animation"
     ],
     "list_album": [
@@ -704,8 +647,6 @@
     "id_bin": "601",
     "list_language": [],
     "array_tags": [
-      "man",
-      "guitar",
       "animation"
     ],
     "list_album": [
@@ -724,7 +665,6 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "pubg",
       "animation"
     ],
     "list_album": [
@@ -743,9 +683,6 @@
     "list_language": [],
     "array_tags": [
       "marvel",
-      "comics",
-      "superman",
-      "spiderman",
       "batman",
       "animation"
     ],
@@ -764,7 +701,6 @@
     "id_bin": "614",
     "list_language": [],
     "array_tags": [
-      "girl",
       "anime",
       "animation"
     ],
@@ -783,9 +719,6 @@
     "id_bin": "616",
     "list_language": [],
     "array_tags": [
-      "star",
-      "stardewwalley",
-      "pixel",
       "animation"
     ],
     "list_album": [
@@ -803,8 +736,6 @@
     "id_bin": "703",
     "list_language": [],
     "array_tags": [
-      "old",
-      "pacman",
       "animation"
     ],
     "list_album": [
@@ -859,8 +790,6 @@
     "id_bin": "711",
     "list_language": [],
     "array_tags": [
-      "dj",
-      "party",
       "animation"
     ],
     "list_album": [
@@ -878,7 +807,6 @@
     "id_bin": "748",
     "list_language": [],
     "array_tags": [
-      "tetris",
       "animation"
     ],
     "list_album": [
@@ -896,8 +824,6 @@
     "id_bin": "749",
     "list_language": [],
     "array_tags": [
-      "titan",
-      "atack",
       "anime",
       "animation"
     ],
@@ -916,8 +842,6 @@
     "id_bin": "750",
     "list_language": [],
     "array_tags": [
-      "king",
-      "lion",
       "animation"
     ],
     "list_album": [
@@ -935,8 +859,6 @@
     "id_bin": "751",
     "list_language": [],
     "array_tags": [
-      "kosmic",
-      "future",
       "animation"
     ],
     "list_album": [
@@ -954,8 +876,6 @@
     "id_bin": "752",
     "list_language": [],
     "array_tags": [
-      "glitch",
-      "cube",
       "animation"
     ],
     "list_album": [
@@ -973,7 +893,6 @@
     "id_bin": "754",
     "list_language": [],
     "array_tags": [
-      "boy",
       "anime",
       "animation"
     ],
@@ -1011,8 +930,6 @@
     "id_bin": "845",
     "list_language": [],
     "array_tags": [
-      "horror",
-      "night",
       "anime",
       "animation"
     ],
@@ -1031,9 +948,6 @@
     "id_bin": "847",
     "list_language": [],
     "array_tags": [
-      "night",
-      "girl",
-      "dog",
       "animation"
     ],
     "list_album": [
@@ -1052,12 +966,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "hours",
       "bluetooth",
       "weather",
       "weekday",
       "battery",
-      "vista",
       "animation"
     ],
     "list_album": [
@@ -1076,11 +988,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "mimoni",
-      "hours",
       "weekday",
       "battery",
-      "minions",
       "animation"
     ],
     "list_album": [
@@ -1099,10 +1008,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "mimoni",
       "weather",
       "weekday",
-      "minions",
       "animation"
     ],
     "list_album": [
@@ -1122,7 +1029,6 @@
     "array_tags": [
       "heartrate",
       "animated",
-      "power",
       "anime",
       "animation"
     ],

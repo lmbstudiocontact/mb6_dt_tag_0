@@ -142,15 +142,12 @@
       "steps",
       "donotdisturb",
       "animation",
-      "rainbow",
-      "amoled",
       "bluetooth",
       "weather",
       "temperature",
       "animated",
       "lock",
       "pai",
-      "dijkmeneer",
       "status"
     ],
     "list_album": [
@@ -195,24 +192,16 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "km",
       "game",
-      "doomslayer",
-      "doom",
-      "calorias",
       "brasil",
       "calories",
       "battery",
       "steps",
       "red",
       "month",
-      "quilometro",
       "pulse",
-      "kilometer",
       "games",
       "pai",
-      "portugues",
-      "jogo",
       "day",
       "status"
     ],
@@ -253,8 +242,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "light",
-      "komisan",
       "animated",
       "time",
       "battery",
@@ -307,7 +294,6 @@
       "distance",
       "heartrate",
       "weather",
-      "calorie",
       "pai",
       "battery",
       "steps",
@@ -330,19 +316,14 @@
     "array_tags": [
       "digital",
       "date",
-      "porsche",
-      "wheels",
-      "underglow",
-      "heartrate",
-      "battery",
-      "steps",
-      "animation",
-      "cars",
       "bluetooth",
+      "heartrate",
       "pulse",
       "animated",
-      "purple",
-      "status"
+      "battery",
+      "steps",
+      "status",
+      "animation"
     ],
     "list_album": [
       {
@@ -361,7 +342,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digitalky",
       "weather",
       "weekday",
       "alarm",
@@ -418,16 +398,13 @@
       "digital",
       "date",
       "distance",
+      "bluetooth",
       "heartrate",
-      "digi",
+      "weather",
       "italian",
       "calories",
       "battery",
       "steps",
-      "bluetooth",
-      "ita",
-      "weather",
-      "mediatouch",
       "status"
     ],
     "list_album": [
@@ -448,7 +425,6 @@
       "date",
       "white",
       "heartrate",
-      "design",
       "black",
       "dark",
       "battery",
@@ -470,14 +446,11 @@
     "id_bin": "297",
     "list_language": [],
     "array_tags": [
-      "big",
-      "visible",
       "white",
       "heartrate",
       "alarm",
       "simple",
       "steps",
-      "grey",
       "status"
     ],
     "list_album": [
@@ -597,7 +570,6 @@
       "weather",
       "weekday",
       "pai",
-      "humidity",
       "time",
       "calories",
       "battery",
@@ -643,19 +615,14 @@
       "digital",
       "distance",
       "weekday",
-      "uvi",
-      "epic",
       "calories",
       "battery",
       "steps",
       "weather",
       "alarm",
       "pulse",
-      "humidity",
       "pai",
       "time",
-      "czech",
-      "wind",
       "status"
     ],
     "list_album": [
@@ -674,16 +641,15 @@
     "list_language": [],
     "array_tags": [
       "distance",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "weather",
       "alarm",
+      "weekday",
       "pulse",
       "pai",
       "time",
-      "czech",
+      "calories",
+      "battery",
+      "steps",
       "status"
     ],
     "list_album": [
@@ -732,7 +698,6 @@
       "digital",
       "distance",
       "weekday",
-      "digi",
       "calories",
       "battery",
       "steps",
@@ -760,7 +725,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digi",
       "weekday",
       "calories",
       "battery",
@@ -772,7 +736,6 @@
       "alarm",
       "pai",
       "time",
-      "czech",
       "status"
     ],
     "list_album": [
@@ -840,7 +803,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "activity",
       "distance",
       "weekday",
       "calories",
@@ -975,7 +937,6 @@
       "date",
       "time",
       "battery",
-      "funny",
       "animation",
       "status"
     ],
@@ -1096,7 +1057,6 @@
       "pulse",
       "weather",
       "weekday",
-      "epic",
       "calories",
       "steps",
       "animation",
@@ -1125,8 +1085,7 @@
       "calories",
       "time",
       "steps",
-      "status",
-      "temperatur"
+      "status"
     ],
     "list_album": [
       {

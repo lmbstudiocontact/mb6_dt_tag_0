@@ -88,7 +88,6 @@
       "date",
       "bluetooth",
       "distance",
-      "blocks",
       "health",
       "time",
       "calories",
@@ -413,11 +412,9 @@
       "alarm",
       "animated",
       "health",
-      "steinsgate",
       "battery",
       "steps",
-      "anime",
-      "temperatur"
+      "anime"
     ],
     "list_album": [
       {
@@ -458,16 +455,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "health",
       "calories",
       "battery",
-      "steps",
-      "floors",
-      "weather",
-      "alarm",
-      "french"
+      "steps"
     ],
     "list_album": [
       {

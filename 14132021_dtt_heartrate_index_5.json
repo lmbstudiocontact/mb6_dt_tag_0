@@ -54,17 +54,15 @@
     "array_tags": [
       "digital",
       "date",
-      "distance",
-      "heartrate",
-      "retro",
-      "battery",
-      "steps",
-      "sythnwave",
       "analog",
       "seconds",
       "floors",
+      "distance",
+      "heartrate",
+      "retro",
       "weather",
-      "rubnlee"
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -218,33 +216,19 @@
     "id_bin": "580",
     "list_language": [],
     "array_tags": [
+      "digital",
       "date",
-      "escuro",
       "game",
+      "heartrate",
       "weekday",
       "brasil",
       "battery",
+      "steps",
       "space",
-      "crewmate",
-      "computer",
-      "amongus",
-      "videogame",
+      "month",
       "games",
       "dark",
-      "jogo",
-      "day",
-      "popular",
-      "us",
-      "digital",
-      "gaming",
-      "heartrate",
-      "stars",
-      "steps",
-      "estrelas",
-      "impostor",
-      "month",
-      "among",
-      "cian"
+      "day"
     ],
     "list_album": [
       {
@@ -284,11 +268,9 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "impactopdesign",
       "heartrate",
       "battery",
-      "steps",
-      "minions"
+      "steps"
     ],
     "list_album": [
       {
@@ -308,22 +290,14 @@
       "date",
       "digital",
       "soccer",
-      "euro",
-      "champions",
+      "blue",
+      "month",
       "heartrate",
       "weekday",
-      "football",
       "futebol",
       "battery",
       "steps",
-      "futbol",
-      "blue",
-      "month",
-      "franca",
-      "france",
-      "europe",
-      "day",
-      "cup"
+      "day"
     ],
     "list_album": [
       {
@@ -386,17 +360,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "mitu",
-      "floors",
-      "micomunity",
-      "weather",
-      "alarm"
+      "sun"
     ],
     "list_album": [
       {
@@ -416,14 +388,11 @@
       "digital",
       "date",
       "analog",
-      "iwatch",
       "distance",
       "heartrate",
       "calories",
       "battery",
-      "ios",
-      "watchos",
-      "circlebars"
+      "watchos"
     ],
     "list_album": [
       {
@@ -512,8 +481,7 @@
       "heartrate",
       "weather",
       "battery",
-      "steps",
-      "furry"
+      "steps"
     ],
     "list_album": [
       {
@@ -536,8 +504,7 @@
       "weather",
       "english",
       "battery",
-      "steps",
-      "furry"
+      "steps"
     ],
     "list_album": [
       {
@@ -556,8 +523,6 @@
     "array_tags": [
       "date",
       "digital",
-      "deep",
-      "throutle",
       "heartrate",
       "weather",
       "battery",
@@ -582,7 +547,6 @@
       "date",
       "heartrate",
       "weather",
-      "casio",
       "battery",
       "steps"
     ],
@@ -604,15 +568,14 @@
       "digital",
       "date",
       "game",
-      "temp",
       "pokemon",
       "heartrate",
-      "battery",
-      "steps",
       "games",
       "temperature",
       "weather",
-      "day"
+      "battery",
+      "day",
+      "steps"
     ],
     "list_album": [
       {
@@ -653,7 +616,6 @@
       "digital",
       "date",
       "heartrate",
-      "bracelet",
       "battery",
       "steps"
     ],
@@ -777,13 +739,10 @@
     "array_tags": [
       "digital",
       "date",
-      "br",
-      "pt",
       "heartrate",
       "weather",
       "brasil",
       "battery",
-      "portugues",
       "steps"
     ],
     "list_album": [
@@ -802,9 +761,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "persona",
       "distance",
-      "videogame",
       "heartrate",
       "animated",
       "battery"
@@ -849,7 +806,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -857,7 +813,6 @@
       "analog",
       "bluetooth",
       "weather",
-      "humidity",
       "lock",
       "dnd"
     ],
@@ -947,7 +902,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -1003,14 +957,12 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
       "battery",
       "clean",
       "steps",
-      "tilted",
       "minimal",
       "bluetooth",
       "legible",
@@ -1032,21 +984,14 @@
     "id_bin": "790",
     "list_language": [],
     "array_tags": [
-      "passi",
-      "analogico",
+      "analog",
       "heartrate",
+      "english",
       "weekday",
       "italian",
-      "settimana",
       "calories",
       "steps",
-      "analog",
-      "ita",
-      "english",
-      "calorie",
-      "day",
-      "battiti",
-      "giorni"
+      "day"
     ],
     "list_album": [
       {
@@ -1069,8 +1014,7 @@
       "heartrate",
       "weather",
       "battery",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {
@@ -1204,8 +1148,7 @@
       "temperature",
       "calories",
       "battery",
-      "steps",
-      "fashion"
+      "steps"
     ],
     "list_album": [
       {

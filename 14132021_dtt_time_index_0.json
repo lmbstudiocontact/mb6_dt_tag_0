@@ -103,7 +103,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "completo",
       "heartrate",
       "notdisturb",
       "calories",
@@ -132,7 +131,6 @@
     "id_bin": "1052",
     "list_language": [],
     "array_tags": [
-      "big",
       "time"
     ],
     "list_album": [
@@ -242,7 +240,6 @@
     "id_bin": "1118",
     "list_language": [],
     "array_tags": [
-      "color",
       "bluetooth",
       "notdisturb",
       "lock",
@@ -266,12 +263,9 @@
     "id_bin": "1139",
     "list_language": [],
     "array_tags": [
-      "data",
       "distance",
-      "analogico",
       "heartrate",
       "notdisturb",
-      "completo",
       "calories",
       "steps",
       "analog",
@@ -279,7 +273,6 @@
       "bluetooth",
       "pai",
       "lock",
-      "bandera",
       "time",
       "day"
     ],
@@ -377,12 +370,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "astronaut",
       "bluetooth",
       "notdisturb",
       "black",
       "lock",
-      "purple",
       "time",
       "battery",
       "steps",
@@ -447,19 +438,16 @@
     "id_bin": "1207",
     "list_language": [],
     "array_tags": [
-      "color",
-      "notdisturb",
-      "completo",
-      "heartrate",
-      "colores",
-      "calories",
-      "battery",
-      "steps",
       "kcal",
+      "notdisturb",
+      "heartrate",
       "weather",
       "pai",
       "lock",
-      "time"
+      "time",
+      "calories",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -517,7 +505,6 @@
     "array_tags": [
       "red",
       "blue",
-      "techno",
       "time",
       "colors"
     ],
@@ -538,30 +525,21 @@
     "array_tags": [
       "date",
       "distance",
-      "oled",
-      "battery",
-      "qled",
-      "miles",
-      "amoled",
-      "temperature",
-      "pai",
-      "lock",
-      "dnd",
-      "mi",
-      "km",
-      "blocks",
       "heartrate",
       "calories",
+      "battery",
       "steps",
       "animation",
       "donotdisturb",
       "kcal",
       "bluetooth",
+      "temperature",
       "pulse",
-      "kilometer",
+      "pai",
       "animated",
+      "lock",
       "time",
-      "dijkmeneer"
+      "dnd"
     ],
     "list_album": [
       {
@@ -579,7 +557,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "color",
       "notdisturb",
       "heartrate",
       "black",
@@ -666,7 +643,6 @@
       "date",
       "bluetooth",
       "distance",
-      "blocks",
       "health",
       "time",
       "calories",
@@ -791,17 +767,16 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "distance",
-      "calories",
-      "battery",
-      "steps",
-      "donotdisturb",
       "bluetooth",
+      "distance",
       "weather",
       "pulse",
       "lock",
       "time",
-      "temperatur"
+      "calories",
+      "battery",
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -897,8 +872,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "light",
-      "komisan",
       "animated",
       "time",
       "battery",
@@ -1114,12 +1087,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "week",
       "weather",
       "alarm",
       "pai",
-      "time",
-      "cal"
+      "time"
     ],
     "list_album": [
       {
@@ -1209,7 +1180,6 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
       "weekday",
       "calories",
       "battery",

@@ -7,7 +7,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "taylorswift",
       "weather",
       "battery",
       "steps"
@@ -218,12 +217,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "calendar",
       "date",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -252,8 +248,7 @@
       "pokemon",
       "heartrate",
       "battery",
-      "steps",
-      "mew"
+      "steps"
     ],
     "list_album": [
       {
@@ -272,7 +267,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -304,7 +298,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -405,19 +398,14 @@
       "digital",
       "distance",
       "weekday",
-      "uvi",
-      "epic",
       "calories",
       "battery",
       "steps",
       "weather",
       "alarm",
       "pulse",
-      "humidity",
       "pai",
       "time",
-      "czech",
-      "wind",
       "status"
     ],
     "list_album": [
@@ -513,16 +501,15 @@
     "list_language": [],
     "array_tags": [
       "distance",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "weather",
       "alarm",
+      "weekday",
       "pulse",
       "pai",
       "time",
-      "czech",
+      "calories",
+      "battery",
+      "steps",
       "status"
     ],
     "list_album": [
@@ -588,11 +575,7 @@
     "array_tags": [
       "digital",
       "date",
-      "vice",
       "bluetooth",
-      "gta",
-      "city",
-      "videogame",
       "games",
       "battery",
       "steps"
@@ -613,7 +596,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "steinsgate",
       "steps",
       "anime"
     ],
@@ -632,7 +614,6 @@
     "id_bin": "2190",
     "list_language": [],
     "array_tags": [
-      "aelita",
       "heartrate",
       "steps"
     ],
@@ -652,7 +633,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "jeremy",
       "steps"
     ],
     "list_album": [
@@ -671,8 +651,7 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "steps",
-      "odd"
+      "steps"
     ],
     "list_album": [
       {
@@ -690,7 +669,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "ulrich",
       "steps"
     ],
     "list_album": [
@@ -708,7 +686,6 @@
     "id_bin": "2194",
     "list_language": [],
     "array_tags": [
-      "yumi",
       "heartrate",
       "steps"
     ],
@@ -727,7 +704,6 @@
     "id_bin": "2195",
     "list_language": [],
     "array_tags": [
-      "william",
       "heartrate",
       "steps"
     ],
@@ -822,7 +798,6 @@
     "id_bin": "2200",
     "list_language": [],
     "array_tags": [
-      "heatblast",
       "heartrate",
       "steps"
     ],
@@ -844,7 +819,6 @@
       "pokemon",
       "heartrate",
       "steps",
-      "lugia",
       "anime"
     ],
     "list_album": [
@@ -865,7 +839,6 @@
       "pokemon",
       "heartrate",
       "games",
-      "charizard",
       "steps",
       "anime"
     ],
@@ -885,7 +858,6 @@
     "list_language": [],
     "array_tags": [
       "pokemon",
-      "blastoise",
       "heartrate",
       "games",
       "steps",
@@ -909,7 +881,6 @@
       "pokemon",
       "heartrate",
       "games",
-      "venusaur",
       "steps",
       "anime"
     ],
@@ -930,17 +901,9 @@
     "array_tags": [
       "digital",
       "date",
-      "san",
-      "auto",
       "game",
-      "cj",
-      "grand",
-      "theft",
       "battery",
-      "steps",
-      "andreas",
-      "gta",
-      "hud"
+      "steps"
     ],
     "list_album": [
       {
@@ -957,7 +920,6 @@
     "id_bin": "2214",
     "list_language": [],
     "array_tags": [
-      "kobeni",
       "heartrate",
       "steps",
       "anime"
@@ -999,7 +961,6 @@
       "marvel",
       "cartoon",
       "heartrate",
-      "spiderman",
       "steps"
     ],
     "list_album": [

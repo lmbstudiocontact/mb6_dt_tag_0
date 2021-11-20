@@ -115,16 +115,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "bretagne"
+      "sun"
     ],
     "list_album": [
       {
@@ -143,16 +141,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "corse"
+      "sun"
     ],
     "list_album": [
       {
@@ -233,11 +229,6 @@
       "date",
       "digital",
       "game",
-      "isaac",
-      "roguelike",
-      "percentage",
-      "binding",
-      "pixel",
       "steps"
     ],
     "list_album": [
@@ -407,7 +398,6 @@
       "distance",
       "notdisturb",
       "heartrate",
-      "stars",
       "calories",
       "kcal",
       "bluetooth",
@@ -517,21 +507,14 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "sky",
-      "green",
-      "data",
-      "island",
-      "simple",
-      "simplicity",
-      "minimalista",
-      "battery",
       "minimal",
+      "green",
       "white",
       "bluetooth",
-      "minimalist",
       "lock",
+      "simple",
       "time",
-      "azul"
+      "battery"
     ],
     "list_album": [
       {
@@ -594,7 +577,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digitalky",
       "weather",
       "weekday"
     ],
@@ -705,8 +687,7 @@
       "analog",
       "weather",
       "weekday",
-      "battery",
-      "czechia"
+      "battery"
     ],
     "list_album": [
       {
@@ -727,8 +708,7 @@
       "analog",
       "weather",
       "weekday",
-      "battery",
-      "czechia"
+      "battery"
     ],
     "list_album": [
       {
@@ -767,12 +747,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "hours",
       "bluetooth",
       "weather",
       "weekday",
       "battery",
-      "vista",
       "animation"
     ],
     "list_album": [
@@ -791,11 +769,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "mimoni",
-      "hours",
       "weekday",
       "battery",
-      "minions",
       "animation"
     ],
     "list_album": [
@@ -837,11 +812,9 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "hours",
       "bluetooth",
       "weather",
       "weekday",
-      "helloween",
       "battery"
     ],
     "list_album": [
@@ -860,10 +833,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "mimoni",
       "weather",
       "weekday",
-      "minions",
       "animation"
     ],
     "list_album": [
@@ -907,7 +878,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "percentage",
       "weekday",
       "simple",
       "battery",
@@ -930,15 +900,10 @@
     "array_tags": [
       "digital",
       "date",
-      "horror",
       "heartrate",
-      "bones",
       "dark",
-      "bone",
-      "skull",
       "battery",
-      "steps",
-      "blood"
+      "steps"
     ],
     "list_album": [
       {
@@ -957,7 +922,6 @@
     "array_tags": [
       "digital",
       "date",
-      "dxmd",
       "weather",
       "battery",
       "steps"
@@ -999,7 +963,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -1094,8 +1057,7 @@
       "weather",
       "weekday",
       "time",
-      "battery",
-      "czech"
+      "battery"
     ],
     "list_album": [
       {

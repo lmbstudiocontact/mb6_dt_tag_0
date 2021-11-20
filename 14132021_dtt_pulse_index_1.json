@@ -34,12 +34,9 @@
       "english",
       "weather",
       "pulse",
-      "humidity",
       "italian",
       "calories",
-      "polish",
-      "steps",
-      "french"
+      "steps"
     ],
     "list_album": [
       {
@@ -84,7 +81,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "amoled",
       "weather",
       "pulse",
       "calories",
@@ -110,7 +106,6 @@
       "distance",
       "weather",
       "pulse",
-      "magnim",
       "calories",
       "steps",
       "colors"
@@ -154,7 +149,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "amoled",
       "distance",
       "weather",
       "pulse",
@@ -198,7 +192,6 @@
     "id_bin": "719",
     "list_language": [],
     "array_tags": [
-      "week",
       "white",
       "distance",
       "black",
@@ -225,15 +218,12 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "chinese",
       "distance",
       "weather",
       "pulse",
       "english",
-      "humidity",
       "italian",
       "calories",
-      "polish",
       "steps"
     ],
     "list_album": [
@@ -252,7 +242,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "ita",
       "english",
       "pulse",
       "weather",
@@ -274,7 +263,6 @@
     "id_bin": "1721",
     "list_language": [],
     "array_tags": [
-      "yellow",
       "pulse",
       "battery"
     ],
@@ -334,13 +322,10 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "atleticomg",
-      "impactopdesign",
       "pulse",
       "futebol",
       "battery",
-      "steps",
-      "galo"
+      "steps"
     ],
     "list_album": [
       {
@@ -360,19 +345,14 @@
       "digital",
       "distance",
       "weekday",
-      "uvi",
-      "epic",
       "calories",
       "battery",
       "steps",
       "weather",
       "alarm",
       "pulse",
-      "humidity",
       "pai",
       "time",
-      "czech",
-      "wind",
       "status"
     ],
     "list_album": [
@@ -392,8 +372,7 @@
     "array_tags": [
       "marvel",
       "heartrate",
-      "pulse",
-      "spiderman"
+      "pulse"
     ],
     "list_album": [
       {
@@ -411,16 +390,15 @@
     "list_language": [],
     "array_tags": [
       "distance",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "weather",
       "alarm",
+      "weekday",
       "pulse",
       "pai",
       "time",
-      "czech",
+      "calories",
+      "battery",
+      "steps",
       "status"
     ],
     "list_album": [
@@ -494,7 +472,6 @@
       "digital",
       "distance",
       "weekday",
-      "digi",
       "calories",
       "battery",
       "steps",
@@ -523,7 +500,6 @@
       "digital",
       "date",
       "month",
-      "ampm",
       "heartrate",
       "pulse",
       "time",
@@ -548,7 +524,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digi",
       "weekday",
       "calories",
       "battery",
@@ -560,7 +535,6 @@
       "alarm",
       "pai",
       "time",
-      "czech",
       "status"
     ],
     "list_album": [
@@ -605,7 +579,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "activity",
       "distance",
       "weekday",
       "calories",
@@ -717,7 +690,6 @@
       "distance",
       "pulse",
       "weather",
-      "lovebites",
       "steps"
     ],
     "list_album": [
@@ -735,10 +707,8 @@
     "id_bin": "2381",
     "list_language": [],
     "array_tags": [
-      "halloween",
       "weather",
       "pulse",
-      "lovebites",
       "steps"
     ],
     "list_album": [
@@ -758,21 +728,13 @@
     "array_tags": [
       "digital",
       "date",
-      "big",
-      "bateria",
-      "numerals",
+      "apple",
+      "minimal",
+      "pulse",
       "battery",
       "steps",
       "colors",
-      "watchos",
-      "apple",
-      "rainbow",
-      "minimal",
-      "pride",
-      "pulse",
-      "passos",
-      "duo",
-      "lgbt"
+      "watchos"
     ],
     "list_album": [
       {
@@ -820,18 +782,15 @@
       "digital",
       "date",
       "weekday",
-      "clock",
       "calories",
       "battery",
       "steps",
       "colors",
-      "orange",
       "bluetooth",
       "weather",
       "pulse",
       "lock",
-      "dnd",
-      "fashion"
+      "dnd"
     ],
     "list_album": [
       {
@@ -853,7 +812,6 @@
       "pulse",
       "weather",
       "weekday",
-      "epic",
       "calories",
       "steps",
       "animation",
@@ -878,11 +836,9 @@
       "heartrate",
       "weekday",
       "simple",
-      "clock",
       "calories",
       "battery",
       "steps",
-      "cute",
       "bluetooth",
       "weather",
       "pulse",
@@ -912,8 +868,7 @@
       "calories",
       "time",
       "steps",
-      "status",
-      "temperatur"
+      "status"
     ],
     "list_album": [
       {

@@ -6,7 +6,6 @@
     "id_bin": "2016",
     "list_language": [],
     "array_tags": [
-      "jojo",
       "anime"
     ],
     "list_album": [
@@ -41,7 +40,6 @@
     "id_bin": "2018",
     "list_language": [],
     "array_tags": [
-      "zoro",
       "onepiece",
       "anime"
     ],
@@ -60,7 +58,6 @@
     "id_bin": "2019",
     "list_language": [],
     "array_tags": [
-      "nami",
       "onepiece",
       "anime"
     ],
@@ -79,7 +76,6 @@
     "id_bin": "2020",
     "list_language": [],
     "array_tags": [
-      "okiku",
       "anime"
     ],
     "list_album": [
@@ -97,7 +93,6 @@
     "id_bin": "2028",
     "list_language": [],
     "array_tags": [
-      "power",
       "anime"
     ],
     "list_album": [
@@ -117,7 +112,6 @@
     "array_tags": [
       "heartrate",
       "animated",
-      "power",
       "anime",
       "animation"
     ],
@@ -136,9 +130,7 @@
     "id_bin": "2056",
     "list_language": [],
     "array_tags": [
-      "digimon",
-      "anime",
-      "greymon"
+      "anime"
     ],
     "list_album": [
       {
@@ -156,7 +148,6 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "ken",
       "anime"
     ],
     "list_album": [
@@ -175,8 +166,7 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "anime",
-      "ryu"
+      "anime"
     ],
     "list_album": [
       {
@@ -193,9 +183,7 @@
     "id_bin": "2059",
     "list_language": [],
     "array_tags": [
-      "disney",
       "games",
-      "sora",
       "anime"
     ],
     "list_album": [
@@ -213,8 +201,6 @@
     "id_bin": "2060",
     "list_language": [],
     "array_tags": [
-      "disney",
-      "sora",
       "anime"
     ],
     "list_album": [
@@ -232,8 +218,6 @@
     "id_bin": "2072",
     "list_language": [],
     "array_tags": [
-      "brook",
-      "halloween",
       "anime"
     ],
     "list_album": [
@@ -251,8 +235,6 @@
     "id_bin": "2073",
     "list_language": [],
     "array_tags": [
-      "halloween",
-      "luffy",
       "anime"
     ],
     "list_album": [
@@ -270,8 +252,6 @@
     "id_bin": "2074",
     "list_language": [],
     "array_tags": [
-      "halloween",
-      "nami",
       "anime"
     ],
     "list_album": [
@@ -289,8 +269,6 @@
     "id_bin": "2075",
     "list_language": [],
     "array_tags": [
-      "robin",
-      "halloween",
       "anime"
     ],
     "list_album": [
@@ -308,8 +286,6 @@
     "id_bin": "2076",
     "list_language": [],
     "array_tags": [
-      "halloween",
-      "zoro",
       "anime"
     ],
     "list_album": [
@@ -349,7 +325,6 @@
     "id_bin": "2090",
     "list_language": [],
     "array_tags": [
-      "power",
       "anime"
     ],
     "list_album": [
@@ -367,7 +342,6 @@
     "id_bin": "2091",
     "list_language": [],
     "array_tags": [
-      "power",
       "anime"
     ],
     "list_album": [
@@ -385,7 +359,6 @@
     "id_bin": "2092",
     "list_language": [],
     "array_tags": [
-      "power",
       "anime"
     ],
     "list_album": [
@@ -403,7 +376,6 @@
     "id_bin": "2093",
     "list_language": [],
     "array_tags": [
-      "power",
       "anime"
     ],
     "list_album": [
@@ -421,7 +393,6 @@
     "id_bin": "2094",
     "list_language": [],
     "array_tags": [
-      "power",
       "anime"
     ],
     "list_album": [
@@ -441,7 +412,6 @@
     "array_tags": [
       "pokemon",
       "heartrate",
-      "gardevoir",
       "anime"
     ],
     "list_album": [
@@ -460,8 +430,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "cardgame",
-      "dragon",
       "anime"
     ],
     "list_album": [
@@ -480,7 +448,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "cardgame",
       "anime"
     ],
     "list_album": [
@@ -498,8 +465,6 @@
     "id_bin": "2108",
     "list_language": [],
     "array_tags": [
-      "cardgame",
-      "gandora",
       "anime"
     ],
     "list_album": [
@@ -518,7 +483,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "cardgame",
       "anime"
     ],
     "list_album": [
@@ -537,7 +501,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "cardgame",
       "anime"
     ],
     "list_album": [
@@ -556,7 +519,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "cardgame",
       "anime"
     ],
     "list_album": [
@@ -575,7 +537,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "cardgame",
       "anime"
     ],
     "list_album": [
@@ -594,8 +555,7 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "anime",
-      "aizawa"
+      "anime"
     ],
     "list_album": [
       {
@@ -612,7 +572,6 @@
     "id_bin": "2125",
     "list_language": [],
     "array_tags": [
-      "hawks",
       "heartrate",
       "anime"
     ],
@@ -631,7 +590,6 @@
     "id_bin": "2126",
     "list_language": [],
     "array_tags": [
-      "tomura",
       "heartrate",
       "anime"
     ],
@@ -650,7 +608,6 @@
     "id_bin": "2127",
     "list_language": [],
     "array_tags": [
-      "tomioka",
       "heartrate",
       "anime"
     ],
@@ -690,8 +647,7 @@
     "array_tags": [
       "naruto",
       "heartrate",
-      "anime",
-      "gaara"
+      "anime"
     ],
     "list_album": [
       {
@@ -710,8 +666,7 @@
     "array_tags": [
       "naruto",
       "heartrate",
-      "anime",
-      "gaara"
+      "anime"
     ],
     "list_album": [
       {
@@ -730,7 +685,6 @@
     "array_tags": [
       "naruto",
       "heartrate",
-      "hidan",
       "anime"
     ],
     "list_album": [
@@ -749,7 +703,6 @@
     "list_language": [],
     "array_tags": [
       "naruto",
-      "hinata",
       "heartrate",
       "anime"
     ],
@@ -770,7 +723,6 @@
     "array_tags": [
       "naruto",
       "heartrate",
-      "jiraya",
       "anime"
     ],
     "list_album": [
@@ -789,7 +741,6 @@
     "list_language": [],
     "array_tags": [
       "naruto",
-      "kakuzu",
       "heartrate",
       "anime"
     ],
@@ -810,7 +761,6 @@
     "array_tags": [
       "naruto",
       "heartrate",
-      "kisame",
       "anime"
     ],
     "list_album": [
@@ -828,7 +778,6 @@
     "id_bin": "2139",
     "list_language": [],
     "array_tags": [
-      "konan",
       "naruto",
       "heartrate",
       "anime"
@@ -849,8 +798,7 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "anime",
-      "makima"
+      "anime"
     ],
     "list_album": [
       {
@@ -906,7 +854,6 @@
     "list_language": [],
     "array_tags": [
       "naruto",
-      "pain",
       "heartrate",
       "anime"
     ],
@@ -926,7 +873,6 @@
     "list_language": [],
     "array_tags": [
       "naruto",
-      "pain",
       "heartrate",
       "anime"
     ],
@@ -946,7 +892,6 @@
     "list_language": [],
     "array_tags": [
       "naruto",
-      "pain",
       "heartrate",
       "anime"
     ],

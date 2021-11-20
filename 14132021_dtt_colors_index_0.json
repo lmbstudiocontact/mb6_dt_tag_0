@@ -6,14 +6,6 @@
     "id_bin": "100",
     "list_language": [],
     "array_tags": [
-      "comunismo",
-      "flag",
-      "republicana",
-      "libertad",
-      "republicano",
-      "colores",
-      "bandera",
-      "republica",
       "colors"
     ],
     "list_album": [
@@ -31,7 +23,6 @@
     "id_bin": "1118",
     "list_language": [],
     "array_tags": [
-      "color",
       "bluetooth",
       "notdisturb",
       "lock",
@@ -57,7 +48,6 @@
     "array_tags": [
       "red",
       "blue",
-      "techno",
       "time",
       "colors"
     ],
@@ -114,13 +104,10 @@
     "list_language": [],
     "array_tags": [
       "white",
-      "pool",
       "black",
       "simple",
       "basic",
-      "water",
-      "colors",
-      "colorful"
+      "colors"
     ],
     "list_album": [
       {
@@ -138,7 +125,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "amoled",
       "weather",
       "pulse",
       "calories",
@@ -164,7 +150,6 @@
       "distance",
       "weather",
       "pulse",
-      "magnim",
       "calories",
       "steps",
       "colors"
@@ -208,7 +193,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "ita",
       "english",
       "pulse",
       "weather",
@@ -230,11 +214,9 @@
     "id_bin": "907",
     "list_language": [],
     "array_tags": [
-      "brazil",
       "brasil",
       "simple",
-      "colors",
-      "simples"
+      "colors"
     ],
     "list_album": [
       {
@@ -253,21 +235,13 @@
     "array_tags": [
       "digital",
       "date",
-      "big",
-      "bateria",
-      "numerals",
+      "apple",
+      "minimal",
+      "pulse",
       "battery",
       "steps",
       "colors",
-      "watchos",
-      "apple",
-      "rainbow",
-      "minimal",
-      "pride",
-      "pulse",
-      "passos",
-      "duo",
-      "lgbt"
+      "watchos"
     ],
     "list_album": [
       {
@@ -287,18 +261,15 @@
       "digital",
       "date",
       "weekday",
-      "clock",
       "calories",
       "battery",
       "steps",
       "colors",
-      "orange",
       "bluetooth",
       "weather",
       "pulse",
       "lock",
-      "dnd",
-      "fashion"
+      "dnd"
     ],
     "list_album": [
       {

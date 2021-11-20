@@ -27,7 +27,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "taylorswift",
       "weather",
       "battery",
       "steps"
@@ -220,12 +219,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "calendar",
       "date",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -252,7 +248,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -284,7 +279,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -403,15 +397,12 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "xxxtentacion",
       "bluetooth",
       "weather",
-      "google",
       "simple",
       "time",
       "dnd",
-      "battery",
-      "heart"
+      "battery"
     ],
     "list_album": [
       {
@@ -476,11 +467,7 @@
     "array_tags": [
       "digital",
       "date",
-      "vice",
       "bluetooth",
-      "gta",
-      "city",
-      "videogame",
       "games",
       "battery",
       "steps"
@@ -502,7 +489,6 @@
     "array_tags": [
       "digital",
       "date",
-      "nixie",
       "battery"
     ],
     "list_album": [
@@ -522,17 +508,9 @@
     "array_tags": [
       "digital",
       "date",
-      "san",
-      "auto",
       "game",
-      "cj",
-      "grand",
-      "theft",
       "battery",
-      "steps",
-      "andreas",
-      "gta",
-      "hud"
+      "steps"
     ],
     "list_album": [
       {
@@ -646,7 +624,6 @@
       "date",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "animation",
@@ -675,7 +652,6 @@
       "digital",
       "date",
       "month",
-      "ampm",
       "heartrate",
       "pulse",
       "time",
@@ -700,7 +676,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digi",
       "weekday",
       "calories",
       "battery",
@@ -712,7 +687,6 @@
       "alarm",
       "pai",
       "time",
-      "czech",
       "status"
     ],
     "list_album": [
@@ -778,7 +752,6 @@
     "array_tags": [
       "digital",
       "date",
-      "ampm",
       "weather",
       "alarm",
       "battery"
@@ -801,16 +774,11 @@
       "digital",
       "date",
       "soccer",
-      "fluminense",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
       "steps",
-      "flu",
-      "rj",
       "day"
     ],
     "list_album": [
@@ -855,7 +823,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "activity",
       "distance",
       "weekday",
       "calories",
@@ -910,20 +877,13 @@
     "array_tags": [
       "digital",
       "date",
-      "neymar",
       "soccer",
+      "seconds",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
-      "steps",
-      "futbol",
-      "seconds",
-      "pele",
-      "sp",
-      "santos"
+      "steps"
     ],
     "list_album": [
       {
@@ -944,16 +904,11 @@
       "date",
       "soccer",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
-      "steps",
-      "spfc",
-      "futbol",
-      "sp",
-      "sport"
+      "sport",
+      "steps"
     ],
     "list_album": [
       {
@@ -1059,7 +1014,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "temp",
       "distance",
       "alarm",
       "time",
@@ -1184,7 +1138,6 @@
       "date",
       "time",
       "battery",
-      "funny",
       "animation",
       "status"
     ],
@@ -1205,16 +1158,12 @@
     "array_tags": [
       "digital",
       "date",
-      "vice",
       "game",
       "distance",
-      "city",
       "heartrate",
+      "weather",
       "battery",
-      "steps",
-      "gta",
-      "hud",
-      "weather"
+      "steps"
     ],
     "list_album": [
       {

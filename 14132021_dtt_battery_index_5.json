@@ -299,8 +299,7 @@
       "alarm",
       "time",
       "battery",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {
@@ -562,7 +561,6 @@
       "battery",
       "steps",
       "sun",
-      "mitu",
       "seconds",
       "floors",
       "weather",
@@ -586,7 +584,6 @@
       "date",
       "white",
       "heartrate",
-      "design",
       "black",
       "dark",
       "battery",
@@ -612,7 +609,6 @@
       "date",
       "heartrate",
       "weather",
-      "casio",
       "battery",
       "steps"
     ],
@@ -745,17 +741,16 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "nike",
-      "heartrate",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "apple",
       "bluetooth",
+      "heartrate",
+      "weekday",
       "weather",
       "lock",
-      "dnd"
+      "calories",
+      "dnd",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -929,9 +924,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "vi",
-      "v",
-      "cyberpunk",
       "games",
       "battery"
     ],
@@ -951,9 +943,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "vi",
-      "v",
-      "cyberpunk",
       "games",
       "battery"
     ],
@@ -996,12 +985,9 @@
     "array_tags": [
       "digital",
       "date",
-      "megaman",
       "distance",
-      "megaband",
       "calories",
       "battery",
-      "portugues",
       "steps"
     ],
     "list_album": [
@@ -1090,7 +1076,6 @@
       "calories",
       "battery",
       "steps",
-      "classy",
       "donotdisturb",
       "month",
       "bluetooth",

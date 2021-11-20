@@ -12,8 +12,7 @@
       "heartrate",
       "weather",
       "battery",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {
@@ -191,8 +190,7 @@
       "temperature",
       "calories",
       "battery",
-      "steps",
-      "fashion"
+      "steps"
     ],
     "list_album": [
       {
@@ -338,16 +336,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "bretagne"
+      "sun"
     ],
     "list_album": [
       {
@@ -366,16 +362,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "corse"
+      "sun"
     ],
     "list_album": [
       {
@@ -436,11 +430,6 @@
       "date",
       "digital",
       "game",
-      "isaac",
-      "roguelike",
-      "percentage",
-      "binding",
-      "pixel",
       "steps"
     ],
     "list_album": [
@@ -479,7 +468,6 @@
     "id_bin": "871",
     "list_language": [],
     "array_tags": [
-      "hours",
       "battery",
       "steps"
     ],
@@ -861,15 +849,9 @@
     "id_bin": "1738",
     "list_language": [],
     "array_tags": [
-      "hours",
-      "boss",
-      "minutes",
-      "farsi",
-      "beach",
       "battery",
       "steps",
-      "day",
-      "persian"
+      "day"
     ],
     "list_album": [
       {
@@ -913,15 +895,10 @@
     "array_tags": [
       "digital",
       "date",
-      "horror",
       "heartrate",
-      "bones",
       "dark",
-      "bone",
-      "skull",
       "battery",
-      "steps",
-      "blood"
+      "steps"
     ],
     "list_album": [
       {
@@ -940,7 +917,6 @@
     "array_tags": [
       "digital",
       "date",
-      "dxmd",
       "weather",
       "battery",
       "steps"
@@ -1089,13 +1065,10 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "atleticomg",
-      "impactopdesign",
       "pulse",
       "futebol",
       "battery",
-      "steps",
-      "galo"
+      "steps"
     ],
     "list_album": [
       {

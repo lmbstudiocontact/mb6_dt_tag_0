@@ -38,15 +38,12 @@
       "steps",
       "donotdisturb",
       "animation",
-      "rainbow",
-      "amoled",
       "bluetooth",
       "weather",
       "temperature",
       "animated",
       "lock",
       "pai",
-      "dijkmeneer",
       "status"
     ],
     "list_album": [
@@ -66,30 +63,21 @@
     "array_tags": [
       "date",
       "distance",
-      "oled",
-      "battery",
-      "qled",
-      "miles",
-      "amoled",
-      "temperature",
-      "pai",
-      "lock",
-      "dnd",
-      "mi",
-      "km",
-      "blocks",
       "heartrate",
       "calories",
+      "battery",
       "steps",
       "animation",
       "donotdisturb",
       "kcal",
       "bluetooth",
+      "temperature",
       "pulse",
-      "kilometer",
+      "pai",
       "animated",
+      "lock",
       "time",
-      "dijkmeneer"
+      "dnd"
     ],
     "list_album": [
       {
@@ -110,7 +98,6 @@
       "date",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "animation",
@@ -138,11 +125,8 @@
     "array_tags": [
       "digital",
       "date",
-      "calendar",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -170,7 +154,6 @@
       "date",
       "bluetooth",
       "distance",
-      "blocks",
       "health",
       "time",
       "calories",
@@ -220,17 +203,16 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "distance",
-      "calories",
-      "battery",
-      "steps",
-      "donotdisturb",
       "bluetooth",
+      "distance",
       "weather",
       "pulse",
       "lock",
       "time",
-      "temperatur"
+      "calories",
+      "battery",
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -303,16 +285,15 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
-      "calories",
-      "battery",
-      "steps",
-      "donotdisturb",
       "bluetooth",
       "watch",
       "alarm",
       "pulse",
-      "day"
+      "calories",
+      "battery",
+      "day",
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -330,12 +311,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "calendar",
       "date",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -362,7 +340,6 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
       "weekday",
       "calories",
       "battery",
@@ -403,8 +380,7 @@
       "bluetooth",
       "weather",
       "alarm",
-      "lock",
-      "temperatur"
+      "lock"
     ],
     "list_album": [
       {
@@ -427,7 +403,6 @@
       "calories",
       "battery",
       "steps",
-      "classy",
       "donotdisturb",
       "month",
       "bluetooth",
@@ -452,17 +427,15 @@
     "array_tags": [
       "date",
       "distance",
+      "month",
+      "bluetooth",
       "heartrate",
+      "lock",
       "calories",
       "battery",
       "steps",
-      "classy",
-      "donotdisturb",
-      "month",
-      "bluetooth",
-      "lock",
       "day",
-      "colorful"
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -486,7 +459,6 @@
       "calories",
       "battery",
       "steps",
-      "classy",
       "donotdisturb",
       "month",
       "bluetooth",
@@ -537,7 +509,6 @@
     "array_tags": [
       "digital",
       "date",
-      "orange",
       "red",
       "bluetooth",
       "heartrate",
@@ -632,12 +603,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "calendar",
       "date",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -666,7 +634,6 @@
       "date",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "animation",
@@ -720,7 +687,6 @@
     "array_tags": [
       "bluetooth",
       "heartrate",
-      "percentage",
       "weather",
       "lock",
       "calories",

@@ -57,7 +57,6 @@
       "distance",
       "weather",
       "pulse",
-      "heyplus",
       "simple",
       "calories",
       "steps"
@@ -166,33 +165,19 @@
     "id_bin": "580",
     "list_language": [],
     "array_tags": [
+      "digital",
       "date",
-      "escuro",
       "game",
+      "heartrate",
       "weekday",
       "brasil",
       "battery",
+      "steps",
       "space",
-      "crewmate",
-      "computer",
-      "amongus",
-      "videogame",
+      "month",
       "games",
       "dark",
-      "jogo",
-      "day",
-      "popular",
-      "us",
-      "digital",
-      "gaming",
-      "heartrate",
-      "stars",
-      "steps",
-      "estrelas",
-      "impostor",
-      "month",
-      "among",
-      "cian"
+      "day"
     ],
     "list_album": [
       {
@@ -214,12 +199,9 @@
       "english",
       "weather",
       "pulse",
-      "humidity",
       "italian",
       "calories",
-      "polish",
-      "steps",
-      "french"
+      "steps"
     ],
     "list_album": [
       {
@@ -331,22 +313,14 @@
       "date",
       "digital",
       "soccer",
-      "euro",
-      "champions",
+      "blue",
+      "month",
       "heartrate",
       "weekday",
-      "football",
       "futebol",
       "battery",
       "steps",
-      "futbol",
-      "blue",
-      "month",
-      "franca",
-      "france",
-      "europe",
-      "day",
-      "cup"
+      "day"
     ],
     "list_album": [
       {
@@ -364,8 +338,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "date",
-      "miui"
+      "date"
     ],
     "list_album": [
       {
@@ -405,7 +378,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "doom",
       "animated"
     ],
     "list_album": [
@@ -490,17 +462,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "mitu",
-      "floors",
-      "micomunity",
-      "weather",
-      "alarm"
+      "sun"
     ],
     "list_album": [
       {
@@ -518,7 +488,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "amoled",
       "weather",
       "pulse",
       "calories",
@@ -543,14 +512,11 @@
       "digital",
       "date",
       "analog",
-      "iwatch",
       "distance",
       "heartrate",
       "calories",
       "battery",
-      "ios",
-      "watchos",
-      "circlebars"
+      "watchos"
     ],
     "list_album": [
       {
@@ -744,8 +710,7 @@
       "heartrate",
       "weather",
       "battery",
-      "steps",
-      "furry"
+      "steps"
     ],
     "list_album": [
       {
@@ -768,8 +733,7 @@
       "weather",
       "english",
       "battery",
-      "steps",
-      "furry"
+      "steps"
     ],
     "list_album": [
       {
@@ -788,8 +752,6 @@
     "array_tags": [
       "date",
       "digital",
-      "deep",
-      "throutle",
       "heartrate",
       "weather",
       "battery",
@@ -814,7 +776,6 @@
       "date",
       "heartrate",
       "weather",
-      "casio",
       "battery",
       "steps"
     ],
@@ -834,7 +795,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "levi",
       "anime"
     ],
     "list_album": [
@@ -876,15 +836,14 @@
       "digital",
       "date",
       "game",
-      "temp",
       "pokemon",
       "heartrate",
-      "battery",
-      "steps",
       "games",
       "temperature",
       "weather",
-      "day"
+      "battery",
+      "day",
+      "steps"
     ],
     "list_album": [
       {
@@ -926,7 +885,6 @@
       "distance",
       "weather",
       "pulse",
-      "magnim",
       "calories",
       "steps",
       "colors"
@@ -947,10 +905,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "mcfly",
-      "nixie",
-      "ita",
-      "steinsgate",
       "italian",
       "time"
     ],
@@ -1034,9 +988,7 @@
       "black",
       "basic",
       "battery",
-      "portugues",
-      "day",
-      "grey"
+      "day"
     ],
     "list_album": [
       {
@@ -1114,9 +1066,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "amoled",
       "distance",
-      "pluse",
       "weather",
       "calories",
       "steps"
@@ -1137,7 +1087,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "amoled",
       "distance",
       "weather",
       "pulse",

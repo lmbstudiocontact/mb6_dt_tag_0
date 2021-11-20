@@ -9,22 +9,14 @@
       "date",
       "digital",
       "soccer",
-      "euro",
-      "champions",
+      "blue",
+      "month",
       "heartrate",
       "weekday",
-      "football",
       "futebol",
       "battery",
       "steps",
-      "futbol",
-      "blue",
-      "month",
-      "franca",
-      "france",
-      "europe",
-      "day",
-      "cup"
+      "day"
     ],
     "list_album": [
       {
@@ -130,17 +122,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "mitu",
-      "floors",
-      "micomunity",
-      "weather",
-      "alarm"
+      "sun"
     ],
     "list_album": [
       {
@@ -160,14 +150,11 @@
       "digital",
       "date",
       "analog",
-      "iwatch",
       "distance",
       "heartrate",
       "calories",
       "battery",
-      "ios",
-      "watchos",
-      "circlebars"
+      "watchos"
     ],
     "list_album": [
       {
@@ -210,7 +197,6 @@
       "weather",
       "weekday",
       "pai",
-      "humidity",
       "time",
       "calories",
       "battery",
@@ -366,8 +352,7 @@
       "heartrate",
       "weather",
       "battery",
-      "steps",
-      "furry"
+      "steps"
     ],
     "list_album": [
       {
@@ -390,8 +375,7 @@
       "weather",
       "english",
       "battery",
-      "steps",
-      "furry"
+      "steps"
     ],
     "list_album": [
       {
@@ -410,8 +394,6 @@
     "array_tags": [
       "date",
       "digital",
-      "deep",
-      "throutle",
       "heartrate",
       "weather",
       "battery",
@@ -436,7 +418,6 @@
       "date",
       "heartrate",
       "weather",
-      "casio",
       "battery",
       "steps"
     ],
@@ -479,15 +460,14 @@
       "digital",
       "date",
       "game",
-      "temp",
       "pokemon",
       "heartrate",
-      "battery",
-      "steps",
       "games",
       "temperature",
       "weather",
-      "day"
+      "battery",
+      "day",
+      "steps"
     ],
     "list_album": [
       {
@@ -571,9 +551,7 @@
       "black",
       "basic",
       "battery",
-      "portugues",
-      "day",
-      "grey"
+      "day"
     ],
     "list_album": [
       {
@@ -651,7 +629,6 @@
       "digital",
       "date",
       "heartrate",
-      "bracelet",
       "battery",
       "steps"
     ],
@@ -672,7 +649,6 @@
     "array_tags": [
       "digital",
       "analog",
-      "google",
       "battery"
     ],
     "list_album": [
@@ -690,11 +666,8 @@
     "id_bin": "704",
     "list_language": [],
     "array_tags": [
-      "orange",
       "date",
-      "zenitsu",
       "battery",
-      "agatsuma",
       "steps",
       "anime"
     ],
@@ -798,7 +771,6 @@
     "id_bin": "719",
     "list_language": [],
     "array_tags": [
-      "week",
       "white",
       "distance",
       "black",
@@ -847,7 +819,6 @@
     "array_tags": [
       "red",
       "date",
-      "rose",
       "battery",
       "steps",
       "anime"
@@ -869,13 +840,10 @@
     "array_tags": [
       "digital",
       "date",
-      "br",
-      "pt",
       "heartrate",
       "weather",
       "brasil",
       "battery",
-      "portugues",
       "steps"
     ],
     "list_album": [
@@ -894,9 +862,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "persona",
       "distance",
-      "videogame",
       "heartrate",
       "animated",
       "battery"
@@ -981,7 +947,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -989,7 +954,6 @@
       "analog",
       "bluetooth",
       "weather",
-      "humidity",
       "lock",
       "dnd"
     ],

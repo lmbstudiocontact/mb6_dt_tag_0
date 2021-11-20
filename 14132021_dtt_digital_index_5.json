@@ -221,11 +221,8 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "fallout",
-      "ita",
       "italian",
-      "steps",
-      "pipboy"
+      "steps"
     ],
     "list_album": [
       {
@@ -333,18 +330,14 @@
     "array_tags": [
       "digital",
       "distance",
-      "heartrate",
-      "weekday",
-      "calories",
-      "battery",
-      "highlights",
       "month",
-      "sidebar",
+      "heartrate",
       "weather",
+      "weekday",
       "pulse",
       "pai",
-      "polish",
-      "colorful"
+      "calories",
+      "battery"
     ],
     "list_album": [
       {
@@ -363,18 +356,14 @@
     "array_tags": [
       "digital",
       "distance",
-      "advanced",
       "heartrate",
       "steps",
-      "highlights",
       "month",
       "bluetooth",
-      "sidebar",
       "english",
       "weather",
       "pulse",
       "pai",
-      "illuminated",
       "dnd",
       "day"
     ],
@@ -662,15 +651,11 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "gray",
       "green",
-      "idr",
       "heartrate",
       "calories",
       "battery",
-      "dance",
-      "steps",
-      "graffitti"
+      "steps"
     ],
     "list_album": [
       {
@@ -689,16 +674,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "health",
       "calories",
       "battery",
-      "steps",
-      "floors",
-      "weather",
-      "alarm",
-      "french"
+      "steps"
     ],
     "list_album": [
       {
@@ -717,11 +701,7 @@
     "array_tags": [
       "digital",
       "soccer",
-      "inter",
-      "reds",
-      "futebol",
-      "colorado",
-      "internacional"
+      "futebol"
     ],
     "list_album": [
       {
@@ -760,19 +740,7 @@
     "array_tags": [
       "digital",
       "soccer",
-      "pink",
-      "sports",
-      "inter",
-      "adidas",
-      "futebol",
-      "colorado",
-      "internacional",
-      "impacto",
-      "impactopdesign",
-      "rose",
-      "rosa",
-      "colorada",
-      "gaucho"
+      "futebol"
     ],
     "list_album": [
       {
@@ -791,7 +759,6 @@
     "array_tags": [
       "digital",
       "distance",
-      "digimon",
       "steps"
     ],
     "list_album": [
@@ -928,10 +895,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "gripka",
-      "brasil",
-      "portugues",
-      "mediatouch"
+      "brasil"
     ],
     "list_album": [
       {
@@ -974,7 +938,6 @@
       "weather",
       "pulse",
       "italian",
-      "turquoise",
       "steps"
     ],
     "list_album": [
@@ -1015,9 +978,7 @@
     "id_bin": "447",
     "list_language": [],
     "array_tags": [
-      "digital",
-      "mountain",
-      "cat"
+      "digital"
     ],
     "list_album": [
       {
@@ -1122,11 +1083,8 @@
     "array_tags": [
       "digital",
       "soccer",
-      "mengo",
-      "sports",
       "brasil",
-      "futebol",
-      "flamengo"
+      "futebol"
     ],
     "list_album": [
       {

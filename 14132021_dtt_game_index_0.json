@@ -13,7 +13,6 @@
       "heartrate",
       "calories",
       "battery",
-      "pacman",
       "steps",
       "floors",
       "bluetooth",
@@ -43,7 +42,6 @@
       "calories",
       "battery",
       "steps",
-      "tetris",
       "floors",
       "bluetooth",
       "weather",
@@ -66,7 +64,6 @@
     "array_tags": [
       "red",
       "game",
-      "doom",
       "games"
     ],
     "list_album": [
@@ -85,12 +82,9 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "evelynn",
       "games",
-      "lol",
       "english",
       "animated",
-      "animes",
       "anime",
       "animation"
     ],
@@ -110,11 +104,9 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "jujutsu",
       "english",
       "games",
       "animated",
-      "animes",
       "anime",
       "animation"
     ],
@@ -135,7 +127,6 @@
     "array_tags": [
       "digital",
       "date",
-      "bubblebobble",
       "game",
       "floors",
       "distance",
@@ -161,24 +152,16 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "km",
       "game",
-      "doomslayer",
-      "doom",
-      "calorias",
       "brasil",
       "calories",
       "battery",
       "steps",
       "red",
       "month",
-      "quilometro",
       "pulse",
-      "kilometer",
       "games",
       "pai",
-      "portugues",
-      "jogo",
       "day",
       "status"
     ],
@@ -200,11 +183,9 @@
       "digital",
       "game",
       "blue",
-      "rabbit",
       "games",
       "animated",
       "simple",
-      "girl",
       "steps",
       "anime",
       "animation"
@@ -224,20 +205,15 @@
     "id_bin": "1277",
     "list_language": [],
     "array_tags": [
+      "naruto",
       "digital",
       "game",
-      "cyberpunk",
       "black",
-      "animation",
-      "apex",
-      "naruto",
-      "japanese",
       "english",
       "games",
       "animated",
-      "animes",
-      "colorful",
-      "anime"
+      "anime",
+      "animation"
     ],
     "list_album": [
       {
@@ -297,7 +273,6 @@
       "date",
       "game",
       "heartrate",
-      "doom",
       "games",
       "battery",
       "steps"
@@ -317,33 +292,19 @@
     "id_bin": "580",
     "list_language": [],
     "array_tags": [
+      "digital",
       "date",
-      "escuro",
       "game",
+      "heartrate",
       "weekday",
       "brasil",
       "battery",
+      "steps",
       "space",
-      "crewmate",
-      "computer",
-      "amongus",
-      "videogame",
+      "month",
       "games",
       "dark",
-      "jogo",
-      "day",
-      "popular",
-      "us",
-      "digital",
-      "gaming",
-      "heartrate",
-      "stars",
-      "steps",
-      "estrelas",
-      "impostor",
-      "month",
-      "among",
-      "cian"
+      "day"
     ],
     "list_album": [
       {
@@ -361,7 +322,6 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "pubg",
       "animation"
     ],
     "list_album": [
@@ -382,15 +342,14 @@
       "digital",
       "date",
       "game",
-      "temp",
       "pokemon",
       "heartrate",
-      "battery",
-      "steps",
       "games",
       "temperature",
       "weather",
-      "day"
+      "battery",
+      "day",
+      "steps"
     ],
     "list_album": [
       {
@@ -429,11 +388,6 @@
       "date",
       "digital",
       "game",
-      "isaac",
-      "roguelike",
-      "percentage",
-      "binding",
-      "pixel",
       "steps"
     ],
     "list_album": [
@@ -451,10 +405,7 @@
     "id_bin": "1924",
     "list_language": [],
     "array_tags": [
-      "game",
-      "nintendo",
-      "link",
-      "zelda"
+      "game"
     ],
     "list_album": [
       {
@@ -471,10 +422,7 @@
     "id_bin": "1925",
     "list_language": [],
     "array_tags": [
-      "game",
-      "nintendo",
-      "link",
-      "zelda"
+      "game"
     ],
     "list_album": [
       {
@@ -491,10 +439,7 @@
     "id_bin": "1926",
     "list_language": [],
     "array_tags": [
-      "game",
-      "nintendo",
-      "zelda",
-      "link"
+      "game"
     ],
     "list_album": [
       {
@@ -512,7 +457,6 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "ken",
       "anime"
     ],
     "list_album": [
@@ -531,8 +475,7 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "anime",
-      "ryu"
+      "anime"
     ],
     "list_album": [
       {
@@ -549,7 +492,6 @@
     "id_bin": "2063",
     "list_language": [],
     "array_tags": [
-      "geralt",
       "game"
     ],
     "list_album": [
@@ -567,8 +509,7 @@
     "id_bin": "2078",
     "list_language": [],
     "array_tags": [
-      "game",
-      "warhammer"
+      "game"
     ],
     "list_album": [
       {
@@ -607,17 +548,9 @@
     "array_tags": [
       "digital",
       "date",
-      "san",
-      "auto",
       "game",
-      "cj",
-      "grand",
-      "theft",
       "battery",
-      "steps",
-      "andreas",
-      "gta",
-      "hud"
+      "steps"
     ],
     "list_album": [
       {
@@ -686,16 +619,12 @@
     "array_tags": [
       "digital",
       "date",
-      "vice",
       "game",
       "distance",
-      "city",
       "heartrate",
+      "weather",
       "battery",
-      "steps",
-      "gta",
-      "hud",
-      "weather"
+      "steps"
     ],
     "list_album": [
       {

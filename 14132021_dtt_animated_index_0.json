@@ -14,15 +14,12 @@
       "steps",
       "donotdisturb",
       "animation",
-      "rainbow",
-      "amoled",
       "bluetooth",
       "weather",
       "temperature",
       "animated",
       "lock",
       "pai",
-      "dijkmeneer",
       "status"
     ],
     "list_album": [
@@ -41,12 +38,9 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "evelynn",
       "games",
-      "lol",
       "english",
       "animated",
-      "animes",
       "anime",
       "animation"
     ],
@@ -67,30 +61,21 @@
     "array_tags": [
       "date",
       "distance",
-      "oled",
-      "battery",
-      "qled",
-      "miles",
-      "amoled",
-      "temperature",
-      "pai",
-      "lock",
-      "dnd",
-      "mi",
-      "km",
-      "blocks",
       "heartrate",
       "calories",
+      "battery",
       "steps",
       "animation",
       "donotdisturb",
       "kcal",
       "bluetooth",
+      "temperature",
       "pulse",
-      "kilometer",
+      "pai",
       "animated",
+      "lock",
       "time",
-      "dijkmeneer"
+      "dnd"
     ],
     "list_album": [
       {
@@ -108,11 +93,9 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "jujutsu",
       "english",
       "games",
       "animated",
-      "animes",
       "anime",
       "animation"
     ],
@@ -132,14 +115,10 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "nike",
       "animated",
       "simple",
-      "animes",
-      "girl",
       "anime",
-      "animation",
-      "simples"
+      "animation"
     ],
     "list_album": [
       {
@@ -159,11 +138,9 @@
       "digital",
       "game",
       "blue",
-      "rabbit",
       "games",
       "animated",
       "simple",
-      "girl",
       "steps",
       "anime",
       "animation"
@@ -183,20 +160,15 @@
     "id_bin": "1277",
     "list_language": [],
     "array_tags": [
+      "naruto",
       "digital",
       "game",
-      "cyberpunk",
       "black",
-      "animation",
-      "apex",
-      "naruto",
-      "japanese",
       "english",
       "games",
       "animated",
-      "animes",
-      "colorful",
-      "anime"
+      "anime",
+      "animation"
     ],
     "list_album": [
       {
@@ -214,7 +186,6 @@
     "list_language": [],
     "array_tags": [
       "animated",
-      "animes",
       "anime",
       "animation"
     ],
@@ -234,8 +205,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "light",
-      "komisan",
       "animated",
       "time",
       "battery",
@@ -263,7 +232,6 @@
       "weekday",
       "animated",
       "calories",
-      "portugues",
       "steps",
       "animation"
     ],
@@ -284,13 +252,10 @@
     "array_tags": [
       "date",
       "digital",
-      "gif",
-      "metal",
       "animated",
       "pai",
       "battery",
-      "steps",
-      "gear"
+      "steps"
     ],
     "list_album": [
       {
@@ -310,7 +275,6 @@
       "red",
       "digital",
       "minimal",
-      "deadmaus",
       "black",
       "animated",
       "simple",
@@ -337,11 +301,9 @@
       "alarm",
       "animated",
       "health",
-      "steinsgate",
       "battery",
       "steps",
-      "anime",
-      "temperatur"
+      "anime"
     ],
     "list_album": [
       {
@@ -359,9 +321,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "trollface",
       "pulse",
-      "troll",
       "animated",
       "time",
       "steps"
@@ -383,19 +343,14 @@
     "array_tags": [
       "digital",
       "date",
-      "porsche",
-      "wheels",
-      "underglow",
-      "heartrate",
-      "battery",
-      "steps",
-      "animation",
-      "cars",
       "bluetooth",
+      "heartrate",
       "pulse",
       "animated",
-      "purple",
-      "status"
+      "battery",
+      "steps",
+      "status",
+      "animation"
     ],
     "list_album": [
       {
@@ -414,10 +369,7 @@
     "array_tags": [
       "digital",
       "soccer",
-      "ceni",
-      "libertadores",
       "animated",
-      "tricolor",
       "futebol",
       "animation"
     ],
@@ -462,7 +414,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "doom",
       "animated"
     ],
     "list_album": [
@@ -503,9 +454,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "persona",
       "distance",
-      "videogame",
       "heartrate",
       "animated",
       "battery"
@@ -527,7 +476,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -575,7 +523,6 @@
     "array_tags": [
       "heartrate",
       "animated",
-      "power",
       "anime",
       "animation"
     ],
@@ -616,12 +563,9 @@
     "id_bin": "2102",
     "list_language": [],
     "array_tags": [
-      "movies",
       "analog",
-      "geek",
       "serie",
       "animated",
-      "lcar",
       "animation"
     ],
     "list_album": [
@@ -722,7 +666,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "luffy",
       "animated",
       "onepiece",
       "steps",
@@ -745,7 +688,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "luffy",
       "animated",
       "onepiece",
       "steps",
@@ -770,7 +712,6 @@
       "digital",
       "date",
       "analog",
-      "disney",
       "heartrate",
       "animated",
       "battery",
@@ -792,9 +733,7 @@
     "id_bin": "960",
     "list_language": [],
     "array_tags": [
-      "yellow",
       "animated",
-      "minimalist",
       "anime",
       "animation"
     ],

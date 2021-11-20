@@ -8,17 +8,15 @@
     "array_tags": [
       "date",
       "digital",
+      "blue",
       "distance",
-      "ampm",
       "heartrate",
-      "squares",
+      "weather",
       "weekday",
       "calories",
       "battery",
       "steps",
-      "animation",
-      "blue",
-      "weather"
+      "animation"
     ],
     "list_album": [
       {
@@ -229,7 +227,6 @@
       "date",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "animation",
@@ -257,11 +254,8 @@
     "array_tags": [
       "digital",
       "date",
-      "calendar",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -343,7 +337,6 @@
       "dragonball",
       "goku",
       "bluetooth",
-      "night",
       "weekday",
       "lock",
       "battery",
@@ -464,19 +457,13 @@
     "array_tags": [
       "digital",
       "date",
-      "pink",
-      "brazil",
       "black",
+      "pulse",
       "weekday",
       "brasil",
       "calories",
-      "girl",
       "battery",
-      "steps",
-      "simples",
-      "crush",
-      "pulse",
-      "portugues"
+      "steps"
     ],
     "list_album": [
       {
@@ -498,7 +485,6 @@
       "weekday",
       "animated",
       "calories",
-      "portugues",
       "steps",
       "animation"
     ],
@@ -591,8 +577,7 @@
       "digital",
       "date",
       "weather",
-      "weekday",
-      "temperatur"
+      "weekday"
     ],
     "list_album": [
       {
@@ -695,7 +680,6 @@
       "weather",
       "temperature",
       "weekday",
-      "humidity",
       "calories",
       "battery",
       "steps"
@@ -716,12 +700,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "calendar",
       "date",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -748,7 +729,6 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
       "weekday",
       "calories",
       "battery",
@@ -822,10 +802,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pilsen",
       "weather",
-      "weekday",
-      "czech"
+      "weekday"
     ],
     "list_album": [
       {
@@ -918,8 +896,7 @@
       "bluetooth",
       "weather",
       "alarm",
-      "lock",
-      "temperatur"
+      "lock"
     ],
     "list_album": [
       {
@@ -983,7 +960,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digitalky",
       "weather",
       "weekday",
       "alarm",
@@ -1015,9 +991,7 @@
       "weekday",
       "time",
       "battery",
-      "am",
-      "steps",
-      "pm"
+      "steps"
     ],
     "list_album": [
       {
@@ -1037,7 +1011,6 @@
       "date",
       "weekday",
       "weather",
-      "bender",
       "battery",
       "animation"
     ],
@@ -1081,12 +1054,8 @@
     "array_tags": [
       "digital",
       "date",
-      "hours",
-      "digitalky",
       "weekday",
-      "epic",
-      "battery",
-      "czech"
+      "battery"
     ],
     "list_album": [
       {
@@ -1105,11 +1074,8 @@
     "array_tags": [
       "digital",
       "date",
-      "hours",
-      "digitalky",
       "weather",
       "weekday",
-      "epic",
       "battery"
     ],
     "list_album": [
@@ -1128,17 +1094,15 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "blocks",
-      "black",
-      "weekday",
-      "battery",
-      "steps",
       "bluetooth",
       "month",
+      "black",
       "english",
+      "weekday",
       "temperature",
       "pulse",
-      "minimalist"
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -1156,12 +1120,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "hours",
       "bluetooth",
       "weather",
       "weekday",
-      "battery",
-      "perun"
+      "battery"
     ],
     "list_album": [
       {
@@ -1200,17 +1162,16 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "nike",
-      "heartrate",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "apple",
       "bluetooth",
+      "heartrate",
+      "weekday",
       "weather",
       "lock",
-      "dnd"
+      "calories",
+      "dnd",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -1229,18 +1190,14 @@
     "array_tags": [
       "digital",
       "distance",
-      "heartrate",
-      "weekday",
-      "calories",
-      "battery",
-      "highlights",
       "month",
-      "sidebar",
+      "heartrate",
       "weather",
+      "weekday",
       "pulse",
       "pai",
-      "polish",
-      "colorful"
+      "calories",
+      "battery"
     ],
     "list_album": [
       {

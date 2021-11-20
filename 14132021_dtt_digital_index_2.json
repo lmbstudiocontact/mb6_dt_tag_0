@@ -67,19 +67,13 @@
     "array_tags": [
       "digital",
       "date",
-      "pink",
-      "brazil",
       "black",
+      "pulse",
       "weekday",
       "brasil",
       "calories",
-      "girl",
       "battery",
-      "steps",
-      "simples",
-      "crush",
-      "pulse",
-      "portugues"
+      "steps"
     ],
     "list_album": [
       {
@@ -101,7 +95,6 @@
       "weekday",
       "animated",
       "calories",
-      "portugues",
       "steps",
       "animation"
     ],
@@ -240,8 +233,7 @@
       "analog",
       "pulse",
       "retro",
-      "steps",
-      "colorful"
+      "steps"
     ],
     "list_album": [
       {
@@ -471,13 +463,10 @@
     "array_tags": [
       "date",
       "digital",
-      "gif",
-      "metal",
       "animated",
       "pai",
       "battery",
-      "steps",
-      "gear"
+      "steps"
     ],
     "list_album": [
       {
@@ -498,7 +487,6 @@
       "date",
       "bluetooth",
       "pai",
-      "days",
       "battery",
       "steps"
     ],
@@ -541,8 +529,7 @@
       "digital",
       "date",
       "weather",
-      "weekday",
-      "temperatur"
+      "weekday"
     ],
     "list_album": [
       {
@@ -559,10 +546,8 @@
     "id_bin": "1402",
     "list_language": [],
     "array_tags": [
-      "nokia",
       "digital",
       "date",
-      "digitalky",
       "battery"
     ],
     "list_album": [
@@ -732,7 +717,6 @@
       "weather",
       "temperature",
       "weekday",
-      "humidity",
       "calories",
       "battery",
       "steps"
@@ -758,7 +742,6 @@
       "heartrate",
       "weather",
       "temperature",
-      "humidity",
       "calories",
       "battery",
       "steps"
@@ -822,12 +805,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "calendar",
       "date",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -945,7 +925,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",
@@ -1038,7 +1017,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "ultrainstint",
       "goku",
       "retro"
     ],
@@ -1059,7 +1037,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "simple",
@@ -1107,7 +1084,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",

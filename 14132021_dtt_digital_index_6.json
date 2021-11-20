@@ -8,7 +8,6 @@
     "array_tags": [
       "digital",
       "date",
-      "orange",
       "red",
       "bluetooth",
       "heartrate",
@@ -33,14 +32,11 @@
     "array_tags": [
       "digital",
       "distance",
-      "gradient",
       "pulse",
       "weather",
       "pai",
-      "humidity",
       "calories",
-      "steps",
-      "mediatouch"
+      "steps"
     ],
     "list_album": [
       {
@@ -79,12 +75,7 @@
     "array_tags": [
       "digital",
       "soccer",
-      "morumbi",
-      "adidas",
-      "tricolor",
-      "brasil",
-      "football",
-      "spfc"
+      "brasil"
     ],
     "list_album": [
       {
@@ -103,9 +94,7 @@
     "array_tags": [
       "digital",
       "soccer",
-      "futebol",
-      "rosa",
-      "spfc"
+      "futebol"
     ],
     "list_album": [
       {
@@ -124,10 +113,7 @@
     "array_tags": [
       "digital",
       "soccer",
-      "mengo",
-      "futebol",
-      "flamengo",
-      "rosa"
+      "futebol"
     ],
     "list_album": [
       {
@@ -212,10 +198,7 @@
     "array_tags": [
       "digital",
       "soccer",
-      "ceni",
-      "libertadores",
       "animated",
-      "tricolor",
       "futebol",
       "animation"
     ],
@@ -357,7 +340,6 @@
       "steps",
       "sun",
       "floors",
-      "deutsch",
       "weather",
       "alarm",
       "pai"
@@ -625,7 +607,6 @@
       "minimal",
       "heartrate",
       "weather",
-      "aion",
       "calories",
       "battery",
       "day",
@@ -669,7 +650,6 @@
       "distance",
       "weather",
       "pulse",
-      "humidity",
       "calories",
       "steps"
     ],
@@ -868,28 +848,15 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "vermelho",
-      "week",
-      "brasileiro",
-      "gol",
+      "red",
+      "month",
       "heartrate",
-      "brasileirao",
       "weekday",
       "brasil",
-      "battery",
-      "flamengo",
-      "steps",
-      "red",
-      "campeao",
-      "month",
-      "octacampeao",
-      "rj",
-      "gerson",
-      "fla",
       "time",
-      "gabigol",
-      "day",
-      "carioca"
+      "battery",
+      "steps",
+      "day"
     ],
     "list_album": [
       {
@@ -907,7 +874,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "temp",
       "distance",
       "pulse",
       "weather",
@@ -996,17 +962,15 @@
     "array_tags": [
       "digital",
       "date",
-      "distance",
-      "heartrate",
-      "retro",
-      "battery",
-      "steps",
-      "sythnwave",
       "analog",
       "seconds",
       "floors",
+      "distance",
+      "heartrate",
+      "retro",
       "weather",
-      "rubnlee"
+      "battery",
+      "steps"
     ],
     "list_album": [
       {

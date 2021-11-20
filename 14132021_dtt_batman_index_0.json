@@ -30,9 +30,7 @@
     "id_bin": "159",
     "list_language": [],
     "array_tags": [
-      "superman",
-      "batman",
-      "fight"
+      "batman"
     ],
     "list_album": [
       {
@@ -49,8 +47,6 @@
     "id_bin": "160",
     "list_language": [],
     "array_tags": [
-      "fusion",
-      "superman",
       "batman"
     ],
     "list_album": [
@@ -69,9 +65,6 @@
     "list_language": [],
     "array_tags": [
       "marvel",
-      "comics",
-      "superman",
-      "spiderman",
       "batman",
       "animation"
     ],
@@ -150,7 +143,6 @@
       "heartrate",
       "serie",
       "games",
-      "batgirl",
       "batman",
       "steps"
     ],
@@ -238,7 +230,6 @@
       "heartrate",
       "games",
       "serie",
-      "joker",
       "batman",
       "steps"
     ],
@@ -257,7 +248,6 @@
     "id_bin": "2258",
     "list_language": [],
     "array_tags": [
-      "nightwing",
       "cartoon",
       "heartrate",
       "serie",

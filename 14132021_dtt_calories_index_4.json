@@ -8,16 +8,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "bretagne"
+      "sun"
     ],
     "list_album": [
       {
@@ -36,16 +34,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "corse"
+      "sun"
     ],
     "list_album": [
       {
@@ -86,14 +82,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "chomusuke",
       "heartrate",
-      "cat",
-      "step",
       "calories",
-      "battery",
-      "konosuba",
-      "rpm"
+      "battery"
     ],
     "list_album": [
       {
@@ -142,7 +133,6 @@
       "distance",
       "notdisturb",
       "heartrate",
-      "stars",
       "calories",
       "kcal",
       "bluetooth",
@@ -330,19 +320,14 @@
       "digital",
       "distance",
       "weekday",
-      "uvi",
-      "epic",
       "calories",
       "battery",
       "steps",
       "weather",
       "alarm",
       "pulse",
-      "humidity",
       "pai",
       "time",
-      "czech",
-      "wind",
       "status"
     ],
     "list_album": [
@@ -361,16 +346,15 @@
     "list_language": [],
     "array_tags": [
       "distance",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "weather",
       "alarm",
+      "weekday",
       "pulse",
       "pai",
       "time",
-      "czech",
+      "calories",
+      "battery",
+      "steps",
       "status"
     ],
     "list_album": [
@@ -444,7 +428,6 @@
       "digital",
       "distance",
       "weekday",
-      "digi",
       "calories",
       "battery",
       "steps",
@@ -472,7 +455,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digi",
       "weekday",
       "calories",
       "battery",
@@ -484,7 +466,6 @@
       "alarm",
       "pai",
       "time",
-      "czech",
       "status"
     ],
     "list_album": [
@@ -503,7 +484,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "activity",
       "distance",
       "weekday",
       "calories",
@@ -690,11 +670,9 @@
       "distance",
       "heartrate",
       "weather",
-      "slovak",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -716,11 +694,9 @@
       "distance",
       "heartrate",
       "weather",
-      "slovak",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -744,7 +720,6 @@
       "calories",
       "battery",
       "steps",
-      "look",
       "floors",
       "bluetooth",
       "weather",
@@ -768,16 +743,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
+      "bluetooth",
       "heartrate",
+      "weather",
+      "alarm",
       "calories",
       "battery",
-      "steps",
-      "look",
-      "floors",
-      "bluetooth",
-      "weather",
-      "alarm"
+      "steps"
     ],
     "list_album": [
       {
@@ -828,7 +802,6 @@
       "steps",
       "floors",
       "bluetooth",
-      "nd",
       "weather",
       "alarm",
       "lock"
@@ -879,8 +852,7 @@
       "weather",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -928,18 +900,15 @@
       "digital",
       "date",
       "weekday",
-      "clock",
       "calories",
       "battery",
       "steps",
       "colors",
-      "orange",
       "bluetooth",
       "weather",
       "pulse",
       "lock",
-      "dnd",
-      "fashion"
+      "dnd"
     ],
     "list_album": [
       {
@@ -1044,7 +1013,6 @@
       "pulse",
       "weather",
       "weekday",
-      "epic",
       "calories",
       "steps",
       "animation",
@@ -1069,11 +1037,9 @@
       "heartrate",
       "weekday",
       "simple",
-      "clock",
       "calories",
       "battery",
       "steps",
-      "cute",
       "bluetooth",
       "weather",
       "pulse",
@@ -1129,8 +1095,7 @@
       "calories",
       "time",
       "steps",
-      "status",
-      "temperatur"
+      "status"
     ],
     "list_album": [
       {
@@ -1151,13 +1116,10 @@
       "date",
       "distance",
       "heartrate",
-      "nixie",
       "calories",
       "battery",
       "steps",
-      "bt",
       "floors",
-      "nd",
       "weather",
       "alarm",
       "lock",
@@ -1206,7 +1168,6 @@
     "array_tags": [
       "bluetooth",
       "heartrate",
-      "percentage",
       "weather",
       "lock",
       "calories",

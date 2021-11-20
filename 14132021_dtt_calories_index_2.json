@@ -108,8 +108,7 @@
       "bluetooth",
       "weather",
       "alarm",
-      "lock",
-      "temperatur"
+      "lock"
     ],
     "list_album": [
       {
@@ -126,7 +125,6 @@
     "id_bin": "1616",
     "list_language": [],
     "array_tags": [
-      "week",
       "weather",
       "alarm",
       "pai",
@@ -240,7 +238,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digitalky",
       "weather",
       "weekday",
       "alarm",
@@ -391,16 +388,13 @@
       "digital",
       "date",
       "distance",
+      "bluetooth",
       "heartrate",
-      "digi",
+      "weather",
       "italian",
       "calories",
       "battery",
       "steps",
-      "bluetooth",
-      "ita",
-      "weather",
-      "mediatouch",
       "status"
     ],
     "list_album": [
@@ -608,7 +602,6 @@
       "battery",
       "steps",
       "sun",
-      "mitu",
       "seconds",
       "floors",
       "weather",
@@ -681,17 +674,16 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "nike",
-      "heartrate",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "apple",
       "bluetooth",
+      "heartrate",
+      "weekday",
       "weather",
       "lock",
-      "dnd"
+      "calories",
+      "dnd",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -710,12 +702,9 @@
     "array_tags": [
       "digital",
       "date",
-      "megaman",
       "distance",
-      "megaband",
       "calories",
       "battery",
-      "portugues",
       "steps"
     ],
     "list_album": [
@@ -762,7 +751,6 @@
       "calories",
       "battery",
       "steps",
-      "classy",
       "donotdisturb",
       "month",
       "bluetooth",
@@ -787,17 +775,15 @@
     "array_tags": [
       "date",
       "distance",
+      "month",
+      "bluetooth",
       "heartrate",
+      "lock",
       "calories",
       "battery",
       "steps",
-      "classy",
-      "donotdisturb",
-      "month",
-      "bluetooth",
-      "lock",
       "day",
-      "colorful"
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -821,7 +807,6 @@
       "calories",
       "battery",
       "steps",
-      "classy",
       "donotdisturb",
       "month",
       "bluetooth",
@@ -914,10 +899,8 @@
     "id_bin": "376",
     "list_language": [],
     "array_tags": [
-      "gold",
       "distance",
       "heartrate",
-      "honey",
       "dark",
       "calories",
       "battery",
@@ -963,18 +946,14 @@
     "array_tags": [
       "digital",
       "distance",
-      "heartrate",
-      "weekday",
-      "calories",
-      "battery",
-      "highlights",
       "month",
-      "sidebar",
+      "heartrate",
       "weather",
+      "weekday",
       "pulse",
       "pai",
-      "polish",
-      "colorful"
+      "calories",
+      "battery"
     ],
     "list_album": [
       {
@@ -992,14 +971,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "gold",
-      "lava",
       "distance",
       "heartrate",
       "calories",
       "battery",
-      "steps",
-      "hexagons"
+      "steps"
     ],
     "list_album": [
       {
@@ -1093,15 +1069,11 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "gray",
       "green",
-      "idr",
       "heartrate",
       "calories",
       "battery",
-      "dance",
-      "steps",
-      "graffitti"
+      "steps"
     ],
     "list_album": [
       {
@@ -1120,16 +1092,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "health",
       "calories",
       "battery",
-      "steps",
-      "floors",
-      "weather",
-      "alarm",
-      "french"
+      "steps"
     ],
     "list_album": [
       {
@@ -1151,9 +1122,7 @@
       "heartrate",
       "calories",
       "battery",
-      "steps",
-      "hexagons",
-      "font"
+      "steps"
     ],
     "list_album": [
       {

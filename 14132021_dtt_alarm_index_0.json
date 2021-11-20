@@ -7,7 +7,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "completo",
       "heartrate",
       "notdisturb",
       "calories",
@@ -354,11 +353,8 @@
     "array_tags": [
       "digital",
       "date",
-      "calendar",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -761,16 +757,15 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
-      "calories",
-      "battery",
-      "steps",
-      "donotdisturb",
       "bluetooth",
       "watch",
       "alarm",
       "pulse",
-      "day"
+      "calories",
+      "battery",
+      "day",
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -841,12 +836,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "week",
       "weather",
       "alarm",
       "pai",
-      "time",
-      "cal"
+      "time"
     ],
     "list_album": [
       {
@@ -920,12 +913,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "calendar",
       "date",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -980,11 +970,9 @@
       "alarm",
       "animated",
       "health",
-      "steinsgate",
       "battery",
       "steps",
-      "anime",
-      "temperatur"
+      "anime"
     ],
     "list_album": [
       {
@@ -1013,8 +1001,7 @@
       "bluetooth",
       "weather",
       "alarm",
-      "lock",
-      "temperatur"
+      "lock"
     ],
     "list_album": [
       {
@@ -1031,7 +1018,6 @@
     "id_bin": "1616",
     "list_language": [],
     "array_tags": [
-      "week",
       "weather",
       "alarm",
       "pai",
@@ -1054,7 +1040,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digitalky",
       "weather",
       "weekday",
       "alarm",
@@ -1106,8 +1091,7 @@
       "alarm",
       "time",
       "battery",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {
@@ -1132,7 +1116,6 @@
       "battery",
       "steps",
       "sun",
-      "mitu",
       "seconds",
       "floors",
       "weather",
@@ -1153,14 +1136,11 @@
     "id_bin": "297",
     "list_language": [],
     "array_tags": [
-      "big",
-      "visible",
       "white",
       "heartrate",
       "alarm",
       "simple",
       "steps",
-      "grey",
       "status"
     ],
     "list_album": [
@@ -1231,16 +1211,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "health",
       "calories",
       "battery",
-      "steps",
-      "floors",
-      "weather",
-      "alarm",
-      "french"
+      "steps"
     ],
     "list_album": [
       {

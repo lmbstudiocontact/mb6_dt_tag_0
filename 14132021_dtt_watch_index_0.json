@@ -166,16 +166,15 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
-      "calories",
-      "battery",
-      "steps",
-      "donotdisturb",
       "bluetooth",
       "watch",
       "alarm",
       "pulse",
-      "day"
+      "calories",
+      "battery",
+      "day",
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -301,7 +300,6 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
       "weekday",
       "calories",
       "battery",
@@ -354,8 +352,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "watch",
-      "casio"
+      "watch"
     ],
     "list_album": [
       {
@@ -375,7 +372,6 @@
       "apple",
       "green",
       "watch",
-      "yellow",
       "simple",
       "time"
     ],

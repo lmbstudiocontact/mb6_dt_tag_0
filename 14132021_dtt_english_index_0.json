@@ -7,7 +7,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "spanish",
       "distance",
       "heartrate",
       "english",
@@ -34,10 +33,7 @@
     "list_language": [],
     "array_tags": [
       "red",
-      "vermelho",
       "analog",
-      "rainbow",
-      "analogico",
       "english"
     ],
     "list_album": [
@@ -56,12 +52,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "rainbow",
-      "amarelo",
-      "analogico",
-      "yellow",
-      "english",
-      "portugues"
+      "english"
     ],
     "list_album": [
       {
@@ -79,11 +70,8 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "rainbow",
       "green",
-      "analogico",
-      "english",
-      "verde"
+      "english"
     ],
     "list_album": [
       {
@@ -101,8 +89,6 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "rainbow",
-      "analogico",
       "english"
     ],
     "list_album": [
@@ -121,11 +107,8 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "preto",
-      "analogico",
       "black",
-      "english",
-      "portugues"
+      "english"
     ],
     "list_album": [
       {
@@ -143,7 +126,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "wea",
       "distance",
       "pulse",
       "english",
@@ -168,12 +150,9 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "evelynn",
       "games",
-      "lol",
       "english",
       "animated",
-      "animes",
       "anime",
       "animation"
     ],
@@ -193,11 +172,9 @@
     "list_language": [],
     "array_tags": [
       "game",
-      "jujutsu",
       "english",
       "games",
       "animated",
-      "animes",
       "anime",
       "animation"
     ],
@@ -217,15 +194,11 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "japanese",
-      "ekko",
       "games",
       "black",
       "english",
-      "animes",
       "steps",
-      "anime",
-      "colorful"
+      "anime"
     ],
     "list_album": [
       {
@@ -242,20 +215,15 @@
     "id_bin": "1277",
     "list_language": [],
     "array_tags": [
+      "naruto",
       "digital",
       "game",
-      "cyberpunk",
       "black",
-      "animation",
-      "apex",
-      "naruto",
-      "japanese",
       "english",
       "games",
       "animated",
-      "animes",
-      "colorful",
-      "anime"
+      "anime",
+      "animation"
     ],
     "list_album": [
       {
@@ -272,9 +240,7 @@
     "id_bin": "1490",
     "list_language": [],
     "array_tags": [
-      "english",
-      "italiano",
-      "bear"
+      "english"
     ],
     "list_album": [
       {
@@ -315,17 +281,15 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "blocks",
-      "black",
-      "weekday",
-      "battery",
-      "steps",
       "bluetooth",
       "month",
+      "black",
       "english",
+      "weekday",
       "temperature",
       "pulse",
-      "minimalist"
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -347,8 +311,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
-      "alien",
       "watchos"
     ],
     "list_album": [
@@ -370,7 +332,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -413,7 +374,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -435,7 +395,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -456,10 +415,7 @@
       "date",
       "apple",
       "heartrate",
-      "disney",
-      "toystory",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -481,7 +437,6 @@
       "apple",
       "heartrate",
       "english",
-      "woody",
       "watchos"
     ],
     "list_album": [
@@ -500,7 +455,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "newyork",
       "heartrate",
       "english"
     ],
@@ -521,8 +475,7 @@
     "array_tags": [
       "date",
       "heartrate",
-      "english",
-      "purple"
+      "english"
     ],
     "list_album": [
       {
@@ -541,10 +494,8 @@
     "array_tags": [
       "date",
       "apple",
-      "activity",
       "heartrate",
       "english",
-      "ios",
       "steps",
       "watchos"
     ],
@@ -589,18 +540,14 @@
     "array_tags": [
       "digital",
       "distance",
-      "advanced",
       "heartrate",
       "steps",
-      "highlights",
       "month",
       "bluetooth",
-      "sidebar",
       "english",
       "weather",
       "pulse",
       "pai",
-      "illuminated",
       "dnd",
       "day"
     ],
@@ -648,7 +595,6 @@
     "id_bin": "441",
     "list_language": [],
     "array_tags": [
-      "nike",
       "weather",
       "pulse",
       "english",
@@ -671,12 +617,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "orange",
       "apple",
       "heartrate",
       "weather",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -836,12 +780,9 @@
       "english",
       "weather",
       "pulse",
-      "humidity",
       "italian",
       "calories",
-      "polish",
-      "steps",
-      "french"
+      "steps"
     ],
     "list_album": [
       {
@@ -908,8 +849,7 @@
       "weather",
       "english",
       "battery",
-      "steps",
-      "furry"
+      "steps"
     ],
     "list_album": [
       {
@@ -927,10 +867,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "miui",
-      "ita",
       "weekday",
-      "yellow",
       "black",
       "english",
       "italian",
@@ -952,14 +889,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "ita",
       "english",
-      "yellow",
       "black",
       "italian",
       "time",
-      "steps",
-      "pixel"
+      "steps"
     ],
     "list_album": [
       {
@@ -977,15 +911,12 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "chinese",
       "distance",
       "weather",
       "pulse",
       "english",
-      "humidity",
       "italian",
       "calories",
-      "polish",
       "steps"
     ],
     "list_album": [
@@ -1003,21 +934,14 @@
     "id_bin": "790",
     "list_language": [],
     "array_tags": [
-      "passi",
-      "analogico",
+      "analog",
       "heartrate",
+      "english",
       "weekday",
       "italian",
-      "settimana",
       "calories",
       "steps",
-      "analog",
-      "ita",
-      "english",
-      "calorie",
-      "day",
-      "battiti",
-      "giorni"
+      "day"
     ],
     "list_album": [
       {
@@ -1035,7 +959,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "ita",
       "english",
       "pulse",
       "weather",
@@ -1058,10 +981,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "metas",
       "distance",
-      "data",
-      "atstumas",
       "english",
       "time",
       "battery",

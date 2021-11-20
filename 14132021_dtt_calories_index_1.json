@@ -32,15 +32,12 @@
     "id_bin": "1272",
     "list_language": [],
     "array_tags": [
-      "starwars",
       "distance",
       "heartrate",
       "weather",
       "pai",
-      "humidity",
       "calories",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {
@@ -185,7 +182,6 @@
       "date",
       "bluetooth",
       "distance",
-      "blocks",
       "health",
       "time",
       "calories",
@@ -311,17 +307,16 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "distance",
-      "calories",
-      "battery",
-      "steps",
-      "donotdisturb",
       "bluetooth",
+      "distance",
       "weather",
       "pulse",
       "lock",
       "time",
-      "temperatur"
+      "calories",
+      "battery",
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -418,19 +413,13 @@
     "array_tags": [
       "digital",
       "date",
-      "pink",
-      "brazil",
       "black",
+      "pulse",
       "weekday",
       "brasil",
       "calories",
-      "girl",
       "battery",
-      "steps",
-      "simples",
-      "crush",
-      "pulse",
-      "portugues"
+      "steps"
     ],
     "list_album": [
       {
@@ -452,7 +441,6 @@
       "weekday",
       "animated",
       "calories",
-      "portugues",
       "steps",
       "animation"
     ],
@@ -745,16 +733,15 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
-      "calories",
-      "battery",
-      "steps",
-      "donotdisturb",
       "bluetooth",
       "watch",
       "alarm",
       "pulse",
-      "day"
+      "calories",
+      "battery",
+      "day",
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -847,7 +834,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -1030,7 +1016,6 @@
       "weather",
       "temperature",
       "weekday",
-      "humidity",
       "calories",
       "battery",
       "steps"
@@ -1056,7 +1041,6 @@
       "heartrate",
       "weather",
       "temperature",
-      "humidity",
       "calories",
       "battery",
       "steps"
@@ -1135,7 +1119,6 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
       "weekday",
       "calories",
       "battery",

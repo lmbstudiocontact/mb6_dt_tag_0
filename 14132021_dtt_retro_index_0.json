@@ -8,10 +8,7 @@
     "array_tags": [
       "green",
       "blue",
-      "retro",
-      "yellow",
-      "silver",
-      "casio"
+      "retro"
     ],
     "list_album": [
       {
@@ -55,8 +52,7 @@
       "analog",
       "pulse",
       "retro",
-      "steps",
-      "colorful"
+      "steps"
     ],
     "list_album": [
       {
@@ -97,7 +93,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "ultrainstint",
       "goku",
       "retro"
     ],
@@ -117,12 +112,10 @@
     "list_language": [],
     "array_tags": [
       "white",
-      "design",
       "black",
       "dark",
       "retro",
-      "simple",
-      "pixel"
+      "simple"
     ],
     "list_album": [
       {
@@ -140,11 +133,9 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "electronics",
       "black",
       "dark",
-      "retro",
-      "pcb"
+      "retro"
     ],
     "list_album": [
       {
@@ -161,15 +152,10 @@
     "id_bin": "393",
     "list_language": [],
     "array_tags": [
-      "astronaut",
       "minimal",
       "green",
-      "vintage",
-      "future",
-      "flying",
       "retro",
       "weather",
-      "casio",
       "time",
       "space"
     ],
@@ -190,17 +176,15 @@
     "array_tags": [
       "digital",
       "date",
-      "distance",
-      "heartrate",
-      "retro",
-      "battery",
-      "steps",
-      "sythnwave",
       "analog",
       "seconds",
       "floors",
+      "distance",
+      "heartrate",
+      "retro",
       "weather",
-      "rubnlee"
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -224,8 +208,7 @@
       "temperature",
       "calories",
       "battery",
-      "steps",
-      "fashion"
+      "steps"
     ],
     "list_album": [
       {
@@ -244,7 +227,6 @@
     "array_tags": [
       "digital",
       "red",
-      "big",
       "distance",
       "heartrate",
       "retro",

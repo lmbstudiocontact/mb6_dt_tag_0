@@ -29,7 +29,6 @@
     "array_tags": [
       "digital",
       "red",
-      "big",
       "distance",
       "heartrate",
       "retro",
@@ -71,11 +70,9 @@
     "id_bin": "907",
     "list_language": [],
     "array_tags": [
-      "brazil",
       "brasil",
       "simple",
-      "colors",
-      "simples"
+      "colors"
     ],
     "list_album": [
       {
@@ -93,21 +90,14 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "sky",
-      "green",
-      "data",
-      "island",
-      "simple",
-      "simplicity",
-      "minimalista",
-      "battery",
       "minimal",
+      "green",
       "white",
       "bluetooth",
-      "minimalist",
       "lock",
+      "simple",
       "time",
-      "azul"
+      "battery"
     ],
     "list_album": [
       {
@@ -125,7 +115,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "percentage",
       "weekday",
       "simple",
       "battery",
@@ -148,7 +137,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -262,7 +250,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -294,7 +281,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -325,15 +311,12 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "xxxtentacion",
       "bluetooth",
       "weather",
-      "google",
       "simple",
       "time",
       "dnd",
-      "battery",
-      "heart"
+      "battery"
     ],
     "list_album": [
       {
@@ -351,14 +334,9 @@
     "list_language": [],
     "array_tags": [
       "red",
-      "gray",
       "green",
       "blue",
-      "volt",
-      "nike",
-      "purple",
-      "simple",
-      "nrc"
+      "simple"
     ],
     "list_album": [
       {
@@ -379,11 +357,9 @@
       "heartrate",
       "weekday",
       "simple",
-      "clock",
       "calories",
       "battery",
       "steps",
-      "cute",
       "bluetooth",
       "weather",
       "pulse",
@@ -406,9 +382,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "artist",
-      "simple",
-      "fashion"
+      "simple"
     ],
     "list_album": [
       {
@@ -426,9 +400,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "metal",
-      "simple",
-      "fashion"
+      "simple"
     ],
     "list_album": [
       {
@@ -446,8 +418,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "modern",
-      "digi",
       "simple",
       "battery"
     ],

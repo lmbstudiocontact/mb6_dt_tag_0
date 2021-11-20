@@ -7,14 +7,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "gold",
-      "lava",
       "distance",
       "heartrate",
       "calories",
       "battery",
-      "steps",
-      "hexagons"
+      "steps"
     ],
     "list_album": [
       {
@@ -158,15 +155,11 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "gray",
       "green",
-      "idr",
       "heartrate",
       "calories",
       "battery",
-      "dance",
-      "steps",
-      "graffitti"
+      "steps"
     ],
     "list_album": [
       {
@@ -204,16 +197,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "health",
       "calories",
       "battery",
-      "steps",
-      "floors",
-      "weather",
-      "alarm",
-      "french"
+      "steps"
     ],
     "list_album": [
       {
@@ -251,11 +243,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "silk",
-      "moon",
       "marvel",
       "heartrate",
-      "cindy",
       "battery",
       "steps"
     ],
@@ -279,9 +268,7 @@
       "heartrate",
       "calories",
       "battery",
-      "steps",
-      "hexagons",
-      "font"
+      "steps"
     ],
     "list_album": [
       {
@@ -381,7 +368,6 @@
     "array_tags": [
       "date",
       "heartrate",
-      "wola",
       "time"
     ],
     "list_album": [
@@ -423,12 +409,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "orange",
       "apple",
       "heartrate",
       "weather",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -448,7 +432,6 @@
     "array_tags": [
       "digital",
       "date",
-      "orange",
       "red",
       "bluetooth",
       "heartrate",
@@ -471,11 +454,9 @@
     "id_bin": "460",
     "list_language": [],
     "array_tags": [
-      "calendar",
       "date",
       "distance",
       "heartrate",
-      "binary",
       "weather",
       "dark",
       "battery",
@@ -709,7 +690,6 @@
       "steps",
       "sun",
       "floors",
-      "deutsch",
       "weather",
       "alarm",
       "pai"
@@ -938,7 +918,6 @@
       "minimal",
       "heartrate",
       "weather",
-      "aion",
       "calories",
       "battery",
       "day",
@@ -1160,28 +1139,15 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "vermelho",
-      "week",
-      "brasileiro",
-      "gol",
+      "red",
+      "month",
       "heartrate",
-      "brasileirao",
       "weekday",
       "brasil",
-      "battery",
-      "flamengo",
-      "steps",
-      "red",
-      "campeao",
-      "month",
-      "octacampeao",
-      "rj",
-      "gerson",
-      "fla",
       "time",
-      "gabigol",
-      "day",
-      "carioca"
+      "battery",
+      "steps",
+      "day"
     ],
     "list_album": [
       {

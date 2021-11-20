@@ -70,7 +70,6 @@
       "digital",
       "date",
       "heartrate",
-      "bracelet",
       "battery",
       "steps"
     ],
@@ -109,7 +108,6 @@
     "array_tags": [
       "digital",
       "analog",
-      "google",
       "battery"
     ],
     "list_album": [
@@ -235,13 +233,10 @@
     "array_tags": [
       "digital",
       "date",
-      "br",
-      "pt",
       "heartrate",
       "weather",
       "brasil",
       "battery",
-      "portugues",
       "steps"
     ],
     "list_album": [
@@ -260,9 +255,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "persona",
       "distance",
-      "videogame",
       "heartrate",
       "animated",
       "battery"
@@ -345,10 +338,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "miui",
-      "ita",
       "weekday",
-      "yellow",
       "black",
       "english",
       "italian",
@@ -415,21 +405,10 @@
     "id_bin": "744",
     "list_language": [],
     "array_tags": [
+      "red",
       "date",
       "digital",
-      "data",
-      "rosso",
-      "crono",
-      "meteo",
-      "digitale",
-      "vertical",
-      "numeri",
-      "red",
-      "mancini",
-      "number",
-      "destro",
-      "weather",
-      "verticale"
+      "weather"
     ],
     "list_album": [
       {
@@ -495,15 +474,12 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "chinese",
       "distance",
       "weather",
       "pulse",
       "english",
-      "humidity",
       "italian",
       "calories",
-      "polish",
       "steps"
     ],
     "list_album": [
@@ -594,7 +570,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -711,7 +686,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "clear",
       "simple",
       "battery",
@@ -741,14 +715,12 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
       "battery",
       "clean",
       "steps",
-      "tilted",
       "minimal",
       "bluetooth",
       "legible",
@@ -943,8 +915,7 @@
       "temperature",
       "calories",
       "battery",
-      "steps",
-      "fashion"
+      "steps"
     ],
     "list_album": [
       {
@@ -983,7 +954,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "ita",
       "english",
       "pulse",
       "weather",

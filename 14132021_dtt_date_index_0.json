@@ -217,7 +217,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "spanish",
       "distance",
       "heartrate",
       "english",
@@ -499,7 +498,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "completo",
       "heartrate",
       "notdisturb",
       "calories",
@@ -707,9 +705,7 @@
     "array_tags": [
       "date",
       "weather",
-      "google",
       "battery",
-      "pixel",
       "sport",
       "steps"
     ],
@@ -798,17 +794,15 @@
     "array_tags": [
       "date",
       "digital",
+      "blue",
       "distance",
-      "ampm",
       "heartrate",
-      "squares",
+      "weather",
       "weekday",
       "calories",
       "battery",
       "steps",
-      "animation",
-      "blue",
-      "weather"
+      "animation"
     ],
     "list_album": [
       {
@@ -974,7 +968,6 @@
       "heartrate",
       "calories",
       "battery",
-      "pacman",
       "steps",
       "floors",
       "bluetooth",
@@ -998,17 +991,14 @@
     "array_tags": [
       "date",
       "digital",
-      "hours",
-      "ampm",
       "distance",
       "heartrate",
-      "minutes",
-      "calories",
-      "battery",
-      "steps",
       "weather",
       "temperature",
-      "pai"
+      "pai",
+      "calories",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -1081,7 +1071,6 @@
       "calories",
       "battery",
       "steps",
-      "tetris",
       "floors",
       "bluetooth",
       "weather",

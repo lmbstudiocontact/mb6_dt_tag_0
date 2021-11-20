@@ -7,10 +7,7 @@
     "list_language": [],
     "array_tags": [
       "red",
-      "vermelho",
       "analog",
-      "rainbow",
-      "analogico",
       "english"
     ],
     "list_album": [
@@ -55,7 +52,6 @@
     "array_tags": [
       "red",
       "game",
-      "doom",
       "games"
     ],
     "list_album": [
@@ -75,7 +71,6 @@
     "array_tags": [
       "red",
       "blue",
-      "techno",
       "time",
       "colors"
     ],
@@ -95,7 +90,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "color",
       "notdisturb",
       "heartrate",
       "black",
@@ -125,24 +119,16 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "km",
       "game",
-      "doomslayer",
-      "doom",
-      "calorias",
       "brasil",
       "calories",
       "battery",
       "steps",
       "red",
       "month",
-      "quilometro",
       "pulse",
-      "kilometer",
       "games",
       "pai",
-      "portugues",
-      "jogo",
       "day",
       "status"
     ],
@@ -185,7 +171,6 @@
     "list_language": [],
     "array_tags": [
       "red",
-      "nokia",
       "green"
     ],
     "list_album": [
@@ -206,7 +191,6 @@
       "red",
       "digital",
       "minimal",
-      "deadmaus",
       "black",
       "animated",
       "simple",
@@ -229,15 +213,10 @@
     "array_tags": [
       "red",
       "date",
-      "nintendo",
       "bluetooth",
       "games",
-      "mario",
-      "days",
-      "arcade",
       "dnd",
-      "battery",
-      "rush"
+      "battery"
     ],
     "list_album": [
       {
@@ -279,11 +258,7 @@
     "list_language": [],
     "array_tags": [
       "red",
-      "nintendo",
-      "games",
-      "mario",
-      "arcade",
-      "rush"
+      "games"
     ],
     "list_album": [
       {
@@ -302,7 +277,6 @@
     "array_tags": [
       "digital",
       "date",
-      "orange",
       "red",
       "bluetooth",
       "heartrate",
@@ -326,28 +300,15 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "vermelho",
-      "week",
-      "brasileiro",
-      "gol",
+      "red",
+      "month",
       "heartrate",
-      "brasileirao",
       "weekday",
       "brasil",
-      "battery",
-      "flamengo",
-      "steps",
-      "red",
-      "campeao",
-      "month",
-      "octacampeao",
-      "rj",
-      "gerson",
-      "fla",
       "time",
-      "gabigol",
-      "day",
-      "carioca"
+      "battery",
+      "steps",
+      "day"
     ],
     "list_album": [
       {
@@ -366,7 +327,6 @@
     "array_tags": [
       "red",
       "date",
-      "rose",
       "battery",
       "steps",
       "anime"
@@ -386,21 +346,10 @@
     "id_bin": "744",
     "list_language": [],
     "array_tags": [
+      "red",
       "date",
       "digital",
-      "data",
-      "rosso",
-      "crono",
-      "meteo",
-      "digitale",
-      "vertical",
-      "numeri",
-      "red",
-      "mancini",
-      "number",
-      "destro",
-      "weather",
-      "verticale"
+      "weather"
     ],
     "list_album": [
       {
@@ -439,7 +388,6 @@
     "array_tags": [
       "digital",
       "red",
-      "big",
       "distance",
       "heartrate",
       "retro",
@@ -483,14 +431,9 @@
     "list_language": [],
     "array_tags": [
       "red",
-      "gray",
       "green",
       "blue",
-      "volt",
-      "nike",
-      "purple",
-      "simple",
-      "nrc"
+      "simple"
     ],
     "list_album": [
       {
@@ -551,9 +494,7 @@
       "red",
       "minimal",
       "white",
-      "future",
-      "black",
-      "hex"
+      "black"
     ],
     "list_album": [
       {

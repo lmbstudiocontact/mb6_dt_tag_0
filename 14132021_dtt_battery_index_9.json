@@ -28,7 +28,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -145,7 +144,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "clear",
       "simple",
       "battery",
@@ -175,14 +173,12 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
       "battery",
       "clean",
       "steps",
-      "tilted",
       "minimal",
       "bluetooth",
       "legible",
@@ -205,7 +201,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "temp",
       "time",
       "battery"
     ],
@@ -230,8 +225,7 @@
       "heartrate",
       "weather",
       "battery",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {
@@ -388,8 +382,7 @@
       "temperature",
       "calories",
       "battery",
-      "steps",
-      "fashion"
+      "steps"
     ],
     "list_album": [
       {
@@ -576,7 +569,6 @@
     "array_tags": [
       "digital",
       "red",
-      "big",
       "distance",
       "heartrate",
       "retro",
@@ -601,16 +593,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "bretagne"
+      "sun"
     ],
     "list_album": [
       {
@@ -629,16 +619,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "corse"
+      "sun"
     ],
     "list_album": [
       {
@@ -719,7 +707,6 @@
     "id_bin": "871",
     "list_language": [],
     "array_tags": [
-      "hours",
       "battery",
       "steps"
     ],
@@ -799,14 +786,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "chomusuke",
       "heartrate",
-      "cat",
-      "step",
       "calories",
-      "battery",
-      "konosuba",
-      "rpm"
+      "battery"
     ],
     "list_album": [
       {
@@ -914,21 +896,14 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "sky",
-      "green",
-      "data",
-      "island",
-      "simple",
-      "simplicity",
-      "minimalista",
-      "battery",
       "minimal",
+      "green",
       "white",
       "bluetooth",
-      "minimalist",
       "lock",
+      "simple",
       "time",
-      "azul"
+      "battery"
     ],
     "list_album": [
       {
@@ -1098,7 +1073,6 @@
     "id_bin": "1721",
     "list_language": [],
     "array_tags": [
-      "yellow",
       "pulse",
       "battery"
     ],
@@ -1121,8 +1095,7 @@
       "analog",
       "weather",
       "weekday",
-      "battery",
-      "czechia"
+      "battery"
     ],
     "list_album": [
       {

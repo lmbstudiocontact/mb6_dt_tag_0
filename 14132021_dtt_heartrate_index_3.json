@@ -120,8 +120,7 @@
       "heartrate",
       "weather",
       "time",
-      "day",
-      "wind"
+      "day"
     ],
     "list_album": [
       {
@@ -213,7 +212,6 @@
       "battery",
       "steps",
       "sun",
-      "mitu",
       "seconds",
       "floors",
       "weather",
@@ -237,7 +235,6 @@
       "date",
       "white",
       "heartrate",
-      "design",
       "black",
       "dark",
       "battery",
@@ -263,7 +260,6 @@
       "date",
       "heartrate",
       "weather",
-      "casio",
       "battery",
       "steps"
     ],
@@ -330,14 +326,11 @@
     "id_bin": "297",
     "list_language": [],
     "array_tags": [
-      "big",
-      "visible",
       "white",
       "heartrate",
       "alarm",
       "simple",
       "steps",
-      "grey",
       "status"
     ],
     "list_album": [
@@ -383,17 +376,16 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "nike",
-      "heartrate",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "apple",
       "bluetooth",
+      "heartrate",
+      "weekday",
       "weather",
       "lock",
-      "dnd"
+      "calories",
+      "dnd",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -508,8 +500,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
-      "alien",
       "watchos"
     ],
     "list_album": [
@@ -531,7 +521,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -574,7 +563,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -596,7 +584,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -617,10 +604,7 @@
       "date",
       "apple",
       "heartrate",
-      "disney",
-      "toystory",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -642,7 +626,6 @@
       "apple",
       "heartrate",
       "english",
-      "woody",
       "watchos"
     ],
     "list_album": [
@@ -661,7 +644,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "newyork",
       "heartrate",
       "english"
     ],
@@ -682,8 +664,7 @@
     "array_tags": [
       "date",
       "heartrate",
-      "english",
-      "purple"
+      "english"
     ],
     "list_album": [
       {
@@ -794,7 +775,6 @@
       "calories",
       "battery",
       "steps",
-      "classy",
       "donotdisturb",
       "month",
       "bluetooth",
@@ -819,17 +799,15 @@
     "array_tags": [
       "date",
       "distance",
+      "month",
+      "bluetooth",
       "heartrate",
+      "lock",
       "calories",
       "battery",
       "steps",
-      "classy",
-      "donotdisturb",
-      "month",
-      "bluetooth",
-      "lock",
       "day",
-      "colorful"
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -847,9 +825,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "gif",
       "heartrate",
-      "alien",
       "animation"
     ],
     "list_album": [
@@ -868,10 +844,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "rainbow",
-      "meme",
       "heartrate",
-      "nyancat",
       "animation"
     ],
     "list_album": [
@@ -915,7 +888,6 @@
       "calories",
       "battery",
       "steps",
-      "classy",
       "donotdisturb",
       "month",
       "bluetooth",
@@ -965,10 +937,8 @@
     "array_tags": [
       "date",
       "apple",
-      "activity",
       "heartrate",
       "english",
-      "ios",
       "steps",
       "watchos"
     ],
@@ -1054,10 +1024,8 @@
     "id_bin": "376",
     "list_language": [],
     "array_tags": [
-      "gold",
       "distance",
       "heartrate",
-      "honey",
       "dark",
       "calories",
       "battery",
@@ -1103,18 +1071,14 @@
     "array_tags": [
       "digital",
       "distance",
-      "heartrate",
-      "weekday",
-      "calories",
-      "battery",
-      "highlights",
       "month",
-      "sidebar",
+      "heartrate",
       "weather",
+      "weekday",
       "pulse",
       "pai",
-      "polish",
-      "colorful"
+      "calories",
+      "battery"
     ],
     "list_album": [
       {
@@ -1133,18 +1097,14 @@
     "array_tags": [
       "digital",
       "distance",
-      "advanced",
       "heartrate",
       "steps",
-      "highlights",
       "month",
       "bluetooth",
-      "sidebar",
       "english",
       "weather",
       "pulse",
       "pai",
-      "illuminated",
       "dnd",
       "day"
     ],

@@ -89,16 +89,14 @@
     "array_tags": [
       "digital",
       "date",
-      "iwatch",
+      "analog",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "watchos",
-      "analog",
-      "weather",
-      "circlebars"
+      "watchos"
     ],
     "list_album": [
       {
@@ -117,7 +115,6 @@
     "array_tags": [
       "digital",
       "date",
-      "bubblebobble",
       "game",
       "floors",
       "distance",
@@ -168,15 +165,12 @@
     "id_bin": "1272",
     "list_language": [],
     "array_tags": [
-      "starwars",
       "distance",
       "heartrate",
       "weather",
       "pai",
-      "humidity",
       "calories",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {
@@ -319,7 +313,6 @@
       "date",
       "bluetooth",
       "distance",
-      "blocks",
       "health",
       "time",
       "calories",
@@ -515,17 +508,16 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "distance",
-      "calories",
-      "battery",
-      "steps",
-      "donotdisturb",
       "bluetooth",
+      "distance",
       "weather",
       "pulse",
       "lock",
       "time",
-      "temperatur"
+      "calories",
+      "battery",
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -892,16 +884,15 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
-      "calories",
-      "battery",
-      "steps",
-      "donotdisturb",
       "bluetooth",
       "watch",
       "alarm",
       "pulse",
-      "day"
+      "calories",
+      "battery",
+      "day",
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -994,7 +985,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -1224,7 +1214,6 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
       "weekday",
       "calories",
       "battery",

@@ -156,12 +156,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "calendar",
       "date",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -190,8 +187,7 @@
       "pokemon",
       "heartrate",
       "battery",
-      "steps",
-      "mew"
+      "steps"
     ],
     "list_album": [
       {
@@ -210,7 +206,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -242,7 +237,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -343,19 +337,14 @@
       "digital",
       "distance",
       "weekday",
-      "uvi",
-      "epic",
       "calories",
       "battery",
       "steps",
       "weather",
       "alarm",
       "pulse",
-      "humidity",
       "pai",
       "time",
-      "czech",
-      "wind",
       "status"
     ],
     "list_album": [
@@ -498,11 +487,7 @@
     "array_tags": [
       "digital",
       "date",
-      "vice",
       "bluetooth",
-      "gta",
-      "city",
-      "videogame",
       "games",
       "battery",
       "steps"
@@ -524,7 +509,6 @@
     "array_tags": [
       "digital",
       "date",
-      "nixie",
       "battery"
     ],
     "list_album": [
@@ -544,17 +528,9 @@
     "array_tags": [
       "digital",
       "date",
-      "san",
-      "auto",
       "game",
-      "cj",
-      "grand",
-      "theft",
       "battery",
-      "steps",
-      "andreas",
-      "gta",
-      "hud"
+      "steps"
     ],
     "list_album": [
       {
@@ -622,7 +598,6 @@
       "date",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "animation",
@@ -651,7 +626,6 @@
       "digital",
       "distance",
       "weekday",
-      "digi",
       "calories",
       "battery",
       "steps",
@@ -680,7 +654,6 @@
       "digital",
       "date",
       "month",
-      "ampm",
       "heartrate",
       "pulse",
       "time",
@@ -705,7 +678,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digi",
       "weekday",
       "calories",
       "battery",
@@ -717,7 +689,6 @@
       "alarm",
       "pai",
       "time",
-      "czech",
       "status"
     ],
     "list_album": [
@@ -760,7 +731,6 @@
     "array_tags": [
       "digital",
       "date",
-      "ampm",
       "weather",
       "alarm",
       "battery"
@@ -783,16 +753,11 @@
       "digital",
       "date",
       "soccer",
-      "fluminense",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
       "steps",
-      "flu",
-      "rj",
       "day"
     ],
     "list_album": [
@@ -837,20 +802,13 @@
     "array_tags": [
       "digital",
       "date",
-      "neymar",
       "soccer",
+      "seconds",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
-      "steps",
-      "futbol",
-      "seconds",
-      "pele",
-      "sp",
-      "santos"
+      "steps"
     ],
     "list_album": [
       {
@@ -871,16 +829,11 @@
       "date",
       "soccer",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
-      "steps",
-      "spfc",
-      "futbol",
-      "sp",
-      "sport"
+      "sport",
+      "steps"
     ],
     "list_album": [
       {
@@ -898,10 +851,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "passi",
-      "calorie",
-      "battery",
-      "battiti"
+      "battery"
     ],
     "list_album": [
       {
@@ -1063,7 +1013,6 @@
       "date",
       "time",
       "battery",
-      "funny",
       "animation",
       "status"
     ],
@@ -1084,16 +1033,12 @@
     "array_tags": [
       "digital",
       "date",
-      "vice",
       "game",
       "distance",
-      "city",
       "heartrate",
+      "weather",
       "battery",
-      "steps",
-      "gta",
-      "hud",
-      "weather"
+      "steps"
     ],
     "list_album": [
       {
@@ -1161,11 +1106,9 @@
       "distance",
       "heartrate",
       "weather",
-      "slovak",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -1187,11 +1130,9 @@
       "distance",
       "heartrate",
       "weather",
-      "slovak",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -1212,7 +1153,6 @@
       "distance",
       "pulse",
       "weather",
-      "lovebites",
       "steps"
     ],
     "list_album": [
@@ -1237,7 +1177,6 @@
       "calories",
       "battery",
       "steps",
-      "look",
       "floors",
       "bluetooth",
       "weather",

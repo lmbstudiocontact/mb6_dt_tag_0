@@ -119,8 +119,7 @@
       "heartrate",
       "weather",
       "time",
-      "day",
-      "wind"
+      "day"
     ],
     "list_album": [
       {
@@ -228,7 +227,6 @@
       "battery",
       "steps",
       "sun",
-      "mitu",
       "seconds",
       "floors",
       "weather",
@@ -253,7 +251,6 @@
       "date",
       "heartrate",
       "weather",
-      "casio",
       "battery",
       "steps"
     ],
@@ -344,17 +341,16 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "nike",
-      "heartrate",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "apple",
       "bluetooth",
+      "heartrate",
+      "weekday",
       "weather",
       "lock",
-      "dnd"
+      "calories",
+      "dnd",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -618,7 +614,6 @@
     "array_tags": [
       "date",
       "apple",
-      "nike",
       "weather",
       "battery",
       "steps"
@@ -640,18 +635,14 @@
     "array_tags": [
       "digital",
       "distance",
-      "heartrate",
-      "weekday",
-      "calories",
-      "battery",
-      "highlights",
       "month",
-      "sidebar",
+      "heartrate",
       "weather",
+      "weekday",
       "pulse",
       "pai",
-      "polish",
-      "colorful"
+      "calories",
+      "battery"
     ],
     "list_album": [
       {
@@ -670,18 +661,14 @@
     "array_tags": [
       "digital",
       "distance",
-      "advanced",
       "heartrate",
       "steps",
-      "highlights",
       "month",
       "bluetooth",
-      "sidebar",
       "english",
       "weather",
       "pulse",
       "pai",
-      "illuminated",
       "dnd",
       "day"
     ],
@@ -847,15 +834,10 @@
     "id_bin": "393",
     "list_language": [],
     "array_tags": [
-      "astronaut",
       "minimal",
       "green",
-      "vintage",
-      "future",
-      "flying",
       "retro",
       "weather",
-      "casio",
       "time",
       "space"
     ],
@@ -939,16 +921,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "health",
       "calories",
       "battery",
-      "steps",
-      "floors",
-      "weather",
-      "alarm",
-      "french"
+      "steps"
     ],
     "list_album": [
       {
@@ -1084,7 +1065,6 @@
     "id_bin": "441",
     "list_language": [],
     "array_tags": [
-      "nike",
       "weather",
       "pulse",
       "english",
@@ -1112,7 +1092,6 @@
       "weather",
       "pulse",
       "italian",
-      "turquoise",
       "steps"
     ],
     "list_album": [

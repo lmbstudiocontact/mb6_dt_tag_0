@@ -6,10 +6,8 @@
     "id_bin": "376",
     "list_language": [],
     "array_tags": [
-      "gold",
       "distance",
       "heartrate",
-      "honey",
       "dark",
       "calories",
       "battery",
@@ -55,18 +53,14 @@
     "array_tags": [
       "digital",
       "distance",
-      "heartrate",
-      "weekday",
-      "calories",
-      "battery",
-      "highlights",
       "month",
-      "sidebar",
+      "heartrate",
       "weather",
+      "weekday",
       "pulse",
       "pai",
-      "polish",
-      "colorful"
+      "calories",
+      "battery"
     ],
     "list_album": [
       {
@@ -85,18 +79,14 @@
     "array_tags": [
       "digital",
       "distance",
-      "advanced",
       "heartrate",
       "steps",
-      "highlights",
       "month",
       "bluetooth",
-      "sidebar",
       "english",
       "weather",
       "pulse",
       "pai",
-      "illuminated",
       "dnd",
       "day"
     ],
@@ -116,14 +106,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "gold",
-      "lava",
       "distance",
       "heartrate",
       "calories",
       "battery",
-      "steps",
-      "hexagons"
+      "steps"
     ],
     "list_album": [
       {
@@ -245,16 +232,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "health",
       "calories",
       "battery",
-      "steps",
-      "floors",
-      "weather",
-      "alarm",
-      "french"
+      "steps"
     ],
     "list_album": [
       {
@@ -276,9 +262,7 @@
       "heartrate",
       "calories",
       "battery",
-      "steps",
-      "hexagons",
-      "font"
+      "steps"
     ],
     "list_album": [
       {
@@ -297,7 +281,6 @@
     "array_tags": [
       "digital",
       "distance",
-      "digimon",
       "steps"
     ],
     "list_album": [
@@ -402,7 +385,6 @@
       "weather",
       "pulse",
       "italian",
-      "turquoise",
       "steps"
     ],
     "list_album": [
@@ -529,11 +511,9 @@
     "id_bin": "460",
     "list_language": [],
     "array_tags": [
-      "calendar",
       "date",
       "distance",
       "heartrate",
-      "binary",
       "weather",
       "dark",
       "battery",
@@ -556,14 +536,11 @@
     "array_tags": [
       "digital",
       "distance",
-      "gradient",
       "pulse",
       "weather",
       "pai",
-      "humidity",
       "calories",
-      "steps",
-      "mediatouch"
+      "steps"
     ],
     "list_album": [
       {
@@ -728,7 +705,6 @@
       "steps",
       "sun",
       "floors",
-      "deutsch",
       "weather",
       "alarm",
       "pai"
@@ -866,7 +842,6 @@
       "distance",
       "weather",
       "pulse",
-      "humidity",
       "calories",
       "steps"
     ],
@@ -886,7 +861,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "temp",
       "distance",
       "pulse",
       "weather",
@@ -952,17 +926,15 @@
     "array_tags": [
       "digital",
       "date",
-      "distance",
-      "heartrate",
-      "retro",
-      "battery",
-      "steps",
-      "sythnwave",
       "analog",
       "seconds",
       "floors",
+      "distance",
+      "heartrate",
+      "retro",
       "weather",
-      "rubnlee"
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -1033,7 +1005,6 @@
       "distance",
       "weather",
       "pulse",
-      "heyplus",
       "simple",
       "calories",
       "steps"
@@ -1104,12 +1075,9 @@
       "english",
       "weather",
       "pulse",
-      "humidity",
       "italian",
       "calories",
-      "polish",
-      "steps",
-      "french"
+      "steps"
     ],
     "list_album": [
       {
@@ -1172,17 +1140,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "mitu",
-      "floors",
-      "micomunity",
-      "weather",
-      "alarm"
+      "sun"
     ],
     "list_album": [
       {
@@ -1202,14 +1168,11 @@
       "digital",
       "date",
       "analog",
-      "iwatch",
       "distance",
       "heartrate",
       "calories",
       "battery",
-      "ios",
-      "watchos",
-      "circlebars"
+      "watchos"
     ],
     "list_album": [
       {

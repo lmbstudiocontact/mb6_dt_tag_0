@@ -9,8 +9,6 @@
       "digital",
       "date",
       "apple",
-      "rainbow",
-      "digi",
       "weather",
       "italian",
       "battery",
@@ -52,16 +50,13 @@
       "digital",
       "date",
       "distance",
+      "bluetooth",
       "heartrate",
-      "digi",
+      "weather",
       "italian",
       "calories",
       "battery",
       "steps",
-      "bluetooth",
-      "ita",
-      "weather",
-      "mediatouch",
       "status"
     ],
     "list_album": [
@@ -104,11 +99,8 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "fallout",
-      "ita",
       "italian",
-      "steps",
-      "pipboy"
+      "steps"
     ],
     "list_album": [
       {
@@ -131,7 +123,6 @@
       "weather",
       "pulse",
       "italian",
-      "turquoise",
       "steps"
     ],
     "list_album": [
@@ -154,12 +145,9 @@
       "english",
       "weather",
       "pulse",
-      "humidity",
       "italian",
       "calories",
-      "polish",
-      "steps",
-      "french"
+      "steps"
     ],
     "list_album": [
       {
@@ -177,10 +165,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "mcfly",
-      "nixie",
-      "ita",
-      "steinsgate",
       "italian",
       "time"
     ],
@@ -200,10 +184,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "miui",
-      "ita",
       "weekday",
-      "yellow",
       "black",
       "english",
       "italian",
@@ -225,14 +206,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "ita",
       "english",
-      "yellow",
       "black",
       "italian",
       "time",
-      "steps",
-      "pixel"
+      "steps"
     ],
     "list_album": [
       {
@@ -250,15 +228,12 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "chinese",
       "distance",
       "weather",
       "pulse",
       "english",
-      "humidity",
       "italian",
       "calories",
-      "polish",
       "steps"
     ],
     "list_album": [
@@ -276,21 +251,14 @@
     "id_bin": "790",
     "list_language": [],
     "array_tags": [
-      "passi",
-      "analogico",
+      "analog",
       "heartrate",
+      "english",
       "weekday",
       "italian",
-      "settimana",
       "calories",
       "steps",
-      "analog",
-      "ita",
-      "english",
-      "calorie",
-      "day",
-      "battiti",
-      "giorni"
+      "day"
     ],
     "list_album": [
       {

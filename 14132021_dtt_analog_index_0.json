@@ -93,10 +93,7 @@
     "list_language": [],
     "array_tags": [
       "red",
-      "vermelho",
       "analog",
-      "rainbow",
-      "analogico",
       "english"
     ],
     "list_album": [
@@ -115,12 +112,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "rainbow",
-      "amarelo",
-      "analogico",
-      "yellow",
-      "english",
-      "portugues"
+      "english"
     ],
     "list_album": [
       {
@@ -138,11 +130,8 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "rainbow",
       "green",
-      "analogico",
-      "english",
-      "verde"
+      "english"
     ],
     "list_album": [
       {
@@ -160,8 +149,6 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "rainbow",
-      "analogico",
       "english"
     ],
     "list_album": [
@@ -180,11 +167,8 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "preto",
-      "analogico",
       "black",
-      "english",
-      "portugues"
+      "english"
     ],
     "list_album": [
       {
@@ -311,12 +295,9 @@
     "id_bin": "1139",
     "list_language": [],
     "array_tags": [
-      "data",
       "distance",
-      "analogico",
       "heartrate",
       "notdisturb",
-      "completo",
       "calories",
       "steps",
       "analog",
@@ -324,7 +305,6 @@
       "bluetooth",
       "pai",
       "lock",
-      "bandera",
       "time",
       "day"
     ],
@@ -369,7 +349,6 @@
     "array_tags": [
       "analog",
       "blue",
-      "artist",
       "simple"
     ],
     "list_album": [
@@ -389,16 +368,14 @@
     "array_tags": [
       "digital",
       "date",
-      "iwatch",
+      "analog",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "watchos",
-      "analog",
-      "weather",
-      "circlebars"
+      "watchos"
     ],
     "list_album": [
       {
@@ -467,8 +444,7 @@
       "analog",
       "pulse",
       "retro",
-      "steps",
-      "colorful"
+      "steps"
     ],
     "list_album": [
       {
@@ -511,7 +487,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -609,8 +584,7 @@
       "date",
       "analog",
       "weather",
-      "battery",
-      "czechia"
+      "battery"
     ],
     "list_album": [
       {
@@ -722,11 +696,9 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "electronics",
       "black",
       "dark",
-      "retro",
-      "pcb"
+      "retro"
     ],
     "list_album": [
       {
@@ -955,7 +927,6 @@
     "id_bin": "437",
     "list_language": [],
     "array_tags": [
-      "anhuituan",
       "analog"
     ],
     "list_album": [
@@ -973,9 +944,7 @@
     "id_bin": "438",
     "list_language": [],
     "array_tags": [
-      "analog",
-      "anhuituan",
-      "donghokim"
+      "analog"
     ],
     "list_album": [
       {

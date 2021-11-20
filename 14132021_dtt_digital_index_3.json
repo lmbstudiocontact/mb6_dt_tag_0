@@ -8,8 +8,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digitalky",
-      "phone",
       "battery"
     ],
     "list_album": [
@@ -30,7 +28,6 @@
       "red",
       "digital",
       "minimal",
-      "deadmaus",
       "black",
       "animated",
       "simple",
@@ -301,7 +298,6 @@
       "distance",
       "heartrate",
       "weather",
-      "calorie",
       "pai",
       "battery",
       "steps",
@@ -357,8 +353,7 @@
       "bluetooth",
       "weather",
       "alarm",
-      "lock",
-      "temperatur"
+      "lock"
     ],
     "list_album": [
       {
@@ -530,7 +525,6 @@
       "date",
       "game",
       "heartrate",
-      "doom",
       "games",
       "battery",
       "steps"
@@ -677,19 +671,14 @@
     "array_tags": [
       "digital",
       "date",
-      "porsche",
-      "wheels",
-      "underglow",
-      "heartrate",
-      "battery",
-      "steps",
-      "animation",
-      "cars",
       "bluetooth",
+      "heartrate",
       "pulse",
       "animated",
-      "purple",
-      "status"
+      "battery",
+      "steps",
+      "status",
+      "animation"
     ],
     "list_album": [
       {
@@ -708,7 +697,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digitalky",
       "weather",
       "weekday",
       "alarm",
@@ -783,9 +771,7 @@
       "weekday",
       "time",
       "battery",
-      "am",
-      "steps",
-      "pm"
+      "steps"
     ],
     "list_album": [
       {
@@ -879,12 +865,8 @@
     "array_tags": [
       "digital",
       "date",
-      "hours",
-      "digitalky",
       "weekday",
-      "epic",
-      "battery",
-      "czech"
+      "battery"
     ],
     "list_album": [
       {
@@ -903,11 +885,8 @@
     "array_tags": [
       "digital",
       "date",
-      "hours",
-      "digitalky",
       "weather",
       "weekday",
-      "epic",
       "battery"
     ],
     "list_album": [
@@ -1061,7 +1040,6 @@
     "array_tags": [
       "digital",
       "date",
-      "victory",
       "battery",
       "steps"
     ],
@@ -1083,16 +1061,13 @@
       "digital",
       "date",
       "distance",
+      "bluetooth",
       "heartrate",
-      "digi",
+      "weather",
       "italian",
       "calories",
       "battery",
       "steps",
-      "bluetooth",
-      "ita",
-      "weather",
-      "mediatouch",
       "status"
     ],
     "list_album": [

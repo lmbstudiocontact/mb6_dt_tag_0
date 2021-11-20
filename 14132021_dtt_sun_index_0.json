@@ -9,7 +9,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -43,7 +42,6 @@
       "battery",
       "steps",
       "sun",
-      "mitu",
       "seconds",
       "floors",
       "weather",
@@ -94,9 +92,7 @@
     "list_language": [],
     "array_tags": [
       "seconds",
-      "sporting",
       "simple",
-      "stars",
       "steps",
       "sun",
       "sport"
@@ -125,7 +121,6 @@
       "steps",
       "sun",
       "floors",
-      "deutsch",
       "weather",
       "alarm",
       "pai"
@@ -147,17 +142,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "mitu",
-      "floors",
-      "micomunity",
-      "weather",
-      "alarm"
+      "sun"
     ],
     "list_album": [
       {
@@ -177,7 +170,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -185,7 +177,6 @@
       "analog",
       "bluetooth",
       "weather",
-      "humidity",
       "lock",
       "dnd"
     ],
@@ -204,7 +195,6 @@
     "id_bin": "837",
     "list_language": [],
     "array_tags": [
-      "rus",
       "sun"
     ],
     "list_album": [
@@ -224,16 +214,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "bretagne"
+      "sun"
     ],
     "list_album": [
       {
@@ -252,16 +240,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "corse"
+      "sun"
     ],
     "list_album": [
       {
@@ -279,10 +265,8 @@
     "list_language": [],
     "array_tags": [
       "bluetooth",
-      "minimalist",
       "lock",
       "dnd",
-      "girl",
       "sun"
     ],
     "list_album": [

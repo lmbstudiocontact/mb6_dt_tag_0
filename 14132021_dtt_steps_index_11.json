@@ -35,7 +35,6 @@
       "date",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "animation",
@@ -64,7 +63,6 @@
       "digital",
       "distance",
       "weekday",
-      "digi",
       "calories",
       "battery",
       "steps",
@@ -93,7 +91,6 @@
       "digital",
       "date",
       "month",
-      "ampm",
       "heartrate",
       "pulse",
       "time",
@@ -138,10 +135,8 @@
     "id_bin": "2251",
     "list_language": [],
     "array_tags": [
-      "nintendo",
       "heartrate",
-      "steps",
-      "kirby"
+      "steps"
     ],
     "list_album": [
       {
@@ -160,7 +155,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digi",
       "weekday",
       "calories",
       "battery",
@@ -172,7 +166,6 @@
       "alarm",
       "pai",
       "time",
-      "czech",
       "status"
     ],
     "list_album": [
@@ -194,7 +187,6 @@
       "heartrate",
       "serie",
       "games",
-      "batgirl",
       "batman",
       "steps"
     ],
@@ -282,7 +274,6 @@
       "heartrate",
       "games",
       "serie",
-      "joker",
       "batman",
       "steps"
     ],
@@ -301,7 +292,6 @@
     "id_bin": "2258",
     "list_language": [],
     "array_tags": [
-      "nightwing",
       "cartoon",
       "heartrate",
       "serie",
@@ -367,7 +357,6 @@
     "id_bin": "2261",
     "list_language": [],
     "array_tags": [
-      "robin",
       "cartoon",
       "heartrate",
       "games",
@@ -391,8 +380,6 @@
     "array_tags": [
       "marvel",
       "heartrate",
-      "superhero",
-      "comics",
       "games",
       "serie",
       "steps"
@@ -437,7 +424,6 @@
     "array_tags": [
       "heartrate",
       "games",
-      "borderlands",
       "steps"
     ],
     "list_album": [
@@ -455,8 +441,6 @@
     "id_bin": "2270",
     "list_language": [],
     "array_tags": [
-      "evangelion",
-      "asuka",
       "heartrate",
       "steps",
       "anime"
@@ -477,7 +461,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "games",
       "steps",
       "anime"
@@ -499,7 +482,6 @@
     "array_tags": [
       "heartrate",
       "games",
-      "borderlands",
       "steps"
     ],
     "list_album": [
@@ -538,7 +520,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "diluc",
       "games",
       "steps"
     ],
@@ -557,13 +538,9 @@
     "id_bin": "2275",
     "list_language": [],
     "array_tags": [
-      "donald",
-      "goofy",
       "cartoon",
-      "disney",
       "heartrate",
-      "steps",
-      "mickey"
+      "steps"
     ],
     "list_album": [
       {
@@ -582,7 +559,6 @@
     "array_tags": [
       "heartrate",
       "games",
-      "borderlands",
       "steps"
     ],
     "list_album": [
@@ -601,7 +577,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "games",
       "steps",
       "anime"
@@ -641,7 +616,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hunterxhunter",
       "steps",
       "anime"
     ],
@@ -661,7 +635,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hunterxhunter",
       "steps",
       "anime"
     ],
@@ -680,8 +653,6 @@
     "id_bin": "2281",
     "list_language": [],
     "array_tags": [
-      "hitman",
-      "eidos",
       "heartrate",
       "games",
       "steps"
@@ -701,8 +672,6 @@
     "id_bin": "2282",
     "list_language": [],
     "array_tags": [
-      "hitman",
-      "eidos",
       "heartrate",
       "games",
       "steps"
@@ -723,7 +692,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "steps",
       "anime"
     ],
@@ -743,7 +711,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "steps",
       "anime"
     ],
@@ -764,7 +731,6 @@
     "array_tags": [
       "heartrate",
       "steps",
-      "hunterxhunter",
       "anime"
     ],
     "list_album": [
@@ -782,10 +748,8 @@
     "id_bin": "2286",
     "list_language": [],
     "array_tags": [
-      "playstation",
       "heartrate",
       "games",
-      "godofwar",
       "steps"
     ],
     "list_album": [
@@ -803,10 +767,8 @@
     "id_bin": "2287",
     "list_language": [],
     "array_tags": [
-      "playstation",
       "heartrate",
       "games",
-      "godofwar",
       "steps"
     ],
     "list_album": [
@@ -825,7 +787,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hunterxhunter",
       "steps",
       "anime"
     ],
@@ -845,7 +806,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hunterxhunter",
       "steps",
       "anime"
     ],
@@ -866,7 +826,6 @@
     "array_tags": [
       "heartrate",
       "games",
-      "borderlands",
       "steps"
     ],
     "list_album": [
@@ -886,7 +845,6 @@
     "array_tags": [
       "heartrate",
       "games",
-      "borderlands",
       "steps"
     ],
     "list_album": [
@@ -945,8 +903,7 @@
     "array_tags": [
       "heartrate",
       "steps",
-      "anime",
-      "onepunchman"
+      "anime"
     ],
     "list_album": [
       {
@@ -963,8 +920,6 @@
     "id_bin": "2295",
     "list_language": [],
     "array_tags": [
-      "movies",
-      "predator",
       "heartrate",
       "games",
       "steps"
@@ -986,8 +941,7 @@
     "array_tags": [
       "heartrate",
       "steps",
-      "anime",
-      "onepunchman"
+      "anime"
     ],
     "list_album": [
       {
@@ -1044,7 +998,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "games",
       "steps",
       "anime"

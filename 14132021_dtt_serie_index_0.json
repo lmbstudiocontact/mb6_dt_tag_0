@@ -6,12 +6,9 @@
     "id_bin": "2102",
     "list_language": [],
     "array_tags": [
-      "movies",
       "analog",
-      "geek",
       "serie",
       "animated",
-      "lcar",
       "animation"
     ],
     "list_album": [
@@ -55,7 +52,6 @@
       "heartrate",
       "serie",
       "games",
-      "batgirl",
       "batman",
       "steps"
     ],
@@ -143,7 +139,6 @@
       "heartrate",
       "games",
       "serie",
-      "joker",
       "batman",
       "steps"
     ],
@@ -162,7 +157,6 @@
     "id_bin": "2258",
     "list_language": [],
     "array_tags": [
-      "nightwing",
       "cartoon",
       "heartrate",
       "serie",
@@ -207,7 +201,6 @@
     "id_bin": "2261",
     "list_language": [],
     "array_tags": [
-      "robin",
       "cartoon",
       "heartrate",
       "games",
@@ -231,8 +224,6 @@
     "array_tags": [
       "marvel",
       "heartrate",
-      "superhero",
-      "comics",
       "games",
       "serie",
       "steps"

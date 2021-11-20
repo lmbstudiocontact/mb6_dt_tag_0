@@ -6,9 +6,7 @@
     "id_bin": "1761",
     "list_language": [],
     "array_tags": [
-      "cartoon",
-      "disney",
-      "pluto"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -25,9 +23,7 @@
     "id_bin": "1764",
     "list_language": [],
     "array_tags": [
-      "donald",
-      "cartoon",
-      "disney"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -45,7 +41,6 @@
     "list_language": [],
     "array_tags": [
       "sonic",
-      "hedgehog",
       "cartoon"
     ],
     "list_album": [
@@ -64,9 +59,7 @@
     "list_language": [],
     "array_tags": [
       "sonic",
-      "shadow",
-      "cartoon",
-      "sega"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -83,10 +76,8 @@
     "id_bin": "1819",
     "list_language": [],
     "array_tags": [
-      "tails",
       "sonic",
-      "cartoon",
-      "sega"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -104,9 +95,7 @@
     "list_language": [],
     "array_tags": [
       "sonic",
-      "cartoon",
-      "knuckles",
-      "sega"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -124,9 +113,7 @@
     "list_language": [],
     "array_tags": [
       "sonic",
-      "shadow",
-      "cartoon",
-      "sega"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -194,9 +181,7 @@
     "id_bin": "1904",
     "list_language": [],
     "array_tags": [
-      "piolin",
-      "cartoon",
-      "tweety"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -230,9 +215,7 @@
     "id_bin": "1906",
     "list_language": [],
     "array_tags": [
-      "silvestre",
-      "cartoon",
-      "sylvester"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -249,9 +232,7 @@
     "id_bin": "1907",
     "list_language": [],
     "array_tags": [
-      "tazmania",
-      "cartoon",
-      "tazmanian"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -270,9 +251,7 @@
     "array_tags": [
       "sonic",
       "cartoon",
-      "games",
-      "sega",
-      "amy"
+      "games"
     ],
     "list_album": [
       {
@@ -291,8 +270,7 @@
     "array_tags": [
       "sonic",
       "cartoon",
-      "games",
-      "sega"
+      "games"
     ],
     "list_album": [
       {
@@ -311,9 +289,7 @@
     "array_tags": [
       "sonic",
       "cartoon",
-      "games",
-      "sega",
-      "silver"
+      "games"
     ],
     "list_album": [
       {
@@ -330,10 +306,7 @@
     "id_bin": "1942",
     "list_language": [],
     "array_tags": [
-      "nickelodeon",
-      "bob",
-      "cartoon",
-      "spongebob"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -350,7 +323,6 @@
     "id_bin": "1967",
     "list_language": [],
     "array_tags": [
-      "nickelodeon",
       "cartoon"
     ],
     "list_album": [
@@ -385,9 +357,7 @@
     "id_bin": "1969",
     "list_language": [],
     "array_tags": [
-      "pedro",
-      "cartoon",
-      "picapiedra"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -455,7 +425,6 @@
     "id_bin": "1991",
     "list_language": [],
     "array_tags": [
-      "elmer",
       "cartoon"
     ],
     "list_album": [
@@ -541,8 +510,7 @@
     "id_bin": "1996",
     "list_language": [],
     "array_tags": [
-      "cartoon",
-      "correcaminos"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -576,8 +544,7 @@
     "id_bin": "1998",
     "list_language": [],
     "array_tags": [
-      "cartoon",
-      "taz"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -594,8 +561,7 @@
     "id_bin": "1999",
     "list_language": [],
     "array_tags": [
-      "cartoon",
-      "tweety"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -612,9 +578,7 @@
     "id_bin": "2000",
     "list_language": [],
     "array_tags": [
-      "silvestre",
-      "cartoon",
-      "sylvester"
+      "cartoon"
     ],
     "list_album": [
       {
@@ -689,7 +653,6 @@
       "marvel",
       "cartoon",
       "heartrate",
-      "spiderman",
       "steps"
     ],
     "list_album": [
@@ -775,7 +738,6 @@
       "heartrate",
       "serie",
       "games",
-      "batgirl",
       "batman",
       "steps"
     ],
@@ -860,7 +822,6 @@
     "id_bin": "2258",
     "list_language": [],
     "array_tags": [
-      "nightwing",
       "cartoon",
       "heartrate",
       "serie",
@@ -926,7 +887,6 @@
     "id_bin": "2261",
     "list_language": [],
     "array_tags": [
-      "robin",
       "cartoon",
       "heartrate",
       "games",
@@ -948,13 +908,9 @@
     "id_bin": "2275",
     "list_language": [],
     "array_tags": [
-      "donald",
-      "goofy",
       "cartoon",
-      "disney",
       "heartrate",
-      "steps",
-      "mickey"
+      "steps"
     ],
     "list_album": [
       {

@@ -50,7 +50,6 @@
     "array_tags": [
       "date",
       "apple",
-      "nike",
       "weather",
       "battery",
       "steps"
@@ -70,10 +69,8 @@
     "id_bin": "376",
     "list_language": [],
     "array_tags": [
-      "gold",
       "distance",
       "heartrate",
-      "honey",
       "dark",
       "calories",
       "battery",
@@ -119,18 +116,14 @@
     "array_tags": [
       "digital",
       "distance",
-      "advanced",
       "heartrate",
       "steps",
-      "highlights",
       "month",
       "bluetooth",
-      "sidebar",
       "english",
       "weather",
       "pulse",
       "pai",
-      "illuminated",
       "dnd",
       "day"
     ],
@@ -171,14 +164,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "gold",
-      "lava",
       "distance",
       "heartrate",
       "calories",
       "battery",
-      "steps",
-      "hexagons"
+      "steps"
     ],
     "list_album": [
       {
@@ -365,7 +355,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "sporting",
       "battery",
       "sport",
       "steps"
@@ -449,15 +438,11 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "gray",
       "green",
-      "idr",
       "heartrate",
       "calories",
       "battery",
-      "dance",
-      "steps",
-      "graffitti"
+      "steps"
     ],
     "list_album": [
       {
@@ -495,16 +480,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "health",
       "calories",
       "battery",
-      "steps",
-      "floors",
-      "weather",
-      "alarm",
-      "french"
+      "steps"
     ],
     "list_album": [
       {
@@ -522,11 +506,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "silk",
-      "moon",
       "marvel",
       "heartrate",
-      "cindy",
       "battery",
       "steps"
     ],
@@ -550,9 +531,7 @@
       "heartrate",
       "calories",
       "battery",
-      "steps",
-      "hexagons",
-      "font"
+      "steps"
     ],
     "list_album": [
       {
@@ -591,7 +570,6 @@
     "array_tags": [
       "digital",
       "distance",
-      "digimon",
       "steps"
     ],
     "list_album": [
@@ -690,7 +668,6 @@
     "id_bin": "441",
     "list_language": [],
     "array_tags": [
-      "nike",
       "weather",
       "pulse",
       "english",
@@ -718,7 +695,6 @@
       "weather",
       "pulse",
       "italian",
-      "turquoise",
       "steps"
     ],
     "list_album": [
@@ -782,7 +758,6 @@
     "array_tags": [
       "digital",
       "date",
-      "orange",
       "red",
       "bluetooth",
       "heartrate",
@@ -805,11 +780,9 @@
     "id_bin": "460",
     "list_language": [],
     "array_tags": [
-      "calendar",
       "date",
       "distance",
       "heartrate",
-      "binary",
       "weather",
       "dark",
       "battery",
@@ -831,7 +804,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "sporting",
       "steps",
       "sport"
     ],
@@ -851,9 +823,7 @@
     "list_language": [],
     "array_tags": [
       "seconds",
-      "sporting",
       "simple",
-      "stars",
       "steps",
       "sun",
       "sport"
@@ -898,14 +868,11 @@
     "array_tags": [
       "digital",
       "distance",
-      "gradient",
       "pulse",
       "weather",
       "pai",
-      "humidity",
       "calories",
-      "steps",
-      "mediatouch"
+      "steps"
     ],
     "list_album": [
       {
@@ -1112,7 +1079,6 @@
       "steps",
       "sun",
       "floors",
-      "deutsch",
       "weather",
       "alarm",
       "pai"

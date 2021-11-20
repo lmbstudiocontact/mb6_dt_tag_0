@@ -61,8 +61,7 @@
       "heartrate",
       "weather",
       "time",
-      "day",
-      "wind"
+      "day"
     ],
     "list_album": [
       {
@@ -106,7 +105,6 @@
       "calories",
       "battery",
       "steps",
-      "classy",
       "donotdisturb",
       "month",
       "bluetooth",
@@ -131,17 +129,15 @@
     "array_tags": [
       "date",
       "distance",
+      "month",
+      "bluetooth",
       "heartrate",
+      "lock",
       "calories",
       "battery",
       "steps",
-      "classy",
-      "donotdisturb",
-      "month",
-      "bluetooth",
-      "lock",
       "day",
-      "colorful"
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -165,7 +161,6 @@
       "calories",
       "battery",
       "steps",
-      "classy",
       "donotdisturb",
       "month",
       "bluetooth",
@@ -189,18 +184,14 @@
     "array_tags": [
       "digital",
       "distance",
-      "advanced",
       "heartrate",
       "steps",
-      "highlights",
       "month",
       "bluetooth",
-      "sidebar",
       "english",
       "weather",
       "pulse",
       "pai",
-      "illuminated",
       "dnd",
       "day"
     ],
@@ -306,7 +297,6 @@
       "minimal",
       "heartrate",
       "weather",
-      "aion",
       "calories",
       "battery",
       "day",
@@ -397,28 +387,15 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "vermelho",
-      "week",
-      "brasileiro",
-      "gol",
+      "red",
+      "month",
       "heartrate",
-      "brasileirao",
       "weekday",
       "brasil",
-      "battery",
-      "flamengo",
-      "steps",
-      "red",
-      "campeao",
-      "month",
-      "octacampeao",
-      "rj",
-      "gerson",
-      "fla",
       "time",
-      "gabigol",
-      "day",
-      "carioca"
+      "battery",
+      "steps",
+      "day"
     ],
     "list_album": [
       {
@@ -483,7 +460,6 @@
     "array_tags": [
       "analog",
       "blue",
-      "rolex",
       "day"
     ],
     "list_album": [
@@ -530,12 +506,8 @@
     "array_tags": [
       "analog",
       "green",
-      "impactopdesign",
-      "rolex",
       "weekday",
-      "luxury",
-      "day",
-      "lux"
+      "day"
     ],
     "list_album": [
       {
@@ -552,33 +524,19 @@
     "id_bin": "580",
     "list_language": [],
     "array_tags": [
+      "digital",
       "date",
-      "escuro",
       "game",
+      "heartrate",
       "weekday",
       "brasil",
       "battery",
+      "steps",
       "space",
-      "crewmate",
-      "computer",
-      "amongus",
-      "videogame",
+      "month",
       "games",
       "dark",
-      "jogo",
-      "day",
-      "popular",
-      "us",
-      "digital",
-      "gaming",
-      "heartrate",
-      "stars",
-      "steps",
-      "estrelas",
-      "impostor",
-      "month",
-      "among",
-      "cian"
+      "day"
     ],
     "list_album": [
       {
@@ -598,22 +556,14 @@
       "date",
       "digital",
       "soccer",
-      "euro",
-      "champions",
+      "blue",
+      "month",
       "heartrate",
       "weekday",
-      "football",
       "futebol",
       "battery",
       "steps",
-      "futbol",
-      "blue",
-      "month",
-      "franca",
-      "france",
-      "europe",
-      "day",
-      "cup"
+      "day"
     ],
     "list_album": [
       {
@@ -630,10 +580,7 @@
     "id_bin": "639",
     "list_language": [],
     "array_tags": [
-      "tee",
-      "day",
-      "life",
-      "morning"
+      "day"
     ],
     "list_album": [
       {
@@ -697,15 +644,14 @@
       "digital",
       "date",
       "game",
-      "temp",
       "pokemon",
       "heartrate",
-      "battery",
-      "steps",
       "games",
       "temperature",
       "weather",
-      "day"
+      "battery",
+      "day",
+      "steps"
     ],
     "list_album": [
       {
@@ -746,9 +692,7 @@
       "black",
       "basic",
       "battery",
-      "portugues",
-      "day",
-      "grey"
+      "day"
     ],
     "list_album": [
       {
@@ -804,7 +748,6 @@
     "id_bin": "719",
     "list_language": [],
     "array_tags": [
-      "week",
       "white",
       "distance",
       "black",
@@ -830,21 +773,14 @@
     "id_bin": "790",
     "list_language": [],
     "array_tags": [
-      "passi",
-      "analogico",
+      "analog",
       "heartrate",
+      "english",
       "weekday",
       "italian",
-      "settimana",
       "calories",
       "steps",
-      "analog",
-      "ita",
-      "english",
-      "calorie",
-      "day",
-      "battiti",
-      "giorni"
+      "day"
     ],
     "list_album": [
       {
@@ -866,7 +802,6 @@
       "distance",
       "notdisturb",
       "heartrate",
-      "stars",
       "calories",
       "kcal",
       "bluetooth",
@@ -891,15 +826,9 @@
     "id_bin": "1738",
     "list_language": [],
     "array_tags": [
-      "hours",
-      "boss",
-      "minutes",
-      "farsi",
-      "beach",
       "battery",
       "steps",
-      "day",
-      "persian"
+      "day"
     ],
     "list_album": [
       {
@@ -917,7 +846,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "percentage",
       "weekday",
       "simple",
       "battery",
@@ -980,7 +908,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -1012,7 +939,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -1070,7 +996,6 @@
       "digital",
       "date",
       "month",
-      "ampm",
       "heartrate",
       "pulse",
       "time",
@@ -1096,16 +1021,11 @@
       "digital",
       "date",
       "soccer",
-      "fluminense",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
       "steps",
-      "flu",
-      "rj",
       "day"
     ],
     "list_album": [
@@ -1130,7 +1050,6 @@
       "calories",
       "battery",
       "steps",
-      "look",
       "floors",
       "bluetooth",
       "weather",
@@ -1155,7 +1074,6 @@
       "digital",
       "date",
       "analog",
-      "disney",
       "heartrate",
       "animated",
       "battery",

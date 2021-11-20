@@ -7,12 +7,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "calendar",
       "date",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -39,7 +36,6 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
       "weekday",
       "calories",
       "battery",
@@ -141,7 +137,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",
@@ -215,7 +210,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "simple",
@@ -263,7 +257,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",
@@ -287,8 +280,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "nokia",
-      "digitalky",
       "weather",
       "battery"
     ],
@@ -334,9 +325,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pilsen",
-      "weather",
-      "czech"
+      "weather"
     ],
     "list_album": [
       {
@@ -354,10 +343,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pilsen",
       "weather",
-      "weekday",
-      "czech"
+      "weekday"
     ],
     "list_album": [
       {
@@ -486,11 +473,9 @@
       "alarm",
       "animated",
       "health",
-      "steinsgate",
       "battery",
       "steps",
-      "anime",
-      "temperatur"
+      "anime"
     ],
     "list_album": [
       {
@@ -513,7 +498,6 @@
       "distance",
       "heartrate",
       "weather",
-      "calorie",
       "pai",
       "battery",
       "steps",
@@ -537,8 +521,7 @@
       "date",
       "analog",
       "weather",
-      "battery",
-      "czechia"
+      "battery"
     ],
     "list_album": [
       {
@@ -590,8 +573,7 @@
       "bluetooth",
       "weather",
       "alarm",
-      "lock",
-      "temperatur"
+      "lock"
     ],
     "list_album": [
       {
@@ -609,14 +591,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "cat",
       "black",
       "weather",
-      "google",
       "battery",
       "sport",
-      "steps",
-      "pixel"
+      "steps"
     ],
     "list_album": [
       {
@@ -633,7 +612,6 @@
     "id_bin": "1616",
     "list_language": [],
     "array_tags": [
-      "week",
       "weather",
       "alarm",
       "pai",
@@ -724,7 +702,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digitalky",
       "weather",
       "weekday",
       "alarm",
@@ -775,7 +752,6 @@
       "date",
       "weekday",
       "weather",
-      "bender",
       "battery",
       "animation"
     ],
@@ -848,11 +824,8 @@
     "array_tags": [
       "digital",
       "date",
-      "hours",
-      "digitalky",
       "weather",
       "weekday",
-      "epic",
       "battery"
     ],
     "list_album": [
@@ -872,8 +845,6 @@
     "array_tags": [
       "bluetooth",
       "weather",
-      "minimalist",
-      "minimalista",
       "battery",
       "steps"
     ],
@@ -918,12 +889,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "hours",
       "bluetooth",
       "weather",
       "weekday",
-      "battery",
-      "perun"
+      "battery"
     ],
     "list_album": [
       {
@@ -1012,16 +981,13 @@
       "digital",
       "date",
       "distance",
+      "bluetooth",
       "heartrate",
-      "digi",
+      "weather",
       "italian",
       "calories",
       "battery",
       "steps",
-      "bluetooth",
-      "ita",
-      "weather",
-      "mediatouch",
       "status"
     ],
     "list_album": [

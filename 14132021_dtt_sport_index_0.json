@@ -8,9 +8,7 @@
     "array_tags": [
       "date",
       "weather",
-      "google",
       "battery",
-      "pixel",
       "sport",
       "steps"
     ],
@@ -47,7 +45,6 @@
     "id_bin": "1118",
     "list_language": [],
     "array_tags": [
-      "color",
       "bluetooth",
       "notdisturb",
       "lock",
@@ -72,7 +69,6 @@
     "list_language": [],
     "array_tags": [
       "minimal",
-      "sporting",
       "sport"
     ],
     "list_album": [
@@ -91,14 +87,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "cat",
       "black",
       "weather",
-      "google",
       "battery",
       "sport",
-      "steps",
-      "pixel"
+      "steps"
     ],
     "list_album": [
       {
@@ -117,10 +110,7 @@
     "array_tags": [
       "date",
       "soccer",
-      "psg",
-      "football",
       "time",
-      "team",
       "sport"
     ],
     "list_album": [
@@ -139,9 +129,6 @@
     "list_language": [],
     "array_tags": [
       "soccer",
-      "manu",
-      "ronaldo",
-      "football",
       "time",
       "sport"
     ],
@@ -160,14 +147,9 @@
     "id_bin": "1621",
     "list_language": [],
     "array_tags": [
-      "orange",
       "soccer",
-      "barcelona",
-      "football",
-      "goat",
       "time",
-      "sport",
-      "messi"
+      "sport"
     ],
     "list_album": [
       {
@@ -185,7 +167,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "sporting",
       "battery",
       "sport",
       "steps"
@@ -206,7 +187,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "sporting",
       "steps",
       "sport"
     ],
@@ -226,9 +206,7 @@
     "list_language": [],
     "array_tags": [
       "seconds",
-      "sporting",
       "simple",
-      "stars",
       "steps",
       "sun",
       "sport"
@@ -324,16 +302,11 @@
       "date",
       "soccer",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
-      "steps",
-      "spfc",
-      "futbol",
-      "sp",
-      "sport"
+      "sport",
+      "steps"
     ],
     "list_album": [
       {
@@ -350,11 +323,7 @@
     "id_bin": "99",
     "list_language": [],
     "array_tags": [
-      "marca",
       "blue",
-      "deporte",
-      "nike",
-      "azul",
       "sport"
     ],
     "list_album": [

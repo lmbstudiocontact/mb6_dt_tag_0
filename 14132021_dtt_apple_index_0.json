@@ -9,8 +9,6 @@
       "digital",
       "date",
       "apple",
-      "rainbow",
-      "digi",
       "weather",
       "italian",
       "battery",
@@ -31,7 +29,6 @@
     "id_bin": "161",
     "list_language": [],
     "array_tags": [
-      "applerainbow",
       "apple"
     ],
     "list_album": [
@@ -50,17 +47,16 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "nike",
-      "heartrate",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "apple",
       "bluetooth",
+      "heartrate",
+      "weekday",
       "weather",
       "lock",
-      "dnd"
+      "calories",
+      "dnd",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -82,8 +78,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
-      "alien",
       "watchos"
     ],
     "list_album": [
@@ -105,7 +99,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -148,7 +141,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -170,7 +162,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -191,10 +182,7 @@
       "date",
       "apple",
       "heartrate",
-      "disney",
-      "toystory",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -216,7 +204,6 @@
       "apple",
       "heartrate",
       "english",
-      "woody",
       "watchos"
     ],
     "list_album": [
@@ -235,7 +222,6 @@
     "list_language": [],
     "array_tags": [
       "apple",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -255,10 +241,8 @@
     "array_tags": [
       "date",
       "apple",
-      "activity",
       "heartrate",
       "english",
-      "ios",
       "steps",
       "watchos"
     ],
@@ -279,7 +263,6 @@
     "array_tags": [
       "date",
       "apple",
-      "nike",
       "weather",
       "battery",
       "steps"
@@ -301,7 +284,6 @@
     "array_tags": [
       "date",
       "apple",
-      "nike",
       "watchos"
     ],
     "list_album": [
@@ -322,7 +304,6 @@
       "apple",
       "green",
       "watch",
-      "yellow",
       "simple",
       "time"
     ],
@@ -342,12 +323,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "orange",
       "apple",
       "heartrate",
       "weather",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -365,8 +344,7 @@
     "id_bin": "611",
     "list_language": [],
     "array_tags": [
-      "apple",
-      "iphone"
+      "apple"
     ],
     "list_album": [
       {
@@ -383,9 +361,7 @@
     "id_bin": "2183",
     "list_language": [],
     "array_tags": [
-      "apple",
-      "google",
-      "macos"
+      "apple"
     ],
     "list_album": [
       {
@@ -404,21 +380,13 @@
     "array_tags": [
       "digital",
       "date",
-      "big",
-      "bateria",
-      "numerals",
+      "apple",
+      "minimal",
+      "pulse",
       "battery",
       "steps",
       "colors",
-      "watchos",
-      "apple",
-      "rainbow",
-      "minimal",
-      "pride",
-      "pulse",
-      "passos",
-      "duo",
-      "lgbt"
+      "watchos"
     ],
     "list_album": [
       {

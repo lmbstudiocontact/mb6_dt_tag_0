@@ -360,7 +360,6 @@
       "weather",
       "temperature",
       "weekday",
-      "humidity",
       "calories",
       "battery",
       "steps"
@@ -386,7 +385,6 @@
       "heartrate",
       "weather",
       "temperature",
-      "humidity",
       "calories",
       "battery",
       "steps"
@@ -488,7 +486,6 @@
       "distance",
       "heartrate",
       "weather",
-      "calorie",
       "pai",
       "battery",
       "steps",
@@ -521,8 +518,7 @@
       "bluetooth",
       "weather",
       "alarm",
-      "lock",
-      "temperatur"
+      "lock"
     ],
     "list_album": [
       {
@@ -841,7 +837,6 @@
       "battery",
       "steps",
       "sun",
-      "mitu",
       "seconds",
       "floors",
       "weather",
@@ -1024,9 +1019,7 @@
     "list_language": [],
     "array_tags": [
       "seconds",
-      "sporting",
       "simple",
-      "stars",
       "steps",
       "sun",
       "sport"

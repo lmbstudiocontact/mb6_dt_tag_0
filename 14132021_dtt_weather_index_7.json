@@ -32,7 +32,6 @@
       "pulse",
       "weather",
       "weekday",
-      "epic",
       "calories",
       "steps",
       "animation",
@@ -57,11 +56,9 @@
       "heartrate",
       "weekday",
       "simple",
-      "clock",
       "calories",
       "battery",
       "steps",
-      "cute",
       "bluetooth",
       "weather",
       "pulse",
@@ -117,8 +114,7 @@
       "calories",
       "time",
       "steps",
-      "status",
-      "temperatur"
+      "status"
     ],
     "list_album": [
       {
@@ -139,13 +135,10 @@
       "date",
       "distance",
       "heartrate",
-      "nixie",
       "calories",
       "battery",
       "steps",
-      "bt",
       "floors",
-      "nd",
       "weather",
       "alarm",
       "lock",
@@ -216,7 +209,6 @@
     "array_tags": [
       "bluetooth",
       "heartrate",
-      "percentage",
       "weather",
       "lock",
       "calories",
@@ -378,7 +370,6 @@
       "analog",
       "seconds",
       "floors",
-      "top",
       "weather",
       "anime"
     ],

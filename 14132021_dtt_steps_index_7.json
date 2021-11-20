@@ -225,7 +225,6 @@
       "minimal",
       "heartrate",
       "weather",
-      "aion",
       "calories",
       "battery",
       "day",
@@ -310,7 +309,6 @@
       "distance",
       "weather",
       "pulse",
-      "humidity",
       "calories",
       "steps"
     ],
@@ -510,28 +508,15 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "vermelho",
-      "week",
-      "brasileiro",
-      "gol",
+      "red",
+      "month",
       "heartrate",
-      "brasileirao",
       "weekday",
       "brasil",
-      "battery",
-      "flamengo",
-      "steps",
-      "red",
-      "campeao",
-      "month",
-      "octacampeao",
-      "rj",
-      "gerson",
-      "fla",
       "time",
-      "gabigol",
-      "day",
-      "carioca"
+      "battery",
+      "steps",
+      "day"
     ],
     "list_album": [
       {
@@ -596,17 +581,15 @@
     "array_tags": [
       "digital",
       "date",
-      "distance",
-      "heartrate",
-      "retro",
-      "battery",
-      "steps",
-      "sythnwave",
       "analog",
       "seconds",
       "floors",
+      "distance",
+      "heartrate",
+      "retro",
       "weather",
-      "rubnlee"
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -785,7 +768,6 @@
       "distance",
       "weather",
       "pulse",
-      "heyplus",
       "simple",
       "calories",
       "steps"
@@ -894,33 +876,19 @@
     "id_bin": "580",
     "list_language": [],
     "array_tags": [
+      "digital",
       "date",
-      "escuro",
       "game",
+      "heartrate",
       "weekday",
       "brasil",
       "battery",
+      "steps",
       "space",
-      "crewmate",
-      "computer",
-      "amongus",
-      "videogame",
+      "month",
       "games",
       "dark",
-      "jogo",
-      "day",
-      "popular",
-      "us",
-      "digital",
-      "gaming",
-      "heartrate",
-      "stars",
-      "steps",
-      "estrelas",
-      "impostor",
-      "month",
-      "among",
-      "cian"
+      "day"
     ],
     "list_album": [
       {
@@ -942,12 +910,9 @@
       "english",
       "weather",
       "pulse",
-      "humidity",
       "italian",
       "calories",
-      "polish",
-      "steps",
-      "french"
+      "steps"
     ],
     "list_album": [
       {
@@ -1035,7 +1000,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "rick",
       "steps"
     ],
     "list_album": [
@@ -1054,11 +1018,9 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "impactopdesign",
       "heartrate",
       "battery",
-      "steps",
-      "minions"
+      "steps"
     ],
     "list_album": [
       {
@@ -1078,22 +1040,14 @@
       "date",
       "digital",
       "soccer",
-      "euro",
-      "champions",
+      "blue",
+      "month",
       "heartrate",
       "weekday",
-      "football",
       "futebol",
       "battery",
       "steps",
-      "futbol",
-      "blue",
-      "month",
-      "franca",
-      "france",
-      "europe",
-      "day",
-      "cup"
+      "day"
     ],
     "list_album": [
       {
@@ -1157,17 +1111,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "mitu",
-      "floors",
-      "micomunity",
-      "weather",
-      "alarm"
+      "sun"
     ],
     "list_album": [
       {

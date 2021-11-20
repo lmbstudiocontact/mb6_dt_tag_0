@@ -77,7 +77,6 @@
     "array_tags": [
       "digital",
       "red",
-      "big",
       "distance",
       "heartrate",
       "retro",
@@ -102,16 +101,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "bretagne"
+      "sun"
     ],
     "list_album": [
       {
@@ -130,16 +127,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "corse"
+      "sun"
     ],
     "list_album": [
       {
@@ -200,14 +195,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "chomusuke",
       "heartrate",
-      "cat",
-      "step",
       "calories",
-      "battery",
-      "konosuba",
-      "rpm"
+      "battery"
     ],
     "list_album": [
       {
@@ -256,7 +246,6 @@
       "distance",
       "notdisturb",
       "heartrate",
-      "stars",
       "calories",
       "kcal",
       "bluetooth",
@@ -444,15 +433,10 @@
     "array_tags": [
       "digital",
       "date",
-      "horror",
       "heartrate",
-      "bones",
       "dark",
-      "bone",
-      "skull",
       "battery",
-      "steps",
-      "blood"
+      "steps"
     ],
     "list_album": [
       {
@@ -471,7 +455,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -633,12 +616,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "calendar",
       "date",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -667,8 +647,7 @@
       "pokemon",
       "heartrate",
       "battery",
-      "steps",
-      "mew"
+      "steps"
     ],
     "list_album": [
       {
@@ -687,7 +666,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -719,7 +697,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -773,7 +750,6 @@
     "array_tags": [
       "heartrate",
       "animated",
-      "power",
       "anime",
       "animation"
     ],
@@ -862,7 +838,6 @@
     "array_tags": [
       "pokemon",
       "heartrate",
-      "gardevoir",
       "anime"
     ],
     "list_album": [
@@ -882,8 +857,7 @@
     "array_tags": [
       "marvel",
       "heartrate",
-      "pulse",
-      "spiderman"
+      "pulse"
     ],
     "list_album": [
       {
@@ -901,8 +875,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "cardgame",
-      "dragon",
       "anime"
     ],
     "list_album": [
@@ -921,7 +893,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "cardgame",
       "anime"
     ],
     "list_album": [
@@ -940,7 +911,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "cardgame",
       "anime"
     ],
     "list_album": [
@@ -959,7 +929,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "cardgame",
       "anime"
     ],
     "list_album": [
@@ -978,7 +947,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "cardgame",
       "anime"
     ],
     "list_album": [
@@ -997,7 +965,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "cardgame",
       "anime"
     ],
     "list_album": [
@@ -1037,8 +1004,7 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "anime",
-      "aizawa"
+      "anime"
     ],
     "list_album": [
       {
@@ -1055,7 +1021,6 @@
     "id_bin": "2125",
     "list_language": [],
     "array_tags": [
-      "hawks",
       "heartrate",
       "anime"
     ],
@@ -1074,7 +1039,6 @@
     "id_bin": "2126",
     "list_language": [],
     "array_tags": [
-      "tomura",
       "heartrate",
       "anime"
     ],
@@ -1093,7 +1057,6 @@
     "id_bin": "2127",
     "list_language": [],
     "array_tags": [
-      "tomioka",
       "heartrate",
       "anime"
     ],

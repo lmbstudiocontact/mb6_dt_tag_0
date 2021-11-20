@@ -54,17 +54,15 @@
     "array_tags": [
       "digital",
       "date",
-      "distance",
-      "heartrate",
-      "retro",
-      "battery",
-      "steps",
-      "sythnwave",
       "analog",
       "seconds",
       "floors",
+      "distance",
+      "heartrate",
+      "retro",
       "weather",
-      "rubnlee"
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -287,20 +285,13 @@
     "array_tags": [
       "digital",
       "date",
-      "neymar",
       "soccer",
+      "seconds",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
-      "steps",
-      "futbol",
-      "seconds",
-      "pele",
-      "sp",
-      "santos"
+      "steps"
     ],
     "list_album": [
       {
@@ -479,7 +470,6 @@
       "analog",
       "seconds",
       "floors",
-      "top",
       "weather",
       "anime"
     ],

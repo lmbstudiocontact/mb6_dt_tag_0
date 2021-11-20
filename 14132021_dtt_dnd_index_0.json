@@ -63,30 +63,21 @@
     "array_tags": [
       "date",
       "distance",
-      "oled",
-      "battery",
-      "qled",
-      "miles",
-      "amoled",
-      "temperature",
-      "pai",
-      "lock",
-      "dnd",
-      "mi",
-      "km",
-      "blocks",
       "heartrate",
       "calories",
+      "battery",
       "steps",
       "animation",
       "donotdisturb",
       "kcal",
       "bluetooth",
+      "temperature",
       "pulse",
-      "kilometer",
+      "pai",
       "animated",
+      "lock",
       "time",
-      "dijkmeneer"
+      "dnd"
     ],
     "list_album": [
       {
@@ -106,7 +97,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -134,15 +124,10 @@
     "array_tags": [
       "red",
       "date",
-      "nintendo",
       "bluetooth",
       "games",
-      "mario",
-      "days",
-      "arcade",
       "dnd",
-      "battery",
-      "rush"
+      "battery"
     ],
     "list_album": [
       {
@@ -160,17 +145,16 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "nike",
-      "heartrate",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "apple",
       "bluetooth",
+      "heartrate",
+      "weekday",
       "weather",
       "lock",
-      "dnd"
+      "calories",
+      "dnd",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -189,18 +173,14 @@
     "array_tags": [
       "digital",
       "distance",
-      "advanced",
       "heartrate",
       "steps",
-      "highlights",
       "month",
       "bluetooth",
-      "sidebar",
       "english",
       "weather",
       "pulse",
       "pai",
-      "illuminated",
       "dnd",
       "day"
     ],
@@ -249,7 +229,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -257,7 +236,6 @@
       "analog",
       "bluetooth",
       "weather",
-      "humidity",
       "lock",
       "dnd"
     ],
@@ -334,7 +312,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -365,7 +342,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "clear",
       "simple",
       "battery",
@@ -395,14 +371,12 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
       "battery",
       "clean",
       "steps",
-      "tilted",
       "minimal",
       "bluetooth",
       "legible",
@@ -426,7 +400,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -540,7 +513,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -572,7 +544,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -603,15 +574,12 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "xxxtentacion",
       "bluetooth",
       "weather",
-      "google",
       "simple",
       "time",
       "dnd",
-      "battery",
-      "heart"
+      "battery"
     ],
     "list_album": [
       {
@@ -631,18 +599,15 @@
       "digital",
       "date",
       "weekday",
-      "clock",
       "calories",
       "battery",
       "steps",
       "colors",
-      "orange",
       "bluetooth",
       "weather",
       "pulse",
       "lock",
-      "dnd",
-      "fashion"
+      "dnd"
     ],
     "list_album": [
       {
@@ -663,11 +628,9 @@
       "heartrate",
       "weekday",
       "simple",
-      "clock",
       "calories",
       "battery",
       "steps",
-      "cute",
       "bluetooth",
       "weather",
       "pulse",
@@ -690,10 +653,8 @@
     "list_language": [],
     "array_tags": [
       "bluetooth",
-      "minimalist",
       "lock",
       "dnd",
-      "girl",
       "sun"
     ],
     "list_album": [

@@ -8,16 +8,12 @@
     "array_tags": [
       "digital",
       "date",
-      "vice",
       "game",
       "distance",
-      "city",
       "heartrate",
+      "weather",
       "battery",
-      "steps",
-      "gta",
-      "hud",
-      "weather"
+      "steps"
     ],
     "list_album": [
       {
@@ -85,11 +81,9 @@
       "distance",
       "heartrate",
       "weather",
-      "slovak",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -111,11 +105,9 @@
       "distance",
       "heartrate",
       "weather",
-      "slovak",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -136,7 +128,6 @@
       "distance",
       "pulse",
       "weather",
-      "lovebites",
       "steps"
     ],
     "list_album": [
@@ -161,7 +152,6 @@
       "calories",
       "battery",
       "steps",
-      "look",
       "floors",
       "bluetooth",
       "weather",
@@ -185,16 +175,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
+      "bluetooth",
       "heartrate",
+      "weather",
+      "alarm",
       "calories",
       "battery",
-      "steps",
-      "look",
-      "floors",
-      "bluetooth",
-      "weather",
-      "alarm"
+      "steps"
     ],
     "list_album": [
       {
@@ -245,7 +234,6 @@
       "steps",
       "floors",
       "bluetooth",
-      "nd",
       "weather",
       "alarm",
       "lock"
@@ -296,8 +284,7 @@
       "weather",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -346,11 +333,9 @@
       "heartrate",
       "weekday",
       "simple",
-      "clock",
       "calories",
       "battery",
       "steps",
-      "cute",
       "bluetooth",
       "weather",
       "pulse",
@@ -376,13 +361,10 @@
       "date",
       "distance",
       "heartrate",
-      "nixie",
       "calories",
       "battery",
       "steps",
-      "bt",
       "floors",
-      "nd",
       "weather",
       "alarm",
       "lock",
@@ -453,10 +435,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "metas",
       "distance",
-      "data",
-      "atstumas",
       "english",
       "time",
       "battery",
@@ -639,7 +618,6 @@
       "analog",
       "seconds",
       "floors",
-      "top",
       "weather",
       "anime"
     ],

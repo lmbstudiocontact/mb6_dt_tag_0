@@ -7,10 +7,7 @@
     "list_language": [],
     "array_tags": [
       "pokemon",
-      "comics",
-      "games",
-      "pikachu",
-      "animes"
+      "games"
     ],
     "list_album": [
       {
@@ -45,8 +42,7 @@
     "list_language": [],
     "array_tags": [
       "pokemon",
-      "games",
-      "pokered"
+      "games"
     ],
     "list_album": [
       {
@@ -64,8 +60,7 @@
     "list_language": [],
     "array_tags": [
       "pokemon",
-      "games",
-      "pokered"
+      "games"
     ],
     "list_album": [
       {
@@ -85,15 +80,14 @@
       "digital",
       "date",
       "game",
-      "temp",
       "pokemon",
       "heartrate",
-      "battery",
-      "steps",
       "games",
       "temperature",
       "weather",
-      "day"
+      "battery",
+      "day",
+      "steps"
     ],
     "list_album": [
       {
@@ -110,8 +104,7 @@
     "id_bin": "787",
     "list_language": [],
     "array_tags": [
-      "pokemon",
-      "pikachu"
+      "pokemon"
     ],
     "list_album": [
       {
@@ -128,8 +121,7 @@
     "id_bin": "799",
     "list_language": [],
     "array_tags": [
-      "pokemon",
-      "pikachu"
+      "pokemon"
     ],
     "list_album": [
       {
@@ -146,9 +138,7 @@
     "id_bin": "1816",
     "list_language": [],
     "array_tags": [
-      "pokemon",
-      "nike",
-      "lugia"
+      "pokemon"
     ],
     "list_album": [
       {
@@ -169,8 +159,7 @@
       "pokemon",
       "heartrate",
       "battery",
-      "steps",
-      "mew"
+      "steps"
     ],
     "list_album": [
       {
@@ -189,7 +178,6 @@
     "array_tags": [
       "pokemon",
       "heartrate",
-      "gardevoir",
       "anime"
     ],
     "list_album": [
@@ -210,7 +198,6 @@
       "pokemon",
       "heartrate",
       "steps",
-      "lugia",
       "anime"
     ],
     "list_album": [
@@ -231,7 +218,6 @@
       "pokemon",
       "heartrate",
       "games",
-      "charizard",
       "steps",
       "anime"
     ],
@@ -251,7 +237,6 @@
     "list_language": [],
     "array_tags": [
       "pokemon",
-      "blastoise",
       "heartrate",
       "games",
       "steps",
@@ -275,7 +260,6 @@
       "pokemon",
       "heartrate",
       "games",
-      "venusaur",
       "steps",
       "anime"
     ],
@@ -348,8 +332,6 @@
       "analog",
       "pokemon",
       "heartrate",
-      "days",
-      "luxio",
       "steps",
       "animation"
     ],
@@ -369,10 +351,7 @@
     "list_language": [],
     "array_tags": [
       "pokemon",
-      "comics",
-      "games",
-      "pikachu",
-      "animes"
+      "games"
     ],
     "list_album": [
       {

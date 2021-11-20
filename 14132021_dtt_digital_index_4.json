@@ -55,8 +55,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "watch",
-      "casio"
+      "watch"
     ],
     "list_album": [
       {
@@ -365,9 +364,7 @@
     "id_bin": "235",
     "list_language": [],
     "array_tags": [
-      "digital",
-      "classic",
-      "casio"
+      "digital"
     ],
     "list_album": [
       {
@@ -632,7 +629,6 @@
       "battery",
       "steps",
       "sun",
-      "mitu",
       "seconds",
       "floors",
       "weather",
@@ -692,7 +688,6 @@
       "date",
       "heartrate",
       "weather",
-      "casio",
       "battery",
       "steps"
     ],
@@ -806,17 +801,16 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "nike",
-      "heartrate",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "apple",
       "bluetooth",
+      "heartrate",
+      "weekday",
       "weather",
       "lock",
-      "dnd"
+      "calories",
+      "dnd",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -966,8 +960,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
-      "alien",
       "watchos"
     ],
     "list_album": [
@@ -1068,12 +1060,9 @@
     "array_tags": [
       "digital",
       "date",
-      "megaman",
       "distance",
-      "megaband",
       "calories",
       "battery",
-      "portugues",
       "steps"
     ],
     "list_album": [

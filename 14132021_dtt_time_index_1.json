@@ -7,8 +7,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "meme",
-      "cat",
       "pulse",
       "time",
       "battery",
@@ -29,8 +27,6 @@
     "id_bin": "1606",
     "list_language": [],
     "array_tags": [
-      "banana",
-      "cat",
       "simple",
       "time"
     ],
@@ -49,12 +45,7 @@
     "id_bin": "1607",
     "list_language": [],
     "array_tags": [
-      "blackpink",
-      "pink",
-      "lalisa",
-      "manoban",
       "black",
-      "lisa",
       "time"
     ],
     "list_album": [
@@ -73,9 +64,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "trollface",
       "pulse",
-      "troll",
       "animated",
       "time",
       "steps"
@@ -97,10 +86,7 @@
     "array_tags": [
       "date",
       "soccer",
-      "psg",
-      "football",
       "time",
-      "team",
       "sport"
     ],
     "list_album": [
@@ -119,9 +105,6 @@
     "list_language": [],
     "array_tags": [
       "soccer",
-      "manu",
-      "ronaldo",
-      "football",
       "time",
       "sport"
     ],
@@ -140,14 +123,9 @@
     "id_bin": "1621",
     "list_language": [],
     "array_tags": [
-      "orange",
       "soccer",
-      "barcelona",
-      "football",
-      "goat",
       "time",
-      "sport",
-      "messi"
+      "sport"
     ],
     "list_album": [
       {
@@ -190,7 +168,6 @@
       "date",
       "bluetooth",
       "pulse",
-      "sot",
       "time",
       "battery",
       "steps"
@@ -211,7 +188,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "atam",
       "bluetooth",
       "heartrate",
       "time",
@@ -239,9 +215,7 @@
       "weekday",
       "time",
       "battery",
-      "am",
-      "steps",
-      "pm"
+      "steps"
     ],
     "list_album": [
       {
@@ -369,8 +343,7 @@
       "alarm",
       "time",
       "battery",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {
@@ -392,8 +365,7 @@
       "heartrate",
       "weather",
       "time",
-      "day",
-      "wind"
+      "day"
     ],
     "list_album": [
       {
@@ -543,15 +515,10 @@
     "id_bin": "393",
     "list_language": [],
     "array_tags": [
-      "astronaut",
       "minimal",
       "green",
-      "vintage",
-      "future",
-      "flying",
       "retro",
       "weather",
-      "casio",
       "time",
       "space"
     ],
@@ -573,7 +540,6 @@
       "apple",
       "green",
       "watch",
-      "yellow",
       "simple",
       "time"
     ],
@@ -594,7 +560,6 @@
     "array_tags": [
       "date",
       "heartrate",
-      "wola",
       "time"
     ],
     "list_album": [
@@ -613,28 +578,15 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "vermelho",
-      "week",
-      "brasileiro",
-      "gol",
+      "red",
+      "month",
       "heartrate",
-      "brasileirao",
       "weekday",
       "brasil",
-      "battery",
-      "flamengo",
-      "steps",
-      "red",
-      "campeao",
-      "month",
-      "octacampeao",
-      "rj",
-      "gerson",
-      "fla",
       "time",
-      "gabigol",
-      "day",
-      "carioca"
+      "battery",
+      "steps",
+      "day"
     ],
     "list_album": [
       {
@@ -656,7 +608,6 @@
       "weather",
       "weekday",
       "pai",
-      "humidity",
       "time",
       "calories",
       "battery",
@@ -679,10 +630,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "mcfly",
-      "nixie",
-      "ita",
-      "steinsgate",
       "italian",
       "time"
     ],
@@ -722,7 +669,6 @@
     "id_bin": "719",
     "list_language": [],
     "array_tags": [
-      "week",
       "white",
       "distance",
       "black",
@@ -749,9 +695,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "time",
-      "simply",
-      "scorpion"
+      "time"
     ],
     "list_album": [
       {
@@ -769,14 +713,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "ita",
       "english",
-      "yellow",
       "black",
       "italian",
       "time",
-      "steps",
-      "pixel"
+      "steps"
     ],
     "list_album": [
       {
@@ -794,7 +735,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "temp",
       "time",
       "battery"
     ],
@@ -895,21 +835,14 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "sky",
-      "green",
-      "data",
-      "island",
-      "simple",
-      "simplicity",
-      "minimalista",
-      "battery",
       "minimal",
+      "green",
       "white",
       "bluetooth",
-      "minimalist",
       "lock",
+      "simple",
       "time",
-      "azul"
+      "battery"
     ],
     "list_album": [
       {
@@ -996,8 +929,7 @@
       "weather",
       "weekday",
       "time",
-      "battery",
-      "czech"
+      "battery"
     ],
     "list_album": [
       {
@@ -1017,19 +949,14 @@
       "digital",
       "distance",
       "weekday",
-      "uvi",
-      "epic",
       "calories",
       "battery",
       "steps",
       "weather",
       "alarm",
       "pulse",
-      "humidity",
       "pai",
       "time",
-      "czech",
-      "wind",
       "status"
     ],
     "list_album": [
@@ -1048,15 +975,12 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "xxxtentacion",
       "bluetooth",
       "weather",
-      "google",
       "simple",
       "time",
       "dnd",
-      "battery",
-      "heart"
+      "battery"
     ],
     "list_album": [
       {
@@ -1074,16 +998,15 @@
     "list_language": [],
     "array_tags": [
       "distance",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "weather",
       "alarm",
+      "weekday",
       "pulse",
       "pai",
       "time",
-      "czech",
+      "calories",
+      "battery",
+      "steps",
       "status"
     ],
     "list_album": [
@@ -1157,7 +1080,6 @@
       "digital",
       "distance",
       "weekday",
-      "digi",
       "calories",
       "battery",
       "steps",

@@ -26,7 +26,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "games",
       "steps",
       "anime"
@@ -106,7 +105,6 @@
     "array_tags": [
       "heartrate",
       "games",
-      "borderlands",
       "steps"
     ],
     "list_album": [
@@ -125,7 +123,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hunterxhunter",
       "steps",
       "anime"
     ],
@@ -145,7 +142,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "luffy",
       "animated",
       "onepiece",
       "steps",
@@ -168,7 +164,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "luffy",
       "animated",
       "onepiece",
       "steps",
@@ -193,16 +188,11 @@
       "digital",
       "date",
       "soccer",
-      "fluminense",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
       "steps",
-      "flu",
-      "rj",
       "day"
     ],
     "list_album": [
@@ -247,20 +237,13 @@
     "array_tags": [
       "digital",
       "date",
-      "neymar",
       "soccer",
+      "seconds",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
-      "steps",
-      "futbol",
-      "seconds",
-      "pele",
-      "sp",
-      "santos"
+      "steps"
     ],
     "list_album": [
       {
@@ -281,16 +264,11 @@
       "date",
       "soccer",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
-      "steps",
-      "spfc",
-      "futbol",
-      "sp",
-      "sport"
+      "sport",
+      "steps"
     ],
     "list_album": [
       {
@@ -356,9 +334,7 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "ubisoft",
       "games",
-      "watchdogs",
       "steps"
     ],
     "list_album": [
@@ -378,16 +354,12 @@
     "array_tags": [
       "digital",
       "date",
-      "vice",
       "game",
       "distance",
-      "city",
       "heartrate",
+      "weather",
       "battery",
-      "steps",
-      "gta",
-      "hud",
-      "weather"
+      "steps"
     ],
     "list_album": [
       {
@@ -473,11 +445,9 @@
       "distance",
       "heartrate",
       "weather",
-      "slovak",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -495,7 +465,6 @@
     "list_language": [],
     "array_tags": [
       "naruto",
-      "sasuke",
       "heartrate",
       "steps",
       "anime"
@@ -520,11 +489,9 @@
       "distance",
       "heartrate",
       "weather",
-      "slovak",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -548,7 +515,6 @@
       "calories",
       "battery",
       "steps",
-      "look",
       "floors",
       "bluetooth",
       "weather",
@@ -572,16 +538,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
+      "bluetooth",
       "heartrate",
+      "weather",
+      "alarm",
       "calories",
       "battery",
-      "steps",
-      "look",
-      "floors",
-      "bluetooth",
-      "weather",
-      "alarm"
+      "steps"
     ],
     "list_album": [
       {
@@ -602,9 +567,7 @@
       "date",
       "heartrate",
       "weather",
-      "wola",
       "battery",
-      "polish",
       "steps"
     ],
     "list_album": [
@@ -656,7 +619,6 @@
       "steps",
       "floors",
       "bluetooth",
-      "nd",
       "weather",
       "alarm",
       "lock"
@@ -707,8 +669,7 @@
       "weather",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -834,7 +795,6 @@
       "digital",
       "date",
       "analog",
-      "disney",
       "heartrate",
       "animated",
       "battery",
@@ -859,10 +819,7 @@
       "date",
       "analog",
       "heartrate",
-      "days",
-      "xenomorph",
       "steps",
-      "alien",
       "animation"
     ],
     "list_album": [
@@ -884,8 +841,6 @@
       "analog",
       "pokemon",
       "heartrate",
-      "days",
-      "luxio",
       "steps",
       "animation"
     ],
@@ -906,7 +861,6 @@
     "array_tags": [
       "date",
       "analog",
-      "baal",
       "heartrate",
       "games",
       "steps"
@@ -930,11 +884,9 @@
       "heartrate",
       "weekday",
       "simple",
-      "clock",
       "calories",
       "battery",
       "steps",
-      "cute",
       "bluetooth",
       "weather",
       "pulse",
@@ -990,8 +942,7 @@
       "calories",
       "time",
       "steps",
-      "status",
-      "temperatur"
+      "status"
     ],
     "list_album": [
       {
@@ -1012,13 +963,10 @@
       "date",
       "distance",
       "heartrate",
-      "nixie",
       "calories",
       "battery",
       "steps",
-      "bt",
       "floors",
-      "nd",
       "weather",
       "alarm",
       "lock",
@@ -1062,7 +1010,6 @@
     "array_tags": [
       "bluetooth",
       "heartrate",
-      "percentage",
       "weather",
       "lock",
       "calories",

@@ -7,7 +7,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "amoled",
       "weather",
       "pulse",
       "calories",
@@ -55,7 +54,6 @@
       "weather",
       "weekday",
       "pai",
-      "humidity",
       "time",
       "calories",
       "battery",
@@ -170,8 +168,7 @@
       "heartrate",
       "weather",
       "battery",
-      "steps",
-      "furry"
+      "steps"
     ],
     "list_album": [
       {
@@ -194,8 +191,7 @@
       "weather",
       "english",
       "battery",
-      "steps",
-      "furry"
+      "steps"
     ],
     "list_album": [
       {
@@ -214,8 +210,6 @@
     "array_tags": [
       "date",
       "digital",
-      "deep",
-      "throutle",
       "heartrate",
       "weather",
       "battery",
@@ -240,7 +234,6 @@
       "date",
       "heartrate",
       "weather",
-      "casio",
       "battery",
       "steps"
     ],
@@ -283,15 +276,14 @@
       "digital",
       "date",
       "game",
-      "temp",
       "pokemon",
       "heartrate",
-      "battery",
-      "steps",
       "games",
       "temperature",
       "weather",
-      "day"
+      "battery",
+      "day",
+      "steps"
     ],
     "list_album": [
       {
@@ -333,7 +325,6 @@
       "distance",
       "weather",
       "pulse",
-      "magnim",
       "calories",
       "steps",
       "colors"
@@ -418,9 +409,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "amoled",
       "distance",
-      "pluse",
       "weather",
       "calories",
       "steps"
@@ -441,7 +430,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "amoled",
       "distance",
       "weather",
       "pulse",
@@ -508,7 +496,6 @@
       "digital",
       "date",
       "heartrate",
-      "bracelet",
       "battery",
       "steps"
     ],
@@ -527,11 +514,8 @@
     "id_bin": "704",
     "list_language": [],
     "array_tags": [
-      "orange",
       "date",
-      "zenitsu",
       "battery",
-      "agatsuma",
       "steps",
       "anime"
     ],
@@ -633,7 +617,6 @@
     "id_bin": "719",
     "list_language": [],
     "array_tags": [
-      "week",
       "white",
       "distance",
       "black",
@@ -682,7 +665,6 @@
     "array_tags": [
       "red",
       "date",
-      "rose",
       "battery",
       "steps",
       "anime"
@@ -704,13 +686,10 @@
     "array_tags": [
       "digital",
       "date",
-      "br",
-      "pt",
       "heartrate",
       "weather",
       "brasil",
       "battery",
-      "portugues",
       "steps"
     ],
     "list_album": [
@@ -772,10 +751,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "miui",
-      "ita",
       "weekday",
-      "yellow",
       "black",
       "english",
       "italian",
@@ -799,7 +775,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -807,7 +782,6 @@
       "analog",
       "bluetooth",
       "weather",
-      "humidity",
       "lock",
       "dnd"
     ],
@@ -827,14 +801,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "ita",
       "english",
-      "yellow",
       "black",
       "italian",
       "time",
-      "steps",
-      "pixel"
+      "steps"
     ],
     "list_album": [
       {
@@ -946,15 +917,12 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "chinese",
       "distance",
       "weather",
       "pulse",
       "english",
-      "humidity",
       "italian",
       "calories",
-      "polish",
       "steps"
     ],
     "list_album": [
@@ -1022,7 +990,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -1099,7 +1066,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "clear",
       "simple",
       "battery",
@@ -1129,14 +1095,12 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
       "battery",
       "clean",
       "steps",
-      "tilted",
       "minimal",
       "bluetooth",
       "legible",
@@ -1158,21 +1122,14 @@
     "id_bin": "790",
     "list_language": [],
     "array_tags": [
-      "passi",
-      "analogico",
+      "analog",
       "heartrate",
+      "english",
       "weekday",
       "italian",
-      "settimana",
       "calories",
       "steps",
-      "analog",
-      "ita",
-      "english",
-      "calorie",
-      "day",
-      "battiti",
-      "giorni"
+      "day"
     ],
     "list_album": [
       {

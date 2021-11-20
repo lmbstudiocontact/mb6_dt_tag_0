@@ -9,7 +9,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -39,7 +38,6 @@
       "date",
       "bluetooth",
       "pai",
-      "days",
       "battery",
       "steps"
     ],
@@ -307,7 +305,6 @@
       "weather",
       "temperature",
       "weekday",
-      "humidity",
       "calories",
       "battery",
       "steps"
@@ -333,7 +330,6 @@
       "heartrate",
       "weather",
       "temperature",
-      "humidity",
       "calories",
       "battery",
       "steps"
@@ -414,12 +410,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "calendar",
       "date",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -467,7 +460,6 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
       "weekday",
       "calories",
       "battery",
@@ -496,8 +488,6 @@
     "id_bin": "1462",
     "list_language": [],
     "array_tags": [
-      "tesla",
-      "car",
       "simple",
       "battery",
       "steps"
@@ -610,7 +600,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",
@@ -704,7 +693,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "simple",
@@ -752,7 +740,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",
@@ -871,7 +858,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pink",
       "blue",
       "heartrate",
       "battery",
@@ -1006,11 +992,9 @@
       "alarm",
       "animated",
       "health",
-      "steinsgate",
       "battery",
       "steps",
-      "anime",
-      "temperatur"
+      "anime"
     ],
     "list_album": [
       {
@@ -1033,7 +1017,6 @@
       "distance",
       "heartrate",
       "weather",
-      "calorie",
       "pai",
       "battery",
       "steps",
@@ -1078,8 +1061,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "meme",
-      "cat",
       "pulse",
       "time",
       "battery",
@@ -1112,8 +1093,7 @@
       "bluetooth",
       "weather",
       "alarm",
-      "lock",
-      "temperatur"
+      "lock"
     ],
     "list_album": [
       {
@@ -1131,14 +1111,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "cat",
       "black",
       "weather",
-      "google",
       "battery",
       "sport",
-      "steps",
-      "pixel"
+      "steps"
     ],
     "list_album": [
       {
@@ -1156,9 +1133,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "trollface",
       "pulse",
-      "troll",
       "animated",
       "time",
       "steps"

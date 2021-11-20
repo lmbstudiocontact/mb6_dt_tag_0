@@ -30,7 +30,6 @@
     "array_tags": [
       "digital",
       "red",
-      "big",
       "distance",
       "heartrate",
       "retro",
@@ -72,16 +71,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "bretagne"
+      "sun"
     ],
     "list_album": [
       {
@@ -100,16 +97,14 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "sun",
-      "floors",
-      "weather",
-      "france",
-      "corse"
+      "sun"
     ],
     "list_album": [
       {
@@ -208,11 +203,6 @@
       "date",
       "digital",
       "game",
-      "isaac",
-      "roguelike",
-      "percentage",
-      "binding",
-      "pixel",
       "steps"
     ],
     "list_album": [
@@ -333,14 +323,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "chomusuke",
       "heartrate",
-      "cat",
-      "step",
       "calories",
-      "battery",
-      "konosuba",
-      "rpm"
+      "battery"
     ],
     "list_album": [
       {
@@ -389,7 +374,6 @@
       "distance",
       "notdisturb",
       "heartrate",
-      "stars",
       "calories",
       "kcal",
       "bluetooth",
@@ -479,7 +463,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "gif",
       "games"
     ],
     "list_album": [
@@ -578,7 +561,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digitalky",
       "weather",
       "weekday"
     ],
@@ -713,15 +695,10 @@
     "array_tags": [
       "digital",
       "date",
-      "horror",
       "heartrate",
-      "bones",
       "dark",
-      "bone",
-      "skull",
       "battery",
-      "steps",
-      "blood"
+      "steps"
     ],
     "list_album": [
       {
@@ -740,7 +717,6 @@
     "array_tags": [
       "digital",
       "date",
-      "dxmd",
       "weather",
       "battery",
       "steps"
@@ -782,7 +758,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -919,13 +894,10 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "atleticomg",
-      "impactopdesign",
       "pulse",
       "futebol",
       "battery",
-      "steps",
-      "galo"
+      "steps"
     ],
     "list_album": [
       {
@@ -943,9 +915,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "atleticomg",
-      "impactopdesign",
-      "libertadores",
       "futebol"
     ],
     "list_album": [
@@ -963,10 +932,8 @@
     "id_bin": "1868",
     "list_language": [],
     "array_tags": [
-      "tech",
       "digital",
-      "blue",
-      "verbose"
+      "blue"
     ],
     "list_album": [
       {

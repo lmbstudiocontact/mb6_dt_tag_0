@@ -35,11 +35,9 @@
       "distance",
       "heartrate",
       "weather",
-      "slovak",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -61,11 +59,9 @@
       "distance",
       "heartrate",
       "weather",
-      "slovak",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -89,7 +85,6 @@
       "calories",
       "battery",
       "steps",
-      "look",
       "floors",
       "bluetooth",
       "weather",
@@ -113,16 +108,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
+      "bluetooth",
       "heartrate",
+      "weather",
+      "alarm",
       "calories",
       "battery",
-      "steps",
-      "look",
-      "floors",
-      "bluetooth",
-      "weather",
-      "alarm"
+      "steps"
     ],
     "list_album": [
       {
@@ -143,9 +137,7 @@
       "date",
       "heartrate",
       "weather",
-      "wola",
       "battery",
-      "polish",
       "steps"
     ],
     "list_album": [
@@ -197,7 +189,6 @@
       "steps",
       "floors",
       "bluetooth",
-      "nd",
       "weather",
       "alarm",
       "lock"
@@ -248,8 +239,7 @@
       "weather",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -291,21 +281,13 @@
     "array_tags": [
       "digital",
       "date",
-      "big",
-      "bateria",
-      "numerals",
+      "apple",
+      "minimal",
+      "pulse",
       "battery",
       "steps",
       "colors",
-      "watchos",
-      "apple",
-      "rainbow",
-      "minimal",
-      "pride",
-      "pulse",
-      "passos",
-      "duo",
-      "lgbt"
+      "watchos"
     ],
     "list_album": [
       {
@@ -399,18 +381,15 @@
       "digital",
       "date",
       "weekday",
-      "clock",
       "calories",
       "battery",
       "steps",
       "colors",
-      "orange",
       "bluetooth",
       "weather",
       "pulse",
       "lock",
-      "dnd",
-      "fashion"
+      "dnd"
     ],
     "list_album": [
       {
@@ -453,7 +432,6 @@
       "digital",
       "date",
       "analog",
-      "disney",
       "heartrate",
       "animated",
       "battery",
@@ -478,10 +456,7 @@
       "date",
       "analog",
       "heartrate",
-      "days",
-      "xenomorph",
       "steps",
-      "alien",
       "animation"
     ],
     "list_album": [
@@ -503,8 +478,6 @@
       "analog",
       "pokemon",
       "heartrate",
-      "days",
-      "luxio",
       "steps",
       "animation"
     ],
@@ -525,7 +498,6 @@
     "array_tags": [
       "date",
       "analog",
-      "baal",
       "heartrate",
       "games",
       "steps"
@@ -596,13 +568,10 @@
       "date",
       "distance",
       "heartrate",
-      "nixie",
       "calories",
       "battery",
       "steps",
-      "bt",
       "floors",
-      "nd",
       "weather",
       "alarm",
       "lock",
@@ -762,10 +731,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "metas",
       "distance",
-      "data",
-      "atstumas",
       "english",
       "time",
       "battery",
@@ -903,12 +869,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "valorant",
       "games",
       "time",
       "battery",
-      "steps",
-      "raze"
+      "steps"
     ],
     "list_album": [
       {
@@ -1076,7 +1040,6 @@
       "analog",
       "seconds",
       "floors",
-      "top",
       "weather",
       "anime"
     ],

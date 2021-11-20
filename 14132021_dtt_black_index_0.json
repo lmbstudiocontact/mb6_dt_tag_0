@@ -7,11 +7,8 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "preto",
-      "analogico",
       "black",
-      "english",
-      "portugues"
+      "english"
     ],
     "list_album": [
       {
@@ -29,12 +26,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "astronaut",
       "bluetooth",
       "notdisturb",
       "black",
       "lock",
-      "purple",
       "time",
       "battery",
       "steps",
@@ -56,7 +51,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "color",
       "notdisturb",
       "heartrate",
       "black",
@@ -86,15 +80,11 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "japanese",
-      "ekko",
       "games",
       "black",
       "english",
-      "animes",
       "steps",
-      "anime",
-      "colorful"
+      "anime"
     ],
     "list_album": [
       {
@@ -111,20 +101,15 @@
     "id_bin": "1277",
     "list_language": [],
     "array_tags": [
+      "naruto",
       "digital",
       "game",
-      "cyberpunk",
       "black",
-      "animation",
-      "apex",
-      "naruto",
-      "japanese",
       "english",
       "games",
       "animated",
-      "animes",
-      "colorful",
-      "anime"
+      "anime",
+      "animation"
     ],
     "list_album": [
       {
@@ -143,19 +128,13 @@
     "array_tags": [
       "digital",
       "date",
-      "pink",
-      "brazil",
       "black",
+      "pulse",
       "weekday",
       "brasil",
       "calories",
-      "girl",
       "battery",
-      "steps",
-      "simples",
-      "crush",
-      "pulse",
-      "portugues"
+      "steps"
     ],
     "list_album": [
       {
@@ -174,7 +153,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",
@@ -199,7 +177,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",
@@ -225,7 +202,6 @@
       "red",
       "digital",
       "minimal",
-      "deadmaus",
       "black",
       "animated",
       "simple",
@@ -246,12 +222,7 @@
     "id_bin": "1589",
     "list_language": [],
     "array_tags": [
-      "blackpink",
-      "pink",
-      "jisoo",
-      "jennie",
-      "black",
-      "lisa"
+      "black"
     ],
     "list_album": [
       {
@@ -268,7 +239,6 @@
     "id_bin": "1599",
     "list_language": [],
     "array_tags": [
-      "cat",
       "black"
     ],
     "list_album": [
@@ -286,8 +256,6 @@
     "id_bin": "1601",
     "list_language": [],
     "array_tags": [
-      "cat",
-      "paw",
       "black",
       "simple"
     ],
@@ -307,14 +275,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "cat",
       "black",
       "weather",
-      "google",
       "battery",
       "sport",
-      "steps",
-      "pixel"
+      "steps"
     ],
     "list_album": [
       {
@@ -331,12 +296,7 @@
     "id_bin": "1607",
     "list_language": [],
     "array_tags": [
-      "blackpink",
-      "pink",
-      "lalisa",
-      "manoban",
       "black",
-      "lisa",
       "time"
     ],
     "list_album": [
@@ -355,17 +315,15 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "blocks",
-      "black",
-      "weekday",
-      "battery",
-      "steps",
       "bluetooth",
       "month",
+      "black",
       "english",
+      "weekday",
       "temperature",
       "pulse",
-      "minimalist"
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -383,12 +341,10 @@
     "list_language": [],
     "array_tags": [
       "white",
-      "design",
       "black",
       "dark",
       "retro",
-      "simple",
-      "pixel"
+      "simple"
     ],
     "list_album": [
       {
@@ -406,11 +362,9 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "electronics",
       "black",
       "dark",
-      "retro",
-      "pcb"
+      "retro"
     ],
     "list_album": [
       {
@@ -430,7 +384,6 @@
       "date",
       "white",
       "heartrate",
-      "design",
       "black",
       "dark",
       "battery",
@@ -453,13 +406,10 @@
     "list_language": [],
     "array_tags": [
       "white",
-      "pool",
       "black",
       "simple",
       "basic",
-      "water",
-      "colors",
-      "colorful"
+      "colors"
     ],
     "list_album": [
       {
@@ -483,7 +433,6 @@
       "calories",
       "battery",
       "steps",
-      "classy",
       "donotdisturb",
       "month",
       "bluetooth",
@@ -525,10 +474,7 @@
     "id_bin": "513",
     "list_language": [],
     "array_tags": [
-      "preto",
-      "black",
-      "minimalista",
-      "simples"
+      "black"
     ],
     "list_album": [
       {
@@ -545,7 +491,6 @@
     "id_bin": "641",
     "list_language": [],
     "array_tags": [
-      "city",
       "black"
     ],
     "list_album": [
@@ -563,7 +508,6 @@
     "id_bin": "677",
     "list_language": [],
     "array_tags": [
-      "rx",
       "black"
     ],
     "list_album": [
@@ -586,9 +530,7 @@
       "black",
       "basic",
       "battery",
-      "portugues",
-      "day",
-      "grey"
+      "day"
     ],
     "list_album": [
       {
@@ -605,7 +547,6 @@
     "id_bin": "719",
     "list_language": [],
     "array_tags": [
-      "week",
       "white",
       "distance",
       "black",
@@ -632,10 +573,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "miui",
-      "ita",
       "weekday",
-      "yellow",
       "black",
       "english",
       "italian",
@@ -657,14 +595,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "ita",
       "english",
-      "yellow",
       "black",
       "italian",
       "time",
-      "steps",
-      "pixel"
+      "steps"
     ],
     "list_album": [
       {
@@ -682,8 +617,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "black",
-      "abstract"
+      "black"
     ],
     "list_album": [
       {
@@ -744,9 +678,7 @@
       "red",
       "minimal",
       "white",
-      "future",
-      "black",
-      "hex"
+      "black"
     ],
     "list_album": [
       {

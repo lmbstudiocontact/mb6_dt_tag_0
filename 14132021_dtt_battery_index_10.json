@@ -10,8 +10,7 @@
       "analog",
       "weather",
       "weekday",
-      "battery",
-      "czechia"
+      "battery"
     ],
     "list_album": [
       {
@@ -29,12 +28,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "hours",
       "bluetooth",
       "weather",
       "weekday",
       "battery",
-      "vista",
       "animation"
     ],
     "list_album": [
@@ -53,11 +50,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "mimoni",
-      "hours",
       "weekday",
       "battery",
-      "minions",
       "animation"
     ],
     "list_album": [
@@ -99,11 +93,9 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "hours",
       "bluetooth",
       "weather",
       "weekday",
-      "helloween",
       "battery"
     ],
     "list_album": [
@@ -121,15 +113,9 @@
     "id_bin": "1738",
     "list_language": [],
     "array_tags": [
-      "hours",
-      "boss",
-      "minutes",
-      "farsi",
-      "beach",
       "battery",
       "steps",
-      "day",
-      "persian"
+      "day"
     ],
     "list_album": [
       {
@@ -172,7 +158,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "percentage",
       "weekday",
       "simple",
       "battery",
@@ -195,15 +180,10 @@
     "array_tags": [
       "digital",
       "date",
-      "horror",
       "heartrate",
-      "bones",
       "dark",
-      "bone",
-      "skull",
       "battery",
-      "steps",
-      "blood"
+      "steps"
     ],
     "list_album": [
       {
@@ -222,7 +202,6 @@
     "array_tags": [
       "digital",
       "date",
-      "dxmd",
       "weather",
       "battery",
       "steps"
@@ -264,7 +243,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -401,13 +379,10 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "atleticomg",
-      "impactopdesign",
       "pulse",
       "futebol",
       "battery",
-      "steps",
-      "galo"
+      "steps"
     ],
     "list_album": [
       {
@@ -428,8 +403,7 @@
       "weather",
       "weekday",
       "time",
-      "battery",
-      "czech"
+      "battery"
     ],
     "list_album": [
       {
@@ -523,7 +497,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "taylorswift",
       "weather",
       "battery",
       "steps"
@@ -734,12 +707,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "calendar",
       "date",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -768,8 +738,7 @@
       "pokemon",
       "heartrate",
       "battery",
-      "steps",
-      "mew"
+      "steps"
     ],
     "list_album": [
       {
@@ -788,7 +757,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -820,7 +788,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -921,19 +888,14 @@
       "digital",
       "distance",
       "weekday",
-      "uvi",
-      "epic",
       "calories",
       "battery",
       "steps",
       "weather",
       "alarm",
       "pulse",
-      "humidity",
       "pai",
       "time",
-      "czech",
-      "wind",
       "status"
     ],
     "list_album": [
@@ -1029,15 +991,12 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "xxxtentacion",
       "bluetooth",
       "weather",
-      "google",
       "simple",
       "time",
       "dnd",
-      "battery",
-      "heart"
+      "battery"
     ],
     "list_album": [
       {
@@ -1055,16 +1014,15 @@
     "list_language": [],
     "array_tags": [
       "distance",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "weather",
       "alarm",
+      "weekday",
       "pulse",
       "pai",
       "time",
-      "czech",
+      "calories",
+      "battery",
+      "steps",
       "status"
     ],
     "list_album": [
@@ -1130,11 +1088,7 @@
     "array_tags": [
       "digital",
       "date",
-      "vice",
       "bluetooth",
-      "gta",
-      "city",
-      "videogame",
       "games",
       "battery",
       "steps"
@@ -1156,7 +1110,6 @@
     "array_tags": [
       "digital",
       "date",
-      "nixie",
       "battery"
     ],
     "list_album": [

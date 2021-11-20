@@ -86,7 +86,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "spanish",
       "distance",
       "heartrate",
       "english",
@@ -260,7 +259,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "completo",
       "heartrate",
       "notdisturb",
       "calories",
@@ -313,17 +311,15 @@
     "array_tags": [
       "date",
       "digital",
+      "blue",
       "distance",
-      "ampm",
       "heartrate",
-      "squares",
+      "weather",
       "weekday",
       "calories",
       "battery",
       "steps",
-      "animation",
-      "blue",
-      "weather"
+      "animation"
     ],
     "list_album": [
       {
@@ -397,7 +393,6 @@
       "heartrate",
       "calories",
       "battery",
-      "pacman",
       "steps",
       "floors",
       "bluetooth",
@@ -421,17 +416,14 @@
     "array_tags": [
       "date",
       "digital",
-      "hours",
-      "ampm",
       "distance",
       "heartrate",
-      "minutes",
-      "calories",
-      "battery",
-      "steps",
       "weather",
       "temperature",
-      "pai"
+      "pai",
+      "calories",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -481,7 +473,6 @@
       "calories",
       "battery",
       "steps",
-      "tetris",
       "floors",
       "bluetooth",
       "weather",
@@ -576,7 +567,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "wea",
       "distance",
       "pulse",
       "english",
@@ -673,12 +663,9 @@
     "id_bin": "1139",
     "list_language": [],
     "array_tags": [
-      "data",
       "distance",
-      "analogico",
       "heartrate",
       "notdisturb",
-      "completo",
       "calories",
       "steps",
       "analog",
@@ -686,7 +673,6 @@
       "bluetooth",
       "pai",
       "lock",
-      "bandera",
       "time",
       "day"
     ],
@@ -780,7 +766,6 @@
       "temperature",
       "weather",
       "pai",
-      "casio",
       "calories",
       "battery",
       "steps"
@@ -896,19 +881,16 @@
     "id_bin": "1207",
     "list_language": [],
     "array_tags": [
-      "color",
-      "notdisturb",
-      "completo",
-      "heartrate",
-      "colores",
-      "calories",
-      "battery",
-      "steps",
       "kcal",
+      "notdisturb",
+      "heartrate",
       "weather",
       "pai",
       "lock",
-      "time"
+      "time",
+      "calories",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -981,15 +963,12 @@
       "steps",
       "donotdisturb",
       "animation",
-      "rainbow",
-      "amoled",
       "bluetooth",
       "weather",
       "temperature",
       "animated",
       "lock",
       "pai",
-      "dijkmeneer",
       "status"
     ],
     "list_album": [
@@ -1035,30 +1014,21 @@
     "array_tags": [
       "date",
       "distance",
-      "oled",
-      "battery",
-      "qled",
-      "miles",
-      "amoled",
-      "temperature",
-      "pai",
-      "lock",
-      "dnd",
-      "mi",
-      "km",
-      "blocks",
       "heartrate",
       "calories",
+      "battery",
       "steps",
       "animation",
       "donotdisturb",
       "kcal",
       "bluetooth",
+      "temperature",
       "pulse",
-      "kilometer",
+      "pai",
       "animated",
+      "lock",
       "time",
-      "dijkmeneer"
+      "dnd"
     ],
     "list_album": [
       {
@@ -1076,7 +1046,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "color",
       "notdisturb",
       "heartrate",
       "black",
@@ -1217,16 +1186,14 @@
     "array_tags": [
       "digital",
       "date",
-      "iwatch",
+      "analog",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "watchos",
-      "analog",
-      "weather",
-      "circlebars"
+      "watchos"
     ],
     "list_album": [
       {
@@ -1245,7 +1212,6 @@
     "array_tags": [
       "digital",
       "date",
-      "bubblebobble",
       "game",
       "floors",
       "distance",
@@ -1271,24 +1237,16 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "km",
       "game",
-      "doomslayer",
-      "doom",
-      "calorias",
       "brasil",
       "calories",
       "battery",
       "steps",
       "red",
       "month",
-      "quilometro",
       "pulse",
-      "kilometer",
       "games",
       "pai",
-      "portugues",
-      "jogo",
       "day",
       "status"
     ],

@@ -7,11 +7,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "silk",
-      "moon",
       "marvel",
       "heartrate",
-      "cindy",
       "battery",
       "steps"
     ],
@@ -31,9 +28,6 @@
     "list_language": [],
     "array_tags": [
       "marvel",
-      "comics",
-      "superman",
-      "spiderman",
       "batman",
       "animation"
     ],
@@ -69,8 +63,7 @@
     "id_bin": "1882",
     "list_language": [],
     "array_tags": [
-      "marvel",
-      "deadpool"
+      "marvel"
     ],
     "list_album": [
       {
@@ -121,8 +114,7 @@
     "id_bin": "1885",
     "list_language": [],
     "array_tags": [
-      "marvel",
-      "magneto"
+      "marvel"
     ],
     "list_album": [
       {
@@ -139,8 +131,7 @@
     "id_bin": "1886",
     "list_language": [],
     "array_tags": [
-      "marvel",
-      "spiderman"
+      "marvel"
     ],
     "list_album": [
       {
@@ -157,8 +148,7 @@
     "id_bin": "1887",
     "list_language": [],
     "array_tags": [
-      "marvel",
-      "venom"
+      "marvel"
     ],
     "list_album": [
       {
@@ -175,7 +165,6 @@
     "id_bin": "1888",
     "list_language": [],
     "array_tags": [
-      "wolverine",
       "marvel"
     ],
     "list_album": [
@@ -193,7 +182,6 @@
     "id_bin": "1889",
     "list_language": [],
     "array_tags": [
-      "wolverine",
       "marvel"
     ],
     "list_album": [
@@ -213,8 +201,7 @@
     "array_tags": [
       "marvel",
       "heartrate",
-      "pulse",
-      "spiderman"
+      "pulse"
     ],
     "list_album": [
       {
@@ -234,7 +221,6 @@
       "marvel",
       "cartoon",
       "heartrate",
-      "spiderman",
       "steps"
     ],
     "list_album": [
@@ -254,8 +240,6 @@
     "array_tags": [
       "marvel",
       "heartrate",
-      "superhero",
-      "comics",
       "games",
       "serie",
       "steps"

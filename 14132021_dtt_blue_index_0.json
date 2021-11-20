@@ -8,17 +8,15 @@
     "array_tags": [
       "date",
       "digital",
+      "blue",
       "distance",
-      "ampm",
       "heartrate",
-      "squares",
+      "weather",
       "weekday",
       "calories",
       "battery",
       "steps",
-      "animation",
-      "blue",
-      "weather"
+      "animation"
     ],
     "list_album": [
       {
@@ -37,10 +35,7 @@
     "array_tags": [
       "green",
       "blue",
-      "retro",
-      "yellow",
-      "silver",
-      "casio"
+      "retro"
     ],
     "list_album": [
       {
@@ -59,7 +54,6 @@
     "array_tags": [
       "analog",
       "blue",
-      "artist",
       "simple"
     ],
     "list_album": [
@@ -79,7 +73,6 @@
     "array_tags": [
       "red",
       "blue",
-      "techno",
       "time",
       "colors"
     ],
@@ -101,11 +94,9 @@
       "digital",
       "game",
       "blue",
-      "rabbit",
       "games",
       "animated",
       "simple",
-      "girl",
       "steps",
       "anime",
       "animation"
@@ -125,14 +116,7 @@
     "id_bin": "1439",
     "list_language": [],
     "array_tags": [
-      "sky",
-      "cloud",
-      "skyblue",
-      "dimples",
       "blue",
-      "modern",
-      "ocean",
-      "vikings",
       "simple",
       "clean",
       "anime"
@@ -153,7 +137,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pink",
       "blue",
       "day"
     ],
@@ -173,7 +156,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pink",
       "blue",
       "battery",
       "day"
@@ -194,7 +176,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pink",
       "blue",
       "heartrate",
       "battery",
@@ -218,8 +199,7 @@
     "array_tags": [
       "sonic",
       "blue",
-      "games",
-      "arcade"
+      "games"
     ],
     "list_album": [
       {
@@ -238,8 +218,7 @@
     "array_tags": [
       "sonic",
       "blue",
-      "games",
-      "arcade"
+      "games"
     ],
     "list_album": [
       {
@@ -256,9 +235,7 @@
     "id_bin": "362",
     "list_language": [],
     "array_tags": [
-      "blue",
-      "cyberpunk",
-      "neo"
+      "blue"
     ],
     "list_album": [
       {
@@ -277,8 +254,7 @@
     "array_tags": [
       "minimal",
       "blue",
-      "simple",
-      "azul"
+      "simple"
     ],
     "list_album": [
       {
@@ -297,7 +273,6 @@
     "array_tags": [
       "analog",
       "blue",
-      "rolex",
       "day"
     ],
     "list_album": [
@@ -318,22 +293,14 @@
       "date",
       "digital",
       "soccer",
-      "euro",
-      "champions",
+      "blue",
+      "month",
       "heartrate",
       "weekday",
-      "football",
       "futebol",
       "battery",
       "steps",
-      "futbol",
-      "blue",
-      "month",
-      "franca",
-      "france",
-      "europe",
-      "day",
-      "cup"
+      "day"
     ],
     "list_album": [
       {
@@ -350,10 +317,8 @@
     "id_bin": "1868",
     "list_language": [],
     "array_tags": [
-      "tech",
       "digital",
-      "blue",
-      "verbose"
+      "blue"
     ],
     "list_album": [
       {
@@ -371,14 +336,9 @@
     "list_language": [],
     "array_tags": [
       "red",
-      "gray",
       "green",
       "blue",
-      "volt",
-      "nike",
-      "purple",
-      "simple",
-      "nrc"
+      "simple"
     ],
     "list_album": [
       {
@@ -396,8 +356,7 @@
     "list_language": [],
     "array_tags": [
       "green",
-      "blue",
-      "snoopy"
+      "blue"
     ],
     "list_album": [
       {
@@ -414,11 +373,7 @@
     "id_bin": "99",
     "list_language": [],
     "array_tags": [
-      "marca",
       "blue",
-      "deporte",
-      "nike",
-      "azul",
       "sport"
     ],
     "list_album": [

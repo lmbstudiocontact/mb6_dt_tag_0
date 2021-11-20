@@ -62,13 +62,10 @@
     "list_language": [],
     "array_tags": [
       "white",
-      "pool",
       "black",
       "simple",
       "basic",
-      "water",
-      "colors",
-      "colorful"
+      "colors"
     ],
     "list_album": [
       {
@@ -90,9 +87,7 @@
       "black",
       "basic",
       "battery",
-      "portugues",
-      "day",
-      "grey"
+      "day"
     ],
     "list_album": [
       {
@@ -111,7 +106,6 @@
     "array_tags": [
       "analog",
       "simple",
-      "simplicity",
       "basic"
     ],
     "list_album": [
@@ -130,9 +124,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "night",
       "simple",
-      "simplicity",
       "basic"
     ],
     "list_album": [
@@ -152,7 +144,6 @@
     "array_tags": [
       "analog",
       "simple",
-      "simplicity",
       "basic"
     ],
     "list_album": [
@@ -172,7 +163,6 @@
     "array_tags": [
       "analog",
       "simple",
-      "simplicity",
       "basic"
     ],
     "list_album": [
@@ -211,7 +201,6 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "gray",
       "simple",
       "basic"
     ],
@@ -251,12 +240,9 @@
     "id_bin": "814",
     "list_language": [],
     "array_tags": [
-      "orange",
       "analog",
       "minimal",
-      "analogico",
-      "basic",
-      "fashion"
+      "basic"
     ],
     "list_album": [
       {

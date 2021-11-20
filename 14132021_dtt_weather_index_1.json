@@ -144,16 +144,14 @@
     "array_tags": [
       "digital",
       "date",
-      "iwatch",
+      "analog",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "watchos",
-      "analog",
-      "weather",
-      "circlebars"
+      "watchos"
     ],
     "list_album": [
       {
@@ -195,7 +193,6 @@
     "array_tags": [
       "digital",
       "date",
-      "bubblebobble",
       "game",
       "floors",
       "distance",
@@ -246,7 +243,6 @@
       "date",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "animation",
@@ -274,11 +270,8 @@
     "array_tags": [
       "digital",
       "date",
-      "calendar",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -352,15 +345,12 @@
     "id_bin": "1272",
     "list_language": [],
     "array_tags": [
-      "starwars",
       "distance",
       "heartrate",
       "weather",
       "pai",
-      "humidity",
       "calories",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {
@@ -623,17 +613,16 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "distance",
-      "calories",
-      "battery",
-      "steps",
-      "donotdisturb",
       "bluetooth",
+      "distance",
       "weather",
       "pulse",
       "lock",
       "time",
-      "temperatur"
+      "calories",
+      "battery",
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -676,7 +665,6 @@
     "id_bin": "1317",
     "list_language": [],
     "array_tags": [
-      "pluse",
       "weather",
       "steps"
     ],
@@ -907,7 +895,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -957,8 +944,7 @@
       "digital",
       "date",
       "weather",
-      "weekday",
-      "temperatur"
+      "weekday"
     ],
     "list_album": [
       {
@@ -1026,12 +1012,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "week",
       "weather",
       "alarm",
       "pai",
-      "time",
-      "cal"
+      "time"
     ],
     "list_album": [
       {
@@ -1157,7 +1141,6 @@
       "weather",
       "temperature",
       "weekday",
-      "humidity",
       "calories",
       "battery",
       "steps"
@@ -1183,7 +1166,6 @@
       "heartrate",
       "weather",
       "temperature",
-      "humidity",
       "calories",
       "battery",
       "steps"

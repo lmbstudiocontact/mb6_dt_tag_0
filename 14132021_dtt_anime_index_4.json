@@ -26,7 +26,6 @@
     "array_tags": [
       "naruto",
       "heartrate",
-      "sasori",
       "anime"
     ],
     "list_album": [
@@ -44,7 +43,6 @@
     "id_bin": "2148",
     "list_language": [],
     "array_tags": [
-      "sasuke",
       "naruto",
       "heartrate",
       "anime"
@@ -64,7 +62,6 @@
     "id_bin": "2149",
     "list_language": [],
     "array_tags": [
-      "sasuke",
       "naruto",
       "heartrate",
       "anime"
@@ -85,7 +82,6 @@
     "list_language": [],
     "array_tags": [
       "naruto",
-      "tobi",
       "heartrate",
       "anime"
     ],
@@ -104,7 +100,6 @@
     "id_bin": "2151",
     "list_language": [],
     "array_tags": [
-      "yamato",
       "heartrate",
       "anime"
     ],
@@ -123,7 +118,6 @@
     "id_bin": "2152",
     "list_language": [],
     "array_tags": [
-      "yamato",
       "heartrate",
       "anime"
     ],
@@ -142,7 +136,6 @@
     "id_bin": "2153",
     "list_language": [],
     "array_tags": [
-      "yamato",
       "heartrate",
       "anime"
     ],
@@ -161,7 +154,6 @@
     "id_bin": "2154",
     "list_language": [],
     "array_tags": [
-      "yamato",
       "heartrate",
       "anime"
     ],
@@ -181,7 +173,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hawk",
       "anime"
     ],
     "list_album": [
@@ -200,7 +191,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hamtaro",
       "anime"
     ],
     "list_album": [
@@ -219,7 +209,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "himeno",
       "anime"
     ],
     "list_album": [
@@ -238,7 +227,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "reze",
       "anime"
     ],
     "list_album": [
@@ -257,7 +245,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "steinsgate",
       "steps",
       "anime"
     ],
@@ -298,7 +285,6 @@
       "pokemon",
       "heartrate",
       "steps",
-      "lugia",
       "anime"
     ],
     "list_album": [
@@ -319,7 +305,6 @@
       "pokemon",
       "heartrate",
       "games",
-      "charizard",
       "steps",
       "anime"
     ],
@@ -339,7 +324,6 @@
     "list_language": [],
     "array_tags": [
       "pokemon",
-      "blastoise",
       "heartrate",
       "games",
       "steps",
@@ -363,7 +347,6 @@
       "pokemon",
       "heartrate",
       "games",
-      "venusaur",
       "steps",
       "anime"
     ],
@@ -382,7 +365,6 @@
     "id_bin": "2214",
     "list_language": [],
     "array_tags": [
-      "kobeni",
       "heartrate",
       "steps",
       "anime"
@@ -425,7 +407,6 @@
       "date",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "animation",
@@ -451,9 +432,6 @@
     "id_bin": "2240",
     "list_language": [],
     "array_tags": [
-      "touhou",
-      "reimu",
-      "hakurei",
       "anime"
     ],
     "list_album": [
@@ -471,9 +449,6 @@
     "id_bin": "2242",
     "list_language": [],
     "array_tags": [
-      "touhou",
-      "marisa",
-      "kirisame",
       "anime"
     ],
     "list_album": [
@@ -491,10 +466,7 @@
     "id_bin": "2245",
     "list_language": [],
     "array_tags": [
-      "touhou",
-      "patchouli",
-      "anime",
-      "knowledge"
+      "anime"
     ],
     "list_album": [
       {
@@ -511,8 +483,6 @@
     "id_bin": "2270",
     "list_language": [],
     "array_tags": [
-      "evangelion",
-      "asuka",
       "heartrate",
       "steps",
       "anime"
@@ -533,7 +503,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "games",
       "steps",
       "anime"
@@ -574,7 +543,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "games",
       "steps",
       "anime"
@@ -614,7 +582,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hunterxhunter",
       "steps",
       "anime"
     ],
@@ -634,7 +601,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hunterxhunter",
       "steps",
       "anime"
     ],
@@ -654,7 +620,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "steps",
       "anime"
     ],
@@ -674,7 +639,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "steps",
       "anime"
     ],
@@ -695,7 +659,6 @@
     "array_tags": [
       "heartrate",
       "steps",
-      "hunterxhunter",
       "anime"
     ],
     "list_album": [
@@ -714,7 +677,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hunterxhunter",
       "steps",
       "anime"
     ],
@@ -734,7 +696,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hunterxhunter",
       "steps",
       "anime"
     ],
@@ -775,8 +736,7 @@
     "array_tags": [
       "heartrate",
       "steps",
-      "anime",
-      "onepunchman"
+      "anime"
     ],
     "list_album": [
       {
@@ -795,8 +755,7 @@
     "array_tags": [
       "heartrate",
       "steps",
-      "anime",
-      "onepunchman"
+      "anime"
     ],
     "list_album": [
       {
@@ -834,7 +793,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "bleach",
       "games",
       "steps",
       "anime"
@@ -875,7 +833,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "hunterxhunter",
       "steps",
       "anime"
     ],
@@ -895,7 +852,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "luffy",
       "animated",
       "onepiece",
       "steps",
@@ -918,7 +874,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "luffy",
       "animated",
       "onepiece",
       "steps",

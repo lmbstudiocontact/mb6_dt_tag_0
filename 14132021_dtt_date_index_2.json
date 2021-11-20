@@ -33,7 +33,6 @@
       "date",
       "bluetooth",
       "distance",
-      "blocks",
       "health",
       "time",
       "calories",
@@ -291,17 +290,16 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "distance",
-      "calories",
-      "battery",
-      "steps",
-      "donotdisturb",
       "bluetooth",
+      "distance",
       "weather",
       "pulse",
       "lock",
       "time",
-      "temperatur"
+      "calories",
+      "battery",
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -478,8 +476,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "light",
-      "komisan",
       "animated",
       "time",
       "battery",
@@ -526,19 +522,13 @@
     "array_tags": [
       "digital",
       "date",
-      "pink",
-      "brazil",
       "black",
+      "pulse",
       "weekday",
       "brasil",
       "calories",
-      "girl",
       "battery",
-      "steps",
-      "simples",
-      "crush",
-      "pulse",
-      "portugues"
+      "steps"
     ],
     "list_album": [
       {
@@ -793,8 +783,7 @@
       "analog",
       "pulse",
       "retro",
-      "steps",
-      "colorful"
+      "steps"
     ],
     "list_album": [
       {
@@ -1021,16 +1010,15 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
-      "calories",
-      "battery",
-      "steps",
-      "donotdisturb",
       "bluetooth",
       "watch",
       "alarm",
       "pulse",
-      "day"
+      "calories",
+      "battery",
+      "day",
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -1161,13 +1149,10 @@
     "array_tags": [
       "date",
       "digital",
-      "gif",
-      "metal",
       "animated",
       "pai",
       "battery",
-      "steps",
-      "gear"
+      "steps"
     ],
     "list_album": [
       {

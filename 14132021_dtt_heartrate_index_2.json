@@ -8,7 +8,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",
@@ -82,7 +81,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "simple",
@@ -130,7 +128,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",
@@ -226,7 +223,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pink",
       "blue",
       "heartrate",
       "battery",
@@ -300,11 +296,9 @@
       "alarm",
       "animated",
       "health",
-      "steinsgate",
       "battery",
       "steps",
-      "anime",
-      "temperatur"
+      "anime"
     ],
     "list_album": [
       {
@@ -327,7 +321,6 @@
       "distance",
       "heartrate",
       "weather",
-      "calorie",
       "pai",
       "battery",
       "steps",
@@ -383,8 +376,7 @@
       "bluetooth",
       "weather",
       "alarm",
-      "lock",
-      "temperatur"
+      "lock"
     ],
     "list_album": [
       {
@@ -518,7 +510,6 @@
       "date",
       "game",
       "heartrate",
-      "doom",
       "games",
       "battery",
       "steps"
@@ -609,19 +600,14 @@
     "array_tags": [
       "digital",
       "date",
-      "porsche",
-      "wheels",
-      "underglow",
-      "heartrate",
-      "battery",
-      "steps",
-      "animation",
-      "cars",
       "bluetooth",
+      "heartrate",
       "pulse",
       "animated",
-      "purple",
-      "status"
+      "battery",
+      "steps",
+      "status",
+      "animation"
     ],
     "list_album": [
       {
@@ -639,7 +625,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "atam",
       "bluetooth",
       "heartrate",
       "time",
@@ -690,9 +675,7 @@
       "weekday",
       "time",
       "battery",
-      "am",
-      "steps",
-      "pm"
+      "steps"
     ],
     "list_album": [
       {
@@ -881,16 +864,13 @@
       "digital",
       "date",
       "distance",
+      "bluetooth",
       "heartrate",
-      "digi",
+      "weather",
       "italian",
       "calories",
       "battery",
       "steps",
-      "bluetooth",
-      "ita",
-      "weather",
-      "mediatouch",
       "status"
     ],
     "list_album": [

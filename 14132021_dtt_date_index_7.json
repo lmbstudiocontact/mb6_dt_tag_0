@@ -77,7 +77,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "sporting",
       "battery",
       "sport",
       "steps"
@@ -181,16 +180,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
       "heartrate",
+      "weather",
+      "alarm",
       "health",
       "calories",
       "battery",
-      "steps",
-      "floors",
-      "weather",
-      "alarm",
-      "french"
+      "steps"
     ],
     "list_album": [
       {
@@ -228,11 +226,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "silk",
-      "moon",
       "marvel",
       "heartrate",
-      "cindy",
       "battery",
       "steps"
     ],
@@ -256,9 +251,7 @@
       "heartrate",
       "calories",
       "battery",
-      "steps",
-      "hexagons",
-      "font"
+      "steps"
     ],
     "list_album": [
       {
@@ -398,7 +391,6 @@
     "array_tags": [
       "date",
       "heartrate",
-      "wola",
       "time"
     ],
     "list_album": [
@@ -526,12 +518,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "orange",
       "apple",
       "heartrate",
       "weather",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -551,7 +541,6 @@
     "array_tags": [
       "digital",
       "date",
-      "orange",
       "red",
       "bluetooth",
       "heartrate",
@@ -574,11 +563,9 @@
     "id_bin": "460",
     "list_language": [],
     "array_tags": [
-      "calendar",
       "date",
       "distance",
       "heartrate",
-      "binary",
       "weather",
       "dark",
       "battery",
@@ -600,7 +587,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "sporting",
       "steps",
       "sport"
     ],
@@ -853,7 +839,6 @@
       "steps",
       "sun",
       "floors",
-      "deutsch",
       "weather",
       "alarm",
       "pai"
@@ -1032,7 +1017,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "witcher",
       "battery"
     ],
     "list_album": [

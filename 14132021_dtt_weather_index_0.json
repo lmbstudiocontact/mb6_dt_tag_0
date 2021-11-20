@@ -58,7 +58,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "spanish",
       "distance",
       "heartrate",
       "english",
@@ -241,7 +240,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "completo",
       "heartrate",
       "notdisturb",
       "calories",
@@ -342,9 +340,7 @@
     "array_tags": [
       "date",
       "weather",
-      "google",
       "battery",
-      "pixel",
       "sport",
       "steps"
     ],
@@ -391,17 +387,15 @@
     "array_tags": [
       "date",
       "digital",
+      "blue",
       "distance",
-      "ampm",
       "heartrate",
-      "squares",
+      "weather",
       "weekday",
       "calories",
       "battery",
       "steps",
-      "animation",
-      "blue",
-      "weather"
+      "animation"
     ],
     "list_album": [
       {
@@ -542,7 +536,6 @@
       "heartrate",
       "calories",
       "battery",
-      "pacman",
       "steps",
       "floors",
       "bluetooth",
@@ -566,17 +559,14 @@
     "array_tags": [
       "date",
       "digital",
-      "hours",
-      "ampm",
       "distance",
       "heartrate",
-      "minutes",
-      "calories",
-      "battery",
-      "steps",
       "weather",
       "temperature",
-      "pai"
+      "pai",
+      "calories",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -624,7 +614,6 @@
       "calories",
       "battery",
       "steps",
-      "tetris",
       "floors",
       "bluetooth",
       "weather",
@@ -837,7 +826,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "activity",
       "weather",
       "pulse"
     ],
@@ -863,7 +851,6 @@
       "temperature",
       "weather",
       "pai",
-      "casio",
       "calories",
       "battery",
       "steps"
@@ -1034,8 +1021,6 @@
       "digital",
       "date",
       "apple",
-      "rainbow",
-      "digi",
       "weather",
       "italian",
       "battery",
@@ -1125,19 +1110,16 @@
     "id_bin": "1207",
     "list_language": [],
     "array_tags": [
-      "color",
-      "notdisturb",
-      "completo",
-      "heartrate",
-      "colores",
-      "calories",
-      "battery",
-      "steps",
       "kcal",
+      "notdisturb",
+      "heartrate",
       "weather",
       "pai",
       "lock",
-      "time"
+      "time",
+      "calories",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -1213,15 +1195,12 @@
       "steps",
       "donotdisturb",
       "animation",
-      "rainbow",
-      "amoled",
       "bluetooth",
       "weather",
       "temperature",
       "animated",
       "lock",
       "pai",
-      "dijkmeneer",
       "status"
     ],
     "list_album": [

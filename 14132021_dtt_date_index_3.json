@@ -9,7 +9,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -39,7 +38,6 @@
       "date",
       "bluetooth",
       "pai",
-      "days",
       "battery",
       "steps"
     ],
@@ -80,8 +78,7 @@
       "digital",
       "date",
       "weather",
-      "weekday",
-      "temperatur"
+      "weekday"
     ],
     "list_album": [
       {
@@ -98,10 +95,8 @@
     "id_bin": "1402",
     "list_language": [],
     "array_tags": [
-      "nokia",
       "digital",
       "date",
-      "digitalky",
       "battery"
     ],
     "list_album": [
@@ -235,12 +230,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "week",
       "weather",
       "alarm",
       "pai",
-      "time",
-      "cal"
+      "time"
     ],
     "list_album": [
       {
@@ -428,7 +421,6 @@
       "weather",
       "temperature",
       "weekday",
-      "humidity",
       "calories",
       "battery",
       "steps"
@@ -454,7 +446,6 @@
       "heartrate",
       "weather",
       "temperature",
-      "humidity",
       "calories",
       "battery",
       "steps"
@@ -537,12 +528,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "calendar",
       "date",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -590,7 +578,6 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
       "weekday",
       "calories",
       "battery",
@@ -733,7 +720,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",
@@ -847,7 +833,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "simple",
@@ -895,7 +880,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",
@@ -920,8 +904,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digitalky",
-      "phone",
       "battery"
     ],
     "list_album": [
@@ -964,8 +946,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "nokia",
-      "digitalky",
       "weather",
       "battery"
     ],
@@ -1053,7 +1033,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pink",
       "blue",
       "day"
     ],
@@ -1073,9 +1052,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pilsen",
-      "weather",
-      "czech"
+      "weather"
     ],
     "list_album": [
       {
@@ -1093,10 +1070,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pilsen",
       "weather",
-      "weekday",
-      "czech"
+      "weekday"
     ],
     "list_album": [
       {
@@ -1114,7 +1089,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pink",
       "blue",
       "battery",
       "day"
@@ -1135,7 +1109,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pink",
       "blue",
       "heartrate",
       "battery",

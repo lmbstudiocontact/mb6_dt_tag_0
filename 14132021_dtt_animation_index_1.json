@@ -28,12 +28,9 @@
     "id_bin": "2102",
     "list_language": [],
     "array_tags": [
-      "movies",
       "analog",
-      "geek",
       "serie",
       "animated",
-      "lcar",
       "animation"
     ],
     "list_album": [
@@ -137,7 +134,6 @@
       "date",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "animation",
@@ -165,7 +161,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digi",
       "weekday",
       "calories",
       "battery",
@@ -177,7 +172,6 @@
       "alarm",
       "pai",
       "time",
-      "czech",
       "status"
     ],
     "list_album": [
@@ -196,7 +190,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "luffy",
       "animated",
       "onepiece",
       "steps",
@@ -219,7 +212,6 @@
     "list_language": [],
     "array_tags": [
       "heartrate",
-      "luffy",
       "animated",
       "onepiece",
       "steps",
@@ -322,7 +314,6 @@
       "date",
       "time",
       "battery",
-      "funny",
       "animation",
       "status"
     ],
@@ -441,10 +432,7 @@
       "date",
       "analog",
       "heartrate",
-      "days",
-      "xenomorph",
       "steps",
-      "alien",
       "animation"
     ],
     "list_album": [
@@ -466,8 +454,6 @@
       "analog",
       "pokemon",
       "heartrate",
-      "days",
-      "luxio",
       "steps",
       "animation"
     ],
@@ -491,7 +477,6 @@
       "pulse",
       "weather",
       "weekday",
-      "epic",
       "calories",
       "steps",
       "animation",
@@ -512,7 +497,6 @@
     "id_bin": "925",
     "list_language": [],
     "array_tags": [
-      "life",
       "animation"
     ],
     "list_album": [
@@ -547,7 +531,6 @@
     "id_bin": "937",
     "list_language": [],
     "array_tags": [
-      "fit",
       "animation"
     ],
     "list_album": [
@@ -565,9 +548,7 @@
     "id_bin": "960",
     "list_language": [],
     "array_tags": [
-      "yellow",
       "animated",
-      "minimalist",
       "anime",
       "animation"
     ],
@@ -586,7 +567,6 @@
     "id_bin": "989",
     "list_language": [],
     "array_tags": [
-      "pixel",
       "animation"
     ],
     "list_album": [

@@ -8,16 +8,14 @@
     "array_tags": [
       "digital",
       "date",
-      "iwatch",
+      "analog",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "watchos",
-      "analog",
-      "weather",
-      "circlebars"
+      "watchos"
     ],
     "list_album": [
       {
@@ -39,8 +37,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
-      "alien",
       "watchos"
     ],
     "list_album": [
@@ -62,7 +58,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -105,7 +100,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -127,7 +121,6 @@
       "apple",
       "heartrate",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -148,10 +141,7 @@
       "date",
       "apple",
       "heartrate",
-      "disney",
-      "toystory",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -173,7 +163,6 @@
       "apple",
       "heartrate",
       "english",
-      "woody",
       "watchos"
     ],
     "list_album": [
@@ -192,7 +181,6 @@
     "list_language": [],
     "array_tags": [
       "apple",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -212,10 +200,8 @@
     "array_tags": [
       "date",
       "apple",
-      "activity",
       "heartrate",
       "english",
-      "ios",
       "steps",
       "watchos"
     ],
@@ -236,7 +222,6 @@
     "array_tags": [
       "date",
       "apple",
-      "nike",
       "watchos"
     ],
     "list_album": [
@@ -255,12 +240,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "orange",
       "apple",
       "heartrate",
       "weather",
       "english",
-      "ios",
       "watchos"
     ],
     "list_album": [
@@ -281,14 +264,11 @@
       "digital",
       "date",
       "analog",
-      "iwatch",
       "distance",
       "heartrate",
       "calories",
       "battery",
-      "ios",
-      "watchos",
-      "circlebars"
+      "watchos"
     ],
     "list_album": [
       {
@@ -307,21 +287,13 @@
     "array_tags": [
       "digital",
       "date",
-      "big",
-      "bateria",
-      "numerals",
+      "apple",
+      "minimal",
+      "pulse",
       "battery",
       "steps",
       "colors",
-      "watchos",
-      "apple",
-      "rainbow",
-      "minimal",
-      "pride",
-      "pulse",
-      "passos",
-      "duo",
-      "lgbt"
+      "watchos"
     ],
     "list_album": [
       {

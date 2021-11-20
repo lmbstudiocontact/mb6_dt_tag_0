@@ -76,8 +76,7 @@
       "alarm",
       "time",
       "battery",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {
@@ -337,7 +336,6 @@
       "battery",
       "steps",
       "sun",
-      "mitu",
       "seconds",
       "floors",
       "weather",
@@ -361,7 +359,6 @@
       "date",
       "white",
       "heartrate",
-      "design",
       "black",
       "dark",
       "battery",
@@ -387,7 +384,6 @@
       "date",
       "heartrate",
       "weather",
-      "casio",
       "battery",
       "steps"
     ],
@@ -474,14 +470,11 @@
     "id_bin": "297",
     "list_language": [],
     "array_tags": [
-      "big",
-      "visible",
       "white",
       "heartrate",
       "alarm",
       "simple",
       "steps",
-      "grey",
       "status"
     ],
     "list_album": [
@@ -584,17 +577,16 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "nike",
-      "heartrate",
-      "weekday",
-      "calories",
-      "battery",
-      "steps",
       "apple",
       "bluetooth",
+      "heartrate",
+      "weekday",
       "weather",
       "lock",
-      "dnd"
+      "calories",
+      "dnd",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -791,12 +783,9 @@
     "array_tags": [
       "digital",
       "date",
-      "megaman",
       "distance",
-      "megaband",
       "calories",
       "battery",
-      "portugues",
       "steps"
     ],
     "list_album": [
@@ -864,7 +853,6 @@
       "calories",
       "battery",
       "steps",
-      "classy",
       "donotdisturb",
       "month",
       "bluetooth",
@@ -889,17 +877,15 @@
     "array_tags": [
       "date",
       "distance",
+      "month",
+      "bluetooth",
       "heartrate",
+      "lock",
       "calories",
       "battery",
       "steps",
-      "classy",
-      "donotdisturb",
-      "month",
-      "bluetooth",
-      "lock",
       "day",
-      "colorful"
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -943,7 +929,6 @@
       "calories",
       "battery",
       "steps",
-      "classy",
       "donotdisturb",
       "month",
       "bluetooth",
@@ -993,10 +978,8 @@
     "array_tags": [
       "date",
       "apple",
-      "activity",
       "heartrate",
       "english",
-      "ios",
       "steps",
       "watchos"
     ],
@@ -1101,11 +1084,8 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "fallout",
-      "ita",
       "italian",
-      "steps",
-      "pipboy"
+      "steps"
     ],
     "list_album": [
       {

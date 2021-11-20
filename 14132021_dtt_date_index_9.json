@@ -103,7 +103,6 @@
       "digital",
       "date",
       "heartrate",
-      "bracelet",
       "battery",
       "steps"
     ],
@@ -140,11 +139,8 @@
     "id_bin": "704",
     "list_language": [],
     "array_tags": [
-      "orange",
       "date",
-      "zenitsu",
       "battery",
-      "agatsuma",
       "steps",
       "anime"
     ],
@@ -271,7 +267,6 @@
     "array_tags": [
       "red",
       "date",
-      "rose",
       "battery",
       "steps",
       "anime"
@@ -293,13 +288,10 @@
     "array_tags": [
       "digital",
       "date",
-      "br",
-      "pt",
       "heartrate",
       "weather",
       "brasil",
       "battery",
-      "portugues",
       "steps"
     ],
     "list_album": [
@@ -318,9 +310,7 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "time",
-      "simply",
-      "scorpion"
+      "time"
     ],
     "list_album": [
       {
@@ -402,7 +392,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -410,7 +399,6 @@
       "analog",
       "bluetooth",
       "weather",
-      "humidity",
       "lock",
       "dnd"
     ],
@@ -430,14 +418,11 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "ita",
       "english",
-      "yellow",
       "black",
       "italian",
       "time",
-      "steps",
-      "pixel"
+      "steps"
     ],
     "list_album": [
       {
@@ -500,21 +485,10 @@
     "id_bin": "744",
     "list_language": [],
     "array_tags": [
+      "red",
       "date",
       "digital",
-      "data",
-      "rosso",
-      "crono",
-      "meteo",
-      "digitale",
-      "vertical",
-      "numeri",
-      "red",
-      "mancini",
-      "number",
-      "destro",
-      "weather",
-      "verticale"
+      "weather"
     ],
     "list_album": [
       {
@@ -632,7 +606,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -749,7 +722,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "clear",
       "simple",
       "battery",
@@ -779,14 +751,12 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
       "battery",
       "clean",
       "steps",
-      "tilted",
       "minimal",
       "bluetooth",
       "legible",
@@ -809,7 +779,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "temp",
       "time",
       "battery"
     ],
@@ -834,8 +803,7 @@
       "heartrate",
       "weather",
       "battery",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {

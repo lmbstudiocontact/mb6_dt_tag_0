@@ -8,17 +8,15 @@
     "array_tags": [
       "digital",
       "date",
-      "distance",
-      "heartrate",
-      "retro",
-      "battery",
-      "steps",
-      "sythnwave",
       "analog",
       "seconds",
       "floors",
+      "distance",
+      "heartrate",
+      "retro",
       "weather",
-      "rubnlee"
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -37,7 +35,6 @@
     "array_tags": [
       "analog",
       "blue",
-      "rolex",
       "day"
     ],
     "list_album": [
@@ -107,12 +104,8 @@
     "array_tags": [
       "analog",
       "green",
-      "impactopdesign",
-      "rolex",
       "weekday",
-      "luxury",
-      "day",
-      "lux"
+      "day"
     ],
     "list_album": [
       {
@@ -130,11 +123,9 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "impactopdesign",
       "heartrate",
       "battery",
-      "steps",
-      "minions"
+      "steps"
     ],
     "list_album": [
       {
@@ -175,14 +166,11 @@
       "digital",
       "date",
       "analog",
-      "iwatch",
       "distance",
       "heartrate",
       "calories",
       "battery",
-      "ios",
-      "watchos",
-      "circlebars"
+      "watchos"
     ],
     "list_album": [
       {
@@ -239,7 +227,6 @@
     "array_tags": [
       "digital",
       "analog",
-      "google",
       "battery"
     ],
     "list_album": [
@@ -260,7 +247,6 @@
       "date",
       "distance",
       "heartrate",
-      "uvi",
       "calories",
       "battery",
       "steps",
@@ -268,7 +254,6 @@
       "analog",
       "bluetooth",
       "weather",
-      "humidity",
       "lock",
       "dnd"
     ],
@@ -309,7 +294,6 @@
     "array_tags": [
       "analog",
       "simple",
-      "simplicity",
       "basic"
     ],
     "list_album": [
@@ -328,9 +312,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "night",
       "simple",
-      "simplicity",
       "basic"
     ],
     "list_album": [
@@ -367,7 +349,6 @@
     "array_tags": [
       "analog",
       "simple",
-      "simplicity",
       "basic"
     ],
     "list_album": [
@@ -387,7 +368,6 @@
     "array_tags": [
       "analog",
       "simple",
-      "simplicity",
       "basic"
     ],
     "list_album": [
@@ -426,7 +406,6 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "gray",
       "simple",
       "basic"
     ],
@@ -446,8 +425,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "black",
-      "abstract"
+      "black"
     ],
     "list_album": [
       {
@@ -464,21 +442,14 @@
     "id_bin": "790",
     "list_language": [],
     "array_tags": [
-      "passi",
-      "analogico",
+      "analog",
       "heartrate",
+      "english",
       "weekday",
       "italian",
-      "settimana",
       "calories",
       "steps",
-      "analog",
-      "ita",
-      "english",
-      "calorie",
-      "day",
-      "battiti",
-      "giorni"
+      "day"
     ],
     "list_album": [
       {
@@ -516,8 +487,7 @@
     "id_bin": "803",
     "list_language": [],
     "array_tags": [
-      "analog",
-      "analogico"
+      "analog"
     ],
     "list_album": [
       {
@@ -534,12 +504,9 @@
     "id_bin": "814",
     "list_language": [],
     "array_tags": [
-      "orange",
       "analog",
       "minimal",
-      "analogico",
-      "basic",
-      "fashion"
+      "basic"
     ],
     "list_album": [
       {
@@ -607,8 +574,7 @@
       "analog",
       "weather",
       "weekday",
-      "battery",
-      "czechia"
+      "battery"
     ],
     "list_album": [
       {
@@ -629,8 +595,7 @@
       "analog",
       "weather",
       "weekday",
-      "battery",
-      "czechia"
+      "battery"
     ],
     "list_album": [
       {
@@ -648,9 +613,6 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "atleticomg",
-      "impactopdesign",
-      "analogico",
       "futebol"
     ],
     "list_album": [
@@ -668,12 +630,9 @@
     "id_bin": "2102",
     "list_language": [],
     "array_tags": [
-      "movies",
       "analog",
-      "geek",
       "serie",
       "animated",
-      "lcar",
       "animation"
     ],
     "list_album": [
@@ -694,7 +653,6 @@
       "digital",
       "distance",
       "weekday",
-      "digi",
       "calories",
       "battery",
       "steps",
@@ -722,7 +680,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digi",
       "weekday",
       "calories",
       "battery",
@@ -734,7 +691,6 @@
       "alarm",
       "pai",
       "time",
-      "czech",
       "status"
     ],
     "list_album": [
@@ -799,7 +755,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "activity",
       "distance",
       "weekday",
       "calories",
@@ -947,7 +902,6 @@
       "digital",
       "date",
       "analog",
-      "disney",
       "heartrate",
       "animated",
       "battery",
@@ -972,10 +926,7 @@
       "date",
       "analog",
       "heartrate",
-      "days",
-      "xenomorph",
       "steps",
-      "alien",
       "animation"
     ],
     "list_album": [
@@ -997,8 +948,6 @@
       "analog",
       "pokemon",
       "heartrate",
-      "days",
-      "luxio",
       "steps",
       "animation"
     ],
@@ -1019,7 +968,6 @@
     "array_tags": [
       "date",
       "analog",
-      "baal",
       "heartrate",
       "games",
       "steps"
@@ -1044,7 +992,6 @@
       "pulse",
       "weather",
       "weekday",
-      "epic",
       "calories",
       "steps",
       "animation",
@@ -1066,9 +1013,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
-      "artist",
-      "simple",
-      "fashion"
+      "simple"
     ],
     "list_album": [
       {
@@ -1085,11 +1030,7 @@
     "id_bin": "922",
     "list_language": [],
     "array_tags": [
-      "analog",
-      "psyco",
-      "artist",
-      "colorful",
-      "fashion"
+      "analog"
     ],
     "list_album": [
       {
@@ -1106,8 +1047,7 @@
     "id_bin": "943",
     "list_language": [],
     "array_tags": [
-      "analog",
-      "moto"
+      "analog"
     ],
     "list_album": [
       {

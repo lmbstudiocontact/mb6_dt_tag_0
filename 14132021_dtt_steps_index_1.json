@@ -81,7 +81,6 @@
       "temperature",
       "weather",
       "pai",
-      "casio",
       "calories",
       "battery",
       "steps"
@@ -180,12 +179,10 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "astronaut",
       "bluetooth",
       "notdisturb",
       "black",
       "lock",
-      "purple",
       "time",
       "battery",
       "steps",
@@ -299,8 +296,6 @@
       "digital",
       "date",
       "apple",
-      "rainbow",
-      "digi",
       "weather",
       "italian",
       "battery",
@@ -499,19 +494,16 @@
     "id_bin": "1207",
     "list_language": [],
     "array_tags": [
-      "color",
-      "notdisturb",
-      "completo",
-      "heartrate",
-      "colores",
-      "calories",
-      "battery",
-      "steps",
       "kcal",
+      "notdisturb",
+      "heartrate",
       "weather",
       "pai",
       "lock",
-      "time"
+      "time",
+      "calories",
+      "battery",
+      "steps"
     ],
     "list_album": [
       {
@@ -628,15 +620,12 @@
       "steps",
       "donotdisturb",
       "animation",
-      "rainbow",
-      "amoled",
       "bluetooth",
       "weather",
       "temperature",
       "animated",
       "lock",
       "pai",
-      "dijkmeneer",
       "status"
     ],
     "list_album": [
@@ -682,30 +671,21 @@
     "array_tags": [
       "date",
       "distance",
-      "oled",
-      "battery",
-      "qled",
-      "miles",
-      "amoled",
-      "temperature",
-      "pai",
-      "lock",
-      "dnd",
-      "mi",
-      "km",
-      "blocks",
       "heartrate",
       "calories",
+      "battery",
       "steps",
       "animation",
       "donotdisturb",
       "kcal",
       "bluetooth",
+      "temperature",
       "pulse",
-      "kilometer",
+      "pai",
       "animated",
+      "lock",
       "time",
-      "dijkmeneer"
+      "dnd"
     ],
     "list_album": [
       {
@@ -723,7 +703,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "color",
       "notdisturb",
       "heartrate",
       "black",
@@ -864,16 +843,14 @@
     "array_tags": [
       "digital",
       "date",
-      "iwatch",
+      "analog",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "watchos",
-      "analog",
-      "weather",
-      "circlebars"
+      "watchos"
     ],
     "list_album": [
       {
@@ -915,7 +892,6 @@
     "array_tags": [
       "digital",
       "date",
-      "bubblebobble",
       "game",
       "floors",
       "distance",
@@ -941,24 +917,16 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "km",
       "game",
-      "doomslayer",
-      "doom",
-      "calorias",
       "brasil",
       "calories",
       "battery",
       "steps",
       "red",
       "month",
-      "quilometro",
       "pulse",
-      "kilometer",
       "games",
       "pai",
-      "portugues",
-      "jogo",
       "day",
       "status"
     ],
@@ -1024,7 +992,6 @@
       "date",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "animation",
@@ -1073,11 +1040,8 @@
     "array_tags": [
       "digital",
       "date",
-      "calendar",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -1154,11 +1118,9 @@
       "digital",
       "game",
       "blue",
-      "rabbit",
       "games",
       "animated",
       "simple",
-      "girl",
       "steps",
       "anime",
       "animation"
@@ -1178,15 +1140,12 @@
     "id_bin": "1272",
     "list_language": [],
     "array_tags": [
-      "starwars",
       "distance",
       "heartrate",
       "weather",
       "pai",
-      "humidity",
       "calories",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {
@@ -1229,15 +1188,11 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "japanese",
-      "ekko",
       "games",
       "black",
       "english",
-      "animes",
       "steps",
-      "anime",
-      "colorful"
+      "anime"
     ],
     "list_album": [
       {

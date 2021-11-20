@@ -8,17 +8,9 @@
     "array_tags": [
       "digital",
       "date",
-      "san",
-      "auto",
       "game",
-      "cj",
-      "grand",
-      "theft",
       "battery",
-      "steps",
-      "andreas",
-      "gta",
-      "hud"
+      "steps"
     ],
     "list_album": [
       {
@@ -114,7 +106,6 @@
       "date",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "animation",
@@ -143,7 +134,6 @@
       "digital",
       "distance",
       "weekday",
-      "digi",
       "calories",
       "battery",
       "steps",
@@ -172,7 +162,6 @@
       "digital",
       "date",
       "month",
-      "ampm",
       "heartrate",
       "pulse",
       "time",
@@ -197,7 +186,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digi",
       "weekday",
       "calories",
       "battery",
@@ -209,7 +197,6 @@
       "alarm",
       "pai",
       "time",
-      "czech",
       "status"
     ],
     "list_album": [
@@ -275,7 +262,6 @@
     "array_tags": [
       "digital",
       "date",
-      "ampm",
       "weather",
       "alarm",
       "battery"
@@ -298,16 +284,11 @@
       "digital",
       "date",
       "soccer",
-      "fluminense",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
       "steps",
-      "flu",
-      "rj",
       "day"
     ],
     "list_album": [
@@ -352,7 +333,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "activity",
       "distance",
       "weekday",
       "calories",
@@ -407,20 +387,13 @@
     "array_tags": [
       "digital",
       "date",
-      "neymar",
       "soccer",
+      "seconds",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
-      "steps",
-      "futbol",
-      "seconds",
-      "pele",
-      "sp",
-      "santos"
+      "steps"
     ],
     "list_album": [
       {
@@ -441,16 +414,11 @@
       "date",
       "soccer",
       "heartrate",
-      "brasileirao",
       "brasil",
-      "football",
       "futebol",
       "battery",
-      "steps",
-      "spfc",
-      "futbol",
-      "sp",
-      "sport"
+      "sport",
+      "steps"
     ],
     "list_album": [
       {
@@ -468,10 +436,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "passi",
-      "calorie",
-      "battery",
-      "battiti"
+      "battery"
     ],
     "list_album": [
       {
@@ -604,7 +569,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "temp",
       "distance",
       "alarm",
       "time",
@@ -729,7 +693,6 @@
       "date",
       "time",
       "battery",
-      "funny",
       "animation",
       "status"
     ],
@@ -753,8 +716,7 @@
       "weather",
       "time",
       "battery",
-      "steps",
-      "temperatur"
+      "steps"
     ],
     "list_album": [
       {
@@ -773,16 +735,12 @@
     "array_tags": [
       "digital",
       "date",
-      "vice",
       "game",
       "distance",
-      "city",
       "heartrate",
+      "weather",
       "battery",
-      "steps",
-      "gta",
-      "hud",
-      "weather"
+      "steps"
     ],
     "list_album": [
       {
@@ -850,11 +808,9 @@
       "distance",
       "heartrate",
       "weather",
-      "slovak",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -876,11 +832,9 @@
       "distance",
       "heartrate",
       "weather",
-      "slovak",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -904,7 +858,6 @@
       "calories",
       "battery",
       "steps",
-      "look",
       "floors",
       "bluetooth",
       "weather",
@@ -928,16 +881,15 @@
     "array_tags": [
       "digital",
       "date",
+      "floors",
       "distance",
+      "bluetooth",
       "heartrate",
+      "weather",
+      "alarm",
       "calories",
       "battery",
-      "steps",
-      "look",
-      "floors",
-      "bluetooth",
-      "weather",
-      "alarm"
+      "steps"
     ],
     "list_album": [
       {
@@ -958,9 +910,7 @@
       "date",
       "heartrate",
       "weather",
-      "wola",
       "battery",
-      "polish",
       "steps"
     ],
     "list_album": [
@@ -1012,7 +962,6 @@
       "steps",
       "floors",
       "bluetooth",
-      "nd",
       "weather",
       "alarm",
       "lock"
@@ -1063,8 +1012,7 @@
       "weather",
       "calories",
       "battery",
-      "steps",
-      "czech"
+      "steps"
     ],
     "list_album": [
       {
@@ -1106,21 +1054,13 @@
     "array_tags": [
       "digital",
       "date",
-      "big",
-      "bateria",
-      "numerals",
+      "apple",
+      "minimal",
+      "pulse",
       "battery",
       "steps",
       "colors",
-      "watchos",
-      "apple",
-      "rainbow",
-      "minimal",
-      "pride",
-      "pulse",
-      "passos",
-      "duo",
-      "lgbt"
+      "watchos"
     ],
     "list_album": [
       {
@@ -1160,11 +1100,7 @@
     "id_bin": "2404",
     "list_language": [],
     "array_tags": [
-      "passi",
-      "music",
-      "battery",
-      "passion",
-      "life"
+      "battery"
     ],
     "list_album": [
       {
@@ -1235,18 +1171,15 @@
       "digital",
       "date",
       "weekday",
-      "clock",
       "calories",
       "battery",
       "steps",
       "colors",
-      "orange",
       "bluetooth",
       "weather",
       "pulse",
       "lock",
-      "dnd",
-      "fashion"
+      "dnd"
     ],
     "list_album": [
       {

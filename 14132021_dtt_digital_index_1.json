@@ -79,7 +79,6 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "activity",
       "weather",
       "pulse"
     ],
@@ -191,8 +190,6 @@
       "digital",
       "date",
       "apple",
-      "rainbow",
-      "digi",
       "weather",
       "italian",
       "battery",
@@ -566,11 +563,7 @@
     "id_bin": "124",
     "list_language": [],
     "array_tags": [
-      "br",
-      "eua",
       "digital",
-      "geral",
-      "completo",
       "brasil"
     ],
     "list_album": [
@@ -590,16 +583,14 @@
     "array_tags": [
       "digital",
       "date",
-      "iwatch",
+      "analog",
       "distance",
       "heartrate",
+      "weather",
       "calories",
       "battery",
       "steps",
-      "watchos",
-      "analog",
-      "weather",
-      "circlebars"
+      "watchos"
     ],
     "list_album": [
       {
@@ -641,7 +632,6 @@
     "array_tags": [
       "digital",
       "date",
-      "bubblebobble",
       "game",
       "floors",
       "distance",
@@ -667,14 +657,10 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "nike",
       "animated",
       "simple",
-      "animes",
-      "girl",
       "anime",
-      "animation",
-      "simples"
+      "animation"
     ],
     "list_album": [
       {
@@ -738,7 +724,6 @@
       "date",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "animation",
@@ -787,11 +772,8 @@
     "array_tags": [
       "digital",
       "date",
-      "calendar",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -842,11 +824,9 @@
       "digital",
       "game",
       "blue",
-      "rabbit",
       "games",
       "animated",
       "simple",
-      "girl",
       "steps",
       "anime",
       "animation"
@@ -867,15 +847,11 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "japanese",
-      "ekko",
       "games",
       "black",
       "english",
-      "animes",
       "steps",
-      "anime",
-      "colorful"
+      "anime"
     ],
     "list_album": [
       {
@@ -892,20 +868,15 @@
     "id_bin": "1277",
     "list_language": [],
     "array_tags": [
+      "naruto",
       "digital",
       "game",
-      "cyberpunk",
       "black",
-      "animation",
-      "apex",
-      "naruto",
-      "japanese",
       "english",
       "games",
       "animated",
-      "animes",
-      "colorful",
-      "anime"
+      "anime",
+      "animation"
     ],
     "list_album": [
       {
@@ -993,7 +964,6 @@
       "dragonball",
       "goku",
       "bluetooth",
-      "night",
       "weekday",
       "lock",
       "battery",

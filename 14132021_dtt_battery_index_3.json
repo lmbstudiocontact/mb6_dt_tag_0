@@ -243,7 +243,6 @@
       "weather",
       "temperature",
       "weekday",
-      "humidity",
       "calories",
       "battery",
       "steps"
@@ -269,7 +268,6 @@
       "heartrate",
       "weather",
       "temperature",
-      "humidity",
       "calories",
       "battery",
       "steps"
@@ -352,12 +350,9 @@
     "list_language": [],
     "array_tags": [
       "digital",
-      "calendar",
       "date",
-      "ampm",
       "heartrate",
       "weekday",
-      "uvi",
       "battery",
       "steps",
       "donotdisturb",
@@ -405,7 +400,6 @@
     "array_tags": [
       "date",
       "distance",
-      "blocks",
       "weekday",
       "calories",
       "battery",
@@ -434,8 +428,6 @@
     "id_bin": "1462",
     "list_language": [],
     "array_tags": [
-      "tesla",
-      "car",
       "simple",
       "battery",
       "steps"
@@ -569,7 +561,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",
@@ -683,7 +674,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "simple",
@@ -731,7 +721,6 @@
     "array_tags": [
       "digital",
       "date",
-      "metric",
       "heartrate",
       "weather",
       "black",
@@ -756,8 +745,6 @@
     "array_tags": [
       "digital",
       "date",
-      "digitalky",
-      "phone",
       "battery"
     ],
     "list_album": [
@@ -778,7 +765,6 @@
       "red",
       "digital",
       "minimal",
-      "deadmaus",
       "black",
       "animated",
       "simple",
@@ -824,8 +810,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "nokia",
-      "digitalky",
       "weather",
       "battery"
     ],
@@ -913,7 +897,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pink",
       "blue",
       "battery",
       "day"
@@ -934,7 +917,6 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "pink",
       "blue",
       "heartrate",
       "battery",
@@ -1093,11 +1075,9 @@
       "alarm",
       "animated",
       "health",
-      "steinsgate",
       "battery",
       "steps",
-      "anime",
-      "temperatur"
+      "anime"
     ],
     "list_album": [
       {
@@ -1120,7 +1100,6 @@
       "distance",
       "heartrate",
       "weather",
-      "calorie",
       "pai",
       "battery",
       "steps",
@@ -1144,8 +1123,7 @@
       "date",
       "analog",
       "weather",
-      "battery",
-      "czechia"
+      "battery"
     ],
     "list_album": [
       {

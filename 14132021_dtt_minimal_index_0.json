@@ -51,8 +51,6 @@
     "list_language": [],
     "array_tags": [
       "minimal",
-      "anim",
-      "girl",
       "anime"
     ],
     "list_album": [
@@ -71,7 +69,6 @@
     "list_language": [],
     "array_tags": [
       "minimal",
-      "sporting",
       "sport"
     ],
     "list_album": [
@@ -89,7 +86,6 @@
     "id_bin": "1350",
     "list_language": [],
     "array_tags": [
-      "big",
       "minimal"
     ],
     "list_album": [
@@ -110,7 +106,6 @@
       "red",
       "digital",
       "minimal",
-      "deadmaus",
       "black",
       "animated",
       "simple",
@@ -193,8 +188,7 @@
       "heartrate",
       "weather",
       "time",
-      "day",
-      "wind"
+      "day"
     ],
     "list_album": [
       {
@@ -233,15 +227,10 @@
     "id_bin": "393",
     "list_language": [],
     "array_tags": [
-      "astronaut",
       "minimal",
       "green",
-      "vintage",
-      "future",
-      "flying",
       "retro",
       "weather",
-      "casio",
       "time",
       "space"
     ],
@@ -265,7 +254,6 @@
       "minimal",
       "heartrate",
       "weather",
-      "aion",
       "calories",
       "battery",
       "day",
@@ -286,10 +274,8 @@
     "id_bin": "52",
     "list_language": [],
     "array_tags": [
-      "big",
       "minimal",
-      "simple",
-      "grande"
+      "simple"
     ],
     "list_album": [
       {
@@ -308,8 +294,7 @@
     "array_tags": [
       "minimal",
       "blue",
-      "simple",
-      "azul"
+      "simple"
     ],
     "list_album": [
       {
@@ -327,8 +312,7 @@
     "list_language": [],
     "array_tags": [
       "minimal",
-      "simple",
-      "minimalista"
+      "simple"
     ],
     "list_album": [
       {
@@ -425,7 +409,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -456,7 +439,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "clear",
       "simple",
       "battery",
@@ -486,14 +468,12 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
       "battery",
       "clean",
       "steps",
-      "tilted",
       "minimal",
       "bluetooth",
       "legible",
@@ -536,12 +516,9 @@
     "id_bin": "814",
     "list_language": [],
     "array_tags": [
-      "orange",
       "analog",
       "minimal",
-      "analogico",
-      "basic",
-      "fashion"
+      "basic"
     ],
     "list_album": [
       {
@@ -581,21 +558,14 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "sky",
-      "green",
-      "data",
-      "island",
-      "simple",
-      "simplicity",
-      "minimalista",
-      "battery",
       "minimal",
+      "green",
       "white",
       "bluetooth",
-      "minimalist",
       "lock",
+      "simple",
       "time",
-      "azul"
+      "battery"
     ],
     "list_album": [
       {
@@ -614,7 +584,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -728,7 +697,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -760,7 +728,6 @@
     "array_tags": [
       "digital",
       "date",
-      "readable",
       "heartrate",
       "clear",
       "simple",
@@ -792,21 +759,13 @@
     "array_tags": [
       "digital",
       "date",
-      "big",
-      "bateria",
-      "numerals",
+      "apple",
+      "minimal",
+      "pulse",
       "battery",
       "steps",
       "colors",
-      "watchos",
-      "apple",
-      "rainbow",
-      "minimal",
-      "pride",
-      "pulse",
-      "passos",
-      "duo",
-      "lgbt"
+      "watchos"
     ],
     "list_album": [
       {
@@ -845,9 +804,7 @@
       "red",
       "minimal",
       "white",
-      "future",
-      "black",
-      "hex"
+      "black"
     ],
     "list_album": [
       {
