@@ -8,6 +8,7 @@
     "array_tags": [
       "digital",
       "soccer",
+      "miband6",
       "futebol"
     ],
     "list_album": [
@@ -46,6 +47,7 @@
     "array_tags": [
       "digital",
       "soccer",
+      "miband6",
       "brasil",
       "futebol"
     ],
@@ -126,13 +128,15 @@
       "date",
       "digital",
       "soccer",
-      "blue",
-      "month",
+      "miband6",
       "heartrate",
       "weekday",
+      "dayoftheweek",
       "futebol",
       "battery",
       "steps",
+      "blue",
+      "month",
       "day"
     ],
     "list_album": [
@@ -238,6 +242,7 @@
       "seconds",
       "heartrate",
       "brasil",
+      "dayoftheweek",
       "futebol",
       "battery",
       "steps"

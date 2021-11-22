@@ -9,8 +9,10 @@
       "digital",
       "date",
       "month",
+      "stepprogress",
       "heartrate",
       "pulse",
+      "dayoftheweek",
       "time",
       "battery",
       "day",
@@ -513,6 +515,7 @@
       "date",
       "distance",
       "english",
+      "dayoftheweek",
       "time",
       "battery",
       "steps"
@@ -533,6 +536,7 @@
     "list_language": [],
     "array_tags": [
       "bluetooth",
+      "stepprogress",
       "heartrate",
       "weather",
       "lock",
@@ -580,6 +584,7 @@
     "array_tags": [
       "date",
       "marvel",
+      "stepprogress",
       "bluetooth",
       "notdisturb",
       "alarm",
@@ -604,6 +609,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "bluetooth",
       "weekday",
       "lock",

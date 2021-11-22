@@ -8,6 +8,7 @@
     "array_tags": [
       "red",
       "analog",
+      "portugus",
       "english"
     ],
     "list_album": [
@@ -121,6 +122,7 @@
       "date",
       "game",
       "brasil",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
@@ -234,6 +236,7 @@
     "list_language": [],
     "array_tags": [
       "red",
+      "bignumbers",
       "date",
       "white",
       "pulse",
@@ -327,6 +330,7 @@
     "array_tags": [
       "red",
       "date",
+      "stepprogress",
       "battery",
       "steps",
       "anime"
@@ -412,6 +416,7 @@
     "array_tags": [
       "red",
       "heartrate",
+      "xiaomimiband6",
       "black",
       "battery"
     ],

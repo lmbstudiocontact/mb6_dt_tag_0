@@ -7,6 +7,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "portugus",
       "brasil"
     ],
     "list_album": [
@@ -27,6 +28,7 @@
       "date",
       "game",
       "brasil",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
@@ -56,6 +58,7 @@
       "digital",
       "date",
       "black",
+      "portugus",
       "pulse",
       "weekday",
       "brasil",
@@ -79,6 +82,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "portugus",
       "brasil"
     ],
     "list_album": [
@@ -98,6 +102,7 @@
     "array_tags": [
       "digital",
       "soccer",
+      "miband6",
       "brasil",
       "futebol"
     ],
@@ -167,6 +172,7 @@
       "heartrate",
       "weekday",
       "brasil",
+      "dayoftheweek",
       "battery",
       "steps",
       "space",
@@ -194,6 +200,7 @@
       "date",
       "heartrate",
       "weather",
+      "portugus",
       "brasil",
       "battery",
       "steps"
@@ -263,6 +270,7 @@
       "seconds",
       "heartrate",
       "brasil",
+      "dayoftheweek",
       "futebol",
       "battery",
       "steps"
@@ -325,6 +333,7 @@
     "id_bin": "996",
     "list_language": [],
     "array_tags": [
+      "bignumbers",
       "brasil"
     ],
     "list_album": [

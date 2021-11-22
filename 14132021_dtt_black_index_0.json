@@ -129,6 +129,7 @@
       "digital",
       "date",
       "black",
+      "portugus",
       "pulse",
       "weekday",
       "brasil",
@@ -315,6 +316,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "bignumbers",
       "bluetooth",
       "month",
       "black",
@@ -528,6 +530,8 @@
       "digital",
       "white",
       "black",
+      "portugus",
+      "dayoftheweek",
       "basic",
       "battery",
       "day"
@@ -573,6 +577,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "weekday",
       "black",
       "english",
@@ -657,6 +662,7 @@
     "array_tags": [
       "red",
       "heartrate",
+      "xiaomimiband6",
       "black",
       "battery"
     ],

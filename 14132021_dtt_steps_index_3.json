@@ -9,6 +9,7 @@
       "date",
       "distance",
       "heartrate",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
@@ -299,6 +300,7 @@
     "id_bin": "1434",
     "list_language": [],
     "array_tags": [
+      "bignumbers",
       "date",
       "digital",
       "seconds",
@@ -330,6 +332,7 @@
       "heartrate",
       "weather",
       "temperature",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps"
@@ -857,6 +860,7 @@
     "id_bin": "1549",
     "list_language": [],
     "array_tags": [
+      "bignumbers",
       "date",
       "blue",
       "heartrate",
@@ -987,11 +991,13 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "heartrate",
       "weather",
       "alarm",
       "animated",
       "health",
+      "dayoftheweek",
       "battery",
       "steps",
       "anime"

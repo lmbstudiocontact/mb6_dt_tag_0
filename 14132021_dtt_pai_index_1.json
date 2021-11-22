@@ -84,15 +84,16 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
-      "month",
       "heartrate",
-      "weather",
       "weekday",
-      "pulse",
-      "pai",
       "calories",
-      "battery"
+      "battery",
+      "month",
+      "weather",
+      "pulse",
+      "pai"
     ],
     "list_album": [
       {
@@ -172,6 +173,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "pulse",
       "weather",
@@ -693,6 +695,7 @@
     "array_tags": [
       "date",
       "marvel",
+      "stepprogress",
       "bluetooth",
       "notdisturb",
       "alarm",

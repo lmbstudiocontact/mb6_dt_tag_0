@@ -228,6 +228,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "portugus",
       "games",
       "weekday",
       "animated",
@@ -296,11 +297,13 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "heartrate",
       "weather",
       "alarm",
       "animated",
       "health",
+      "dayoftheweek",
       "battery",
       "steps",
       "anime"
@@ -393,6 +396,7 @@
       "heartrate",
       "english",
       "animated",
+      "dayoftheweek",
       "battery",
       "steps",
       "day",
@@ -414,6 +418,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "animated"
     ],
     "list_album": [
@@ -435,6 +440,7 @@
       "month",
       "english",
       "animated",
+      "dayoftheweek",
       "day",
       "anime"
     ],
@@ -523,6 +529,7 @@
     "array_tags": [
       "heartrate",
       "animated",
+      "chainsawman",
       "anime",
       "animation"
     ],
@@ -627,6 +634,7 @@
       "heartrate",
       "animated",
       "steps",
+      "looneytunes",
       "animation"
     ],
     "list_album": [
@@ -648,6 +656,7 @@
       "heartrate",
       "animated",
       "steps",
+      "looneytunes",
       "animation"
     ],
     "list_album": [

@@ -293,6 +293,7 @@
     "array_tags": [
       "digital",
       "date",
+      "dayoftheweek",
       "battery",
       "steps"
     ],
@@ -313,6 +314,7 @@
     "array_tags": [
       "digital",
       "date",
+      "dayoftheweek",
       "battery",
       "steps"
     ],
@@ -380,6 +382,7 @@
       "date",
       "analog",
       "distance",
+      "stepprogress",
       "heartrate",
       "weather",
       "calories",
@@ -404,6 +407,9 @@
       "digital",
       "date",
       "minimal",
+      "miband6",
+      "stepprogress",
+      "xiaomimiband6",
       "weekday",
       "english",
       "battery"
@@ -451,6 +457,7 @@
       "heartrate",
       "weekday",
       "brasil",
+      "dayoftheweek",
       "battery",
       "steps",
       "space",
@@ -476,6 +483,7 @@
     "array_tags": [
       "digital",
       "date",
+      "dayoftheweek",
       "battery",
       "steps",
       "status"
@@ -587,13 +595,15 @@
       "date",
       "digital",
       "soccer",
-      "blue",
-      "month",
+      "miband6",
       "heartrate",
       "weekday",
+      "dayoftheweek",
       "futebol",
       "battery",
       "steps",
+      "blue",
+      "month",
       "day"
     ],
     "list_album": [
@@ -923,6 +933,7 @@
     "array_tags": [
       "digital",
       "date",
+      "miband6",
       "heartrate",
       "weather",
       "battery",
@@ -945,6 +956,7 @@
     "array_tags": [
       "digital",
       "date",
+      "miband6",
       "heartrate",
       "weather",
       "english",
@@ -991,6 +1003,7 @@
       "digital",
       "date",
       "heartrate",
+      "xiaomimiband6",
       "weather",
       "battery",
       "steps"
@@ -1036,12 +1049,13 @@
       "game",
       "pokemon",
       "heartrate",
+      "dayoftheweek",
+      "battery",
+      "steps",
       "games",
       "temperature",
       "weather",
-      "battery",
-      "day",
-      "steps"
+      "day"
     ],
     "list_album": [
       {

@@ -7,6 +7,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -30,6 +31,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "english",
       "weather",
@@ -81,6 +83,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "weather",
       "pulse",
       "calories",
@@ -103,6 +106,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -126,6 +130,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "pulse",
       "weather",
@@ -149,6 +154,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -171,6 +177,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -218,6 +225,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -242,6 +250,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "english",
       "pulse",
       "weather",
@@ -447,8 +456,10 @@
       "digital",
       "date",
       "month",
+      "stepprogress",
       "heartrate",
       "pulse",
+      "dayoftheweek",
       "time",
       "battery",
       "day",
@@ -500,8 +511,10 @@
       "digital",
       "date",
       "month",
+      "stepprogress",
       "heartrate",
       "pulse",
+      "dayoftheweek",
       "time",
       "battery",
       "day",
@@ -727,6 +740,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "bignumbers",
       "date",
       "apple",
       "minimal",
@@ -787,6 +801,7 @@
       "steps",
       "colors",
       "bluetooth",
+      "stepprogress",
       "weather",
       "pulse",
       "lock",

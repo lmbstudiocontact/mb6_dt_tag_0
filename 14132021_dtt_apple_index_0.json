@@ -284,6 +284,7 @@
     "array_tags": [
       "date",
       "apple",
+      "portugus",
       "watchos"
     ],
     "list_album": [
@@ -344,7 +345,9 @@
     "id_bin": "611",
     "list_language": [],
     "array_tags": [
-      "apple"
+      "apple",
+      "miband6",
+      "xiaomimiband6"
     ],
     "list_album": [
       {
@@ -361,7 +364,8 @@
     "id_bin": "2183",
     "list_language": [],
     "array_tags": [
-      "apple"
+      "apple",
+      "miband6"
     ],
     "list_album": [
       {
@@ -379,6 +383,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "bignumbers",
       "date",
       "apple",
       "minimal",

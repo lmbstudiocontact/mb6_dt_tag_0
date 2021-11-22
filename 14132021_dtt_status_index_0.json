@@ -194,6 +194,7 @@
       "date",
       "game",
       "brasil",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
@@ -468,6 +469,9 @@
     "id_bin": "560",
     "list_language": [],
     "array_tags": [
+      "dayoftheweek",
+      "battery",
+      "steps",
       "month",
       "bluetooth",
       "weather",
@@ -475,9 +479,7 @@
       "pulse",
       "lock",
       "dnd",
-      "battery",
       "day",
-      "steps",
       "status"
     ],
     "list_album": [
@@ -497,6 +499,7 @@
     "array_tags": [
       "digital",
       "date",
+      "dayoftheweek",
       "battery",
       "steps",
       "status"

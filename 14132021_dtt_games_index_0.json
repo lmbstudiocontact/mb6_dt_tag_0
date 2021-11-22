@@ -107,6 +107,7 @@
       "date",
       "game",
       "brasil",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
@@ -206,6 +207,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "portugus",
       "games",
       "weekday",
       "animated",
@@ -408,6 +410,7 @@
       "heartrate",
       "weekday",
       "brasil",
+      "dayoftheweek",
       "battery",
       "steps",
       "space",
@@ -472,12 +475,13 @@
       "game",
       "pokemon",
       "heartrate",
+      "dayoftheweek",
+      "battery",
+      "steps",
       "games",
       "temperature",
       "weather",
-      "battery",
-      "day",
-      "steps"
+      "day"
     ],
     "list_album": [
       {
@@ -926,6 +930,7 @@
     "id_bin": "2248",
     "list_language": [],
     "array_tags": [
+      "warnerbros",
       "cartoon",
       "heartrate",
       "serie",
@@ -948,6 +953,7 @@
     "id_bin": "2253",
     "list_language": [],
     "array_tags": [
+      "warnerbros",
       "cartoon",
       "heartrate",
       "serie",
@@ -970,6 +976,7 @@
     "id_bin": "2254",
     "list_language": [],
     "array_tags": [
+      "warnerbros",
       "cartoon",
       "heartrate",
       "serie",
@@ -992,6 +999,7 @@
     "id_bin": "2255",
     "list_language": [],
     "array_tags": [
+      "warnerbros",
       "cartoon",
       "heartrate",
       "serie",

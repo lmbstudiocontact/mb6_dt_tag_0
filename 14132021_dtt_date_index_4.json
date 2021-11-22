@@ -71,6 +71,7 @@
       "digital",
       "date",
       "minimal",
+      "dayoftheweek",
       "day"
     ],
     "list_album": [
@@ -158,11 +159,13 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "heartrate",
       "weather",
       "alarm",
       "animated",
       "health",
+      "dayoftheweek",
       "battery",
       "steps",
       "anime"
@@ -607,6 +610,7 @@
     "list_language": [],
     "array_tags": [
       "red",
+      "bignumbers",
       "date",
       "white",
       "pulse",
@@ -632,6 +636,7 @@
     "array_tags": [
       "date",
       "bluetooth",
+      "stepprogress",
       "pulse",
       "time",
       "battery",
@@ -977,6 +982,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "bignumbers",
       "bluetooth",
       "month",
       "black",

@@ -154,6 +154,7 @@
       "date",
       "game",
       "brasil",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
@@ -298,6 +299,7 @@
       "heartrate",
       "weekday",
       "brasil",
+      "dayoftheweek",
       "battery",
       "steps",
       "space",
@@ -344,12 +346,13 @@
       "game",
       "pokemon",
       "heartrate",
+      "dayoftheweek",
+      "battery",
+      "steps",
       "games",
       "temperature",
       "weather",
-      "battery",
-      "day",
-      "steps"
+      "day"
     ],
     "list_album": [
       {

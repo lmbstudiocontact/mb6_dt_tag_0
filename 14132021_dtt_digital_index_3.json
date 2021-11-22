@@ -229,6 +229,7 @@
       "digital",
       "date",
       "minimal",
+      "dayoftheweek",
       "day"
     ],
     "list_album": [

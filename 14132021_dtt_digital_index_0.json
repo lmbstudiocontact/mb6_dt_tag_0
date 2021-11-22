@@ -8,6 +8,7 @@
     "array_tags": [
       "digital",
       "date",
+      "stepprogress",
       "bluetooth",
       "lock",
       "time",
@@ -672,15 +673,16 @@
     "array_tags": [
       "date",
       "digital",
-      "blue",
       "distance",
       "heartrate",
-      "weather",
       "weekday",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
-      "animation"
+      "animation",
+      "blue",
+      "weather"
     ],
     "list_album": [
       {
@@ -1082,6 +1084,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "pulse",
       "english",

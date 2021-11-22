@@ -216,6 +216,7 @@
       "digital",
       "dragonball",
       "goku",
+      "miband6",
       "bluetooth",
       "weekday",
       "lock",
@@ -346,6 +347,24 @@
     ]
   },
   {
+    "author": "yngws",
+    "link_thumb": "https://live.staticflickr.com/65535/51669740803_75d3cd925a_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1353.bin",
+    "id_bin": "1353",
+    "list_language": [],
+    "array_tags": [
+      "cartoon",
+      "anime"
+    ],
+    "list_album": [
+      {
+        "id_album": "63410260",
+        "link_thumb": "https://live.staticflickr.com/65535/51669740803_75d3cd925a_o.gif",
+        "title": "Anime"
+      }
+    ]
+  },
+  {
     "author": "Yansanes",
     "link_thumb": "https://live.staticflickr.com/65535/51668702112_ec5fefccdc_o.gif",
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1355.bin",
@@ -403,6 +422,7 @@
     "id_bin": "1405",
     "list_language": [],
     "array_tags": [
+      "miband6",
       "anime"
     ],
     "list_album": [
@@ -420,6 +440,7 @@
     "id_bin": "1427",
     "list_language": [],
     "array_tags": [
+      "miband6",
       "anime"
     ],
     "list_album": [
@@ -437,6 +458,7 @@
     "id_bin": "1431",
     "list_language": [],
     "array_tags": [
+      "miband6",
       "simple",
       "anime"
     ],
@@ -455,6 +477,7 @@
     "id_bin": "1432",
     "list_language": [],
     "array_tags": [
+      "miband6",
       "simple",
       "anime"
     ],
@@ -517,11 +540,13 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "heartrate",
       "weather",
       "alarm",
       "animated",
       "health",
+      "dayoftheweek",
       "battery",
       "steps",
       "anime"
@@ -562,6 +587,7 @@
       "month",
       "heartrate",
       "english",
+      "dayoftheweek",
       "battery",
       "steps",
       "day",
@@ -587,6 +613,7 @@
       "heartrate",
       "english",
       "animated",
+      "dayoftheweek",
       "battery",
       "steps",
       "day",
@@ -611,6 +638,7 @@
       "month",
       "heartrate",
       "english",
+      "dayoftheweek",
       "day",
       "steps",
       "anime"
@@ -634,6 +662,7 @@
       "month",
       "heartrate",
       "english",
+      "dayoftheweek",
       "battery",
       "day",
       "anime"
@@ -674,6 +703,7 @@
       "digital",
       "month",
       "english",
+      "dayoftheweek",
       "battery",
       "day",
       "anime"
@@ -697,6 +727,7 @@
       "month",
       "english",
       "animated",
+      "dayoftheweek",
       "day",
       "anime"
     ],
@@ -752,6 +783,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "battery",
       "steps",
       "anime"
@@ -810,6 +842,7 @@
     "array_tags": [
       "red",
       "date",
+      "stepprogress",
       "battery",
       "steps",
       "anime"
@@ -971,29 +1004,14 @@
     "id_bin": "1749",
     "list_language": [],
     "array_tags": [
-      "anime"
+      "bokunohero",
+      "anime",
+      "myheroacademia"
     ],
     "list_album": [
       {
         "id_album": "63410260",
         "link_thumb": "https://live.staticflickr.com/65535/51670234294_847f21fbfa_o.gif",
-        "title": "Anime"
-      }
-    ]
-  },
-  {
-    "author": "ZanarkTempest",
-    "link_thumb": "https://live.staticflickr.com/65535/51669546986_40ede6b34c_o.gif",
-    "link_bin": "https://github.com/lmbstudiocontact/mb6_1/raw/main/1750.bin",
-    "id_bin": "1750",
-    "list_language": [],
-    "array_tags": [
-      "anime"
-    ],
-    "list_album": [
-      {
-        "id_album": "63410260",
-        "link_thumb": "https://live.staticflickr.com/65535/51669546986_40ede6b34c_o.gif",
         "title": "Anime"
       }
     ]

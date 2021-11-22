@@ -241,6 +241,7 @@
       "seconds",
       "heartrate",
       "brasil",
+      "dayoftheweek",
       "futebol",
       "battery",
       "steps"
@@ -1009,6 +1010,7 @@
     "list_language": [],
     "array_tags": [
       "bluetooth",
+      "stepprogress",
       "heartrate",
       "weather",
       "lock",

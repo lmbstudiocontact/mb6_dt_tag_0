@@ -905,6 +905,7 @@
       "steps",
       "colors",
       "bluetooth",
+      "stepprogress",
       "weather",
       "pulse",
       "lock",
@@ -1167,6 +1168,7 @@
     "list_language": [],
     "array_tags": [
       "bluetooth",
+      "stepprogress",
       "heartrate",
       "weather",
       "lock",

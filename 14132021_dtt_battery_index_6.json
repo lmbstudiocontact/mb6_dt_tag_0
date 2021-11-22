@@ -283,15 +283,16 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
-      "month",
       "heartrate",
-      "weather",
       "weekday",
-      "pulse",
-      "pai",
       "calories",
-      "battery"
+      "battery",
+      "month",
+      "weather",
+      "pulse",
+      "pai"
     ],
     "list_album": [
       {
@@ -898,6 +899,7 @@
     "id_bin": "441",
     "list_language": [],
     "array_tags": [
+      "miband6",
       "weather",
       "pulse",
       "english",

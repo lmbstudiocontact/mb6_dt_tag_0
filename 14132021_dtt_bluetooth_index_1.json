@@ -58,6 +58,7 @@
       "date",
       "distance",
       "heartrate",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
@@ -231,6 +232,7 @@
       "bluetooth",
       "weekday",
       "lock",
+      "dayoftheweek",
       "time",
       "battery",
       "steps"
@@ -251,6 +253,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "bluetooth",
       "heartrate",
       "lock",
@@ -759,6 +762,7 @@
       "steps",
       "colors",
       "bluetooth",
+      "stepprogress",
       "weather",
       "pulse",
       "lock",
@@ -840,6 +844,7 @@
       "weather",
       "retro",
       "lock",
+      "dayoftheweek",
       "battery",
       "steps",
       "donotdisturb"
@@ -905,6 +910,7 @@
     "list_language": [],
     "array_tags": [
       "bluetooth",
+      "stepprogress",
       "heartrate",
       "weather",
       "lock",
@@ -951,6 +957,7 @@
     "array_tags": [
       "date",
       "marvel",
+      "stepprogress",
       "bluetooth",
       "notdisturb",
       "alarm",
@@ -975,6 +982,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "bluetooth",
       "weekday",
       "lock",

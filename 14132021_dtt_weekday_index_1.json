@@ -35,6 +35,9 @@
       "digital",
       "date",
       "minimal",
+      "miband6",
+      "stepprogress",
+      "xiaomimiband6",
       "weekday",
       "english",
       "battery"
@@ -56,6 +59,7 @@
     "array_tags": [
       "analog",
       "green",
+      "miband6",
       "weekday",
       "day"
     ],
@@ -80,6 +84,7 @@
       "heartrate",
       "weekday",
       "brasil",
+      "dayoftheweek",
       "battery",
       "steps",
       "space",
@@ -106,13 +111,15 @@
       "date",
       "digital",
       "soccer",
-      "blue",
-      "month",
+      "miband6",
       "heartrate",
       "weekday",
+      "dayoftheweek",
       "futebol",
       "battery",
       "steps",
+      "blue",
+      "month",
       "day"
     ],
     "list_album": [
@@ -157,6 +164,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "weekday",
       "black",
       "english",
@@ -206,6 +214,7 @@
       "bluetooth",
       "weekday",
       "lock",
+      "dayoftheweek",
       "time",
       "battery",
       "steps"
@@ -437,6 +446,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "xiaomimiband6",
       "weekday",
       "simple",
       "battery",
@@ -982,6 +992,7 @@
       "steps",
       "colors",
       "bluetooth",
+      "stepprogress",
       "weather",
       "pulse",
       "lock",

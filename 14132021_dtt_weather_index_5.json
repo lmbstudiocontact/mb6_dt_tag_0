@@ -11,12 +11,13 @@
       "game",
       "pokemon",
       "heartrate",
+      "dayoftheweek",
+      "battery",
+      "steps",
       "games",
       "temperature",
       "weather",
-      "battery",
-      "day",
-      "steps"
+      "day"
     ],
     "list_album": [
       {
@@ -34,6 +35,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -57,6 +59,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "pulse",
       "weather",
@@ -80,6 +83,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "calories",
@@ -101,6 +105,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -123,6 +128,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -213,6 +219,7 @@
       "date",
       "heartrate",
       "weather",
+      "portugus",
       "brasil",
       "battery",
       "steps"
@@ -257,6 +264,7 @@
       "date",
       "distance",
       "heartrate",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
@@ -327,6 +335,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -602,6 +611,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "english",
       "pulse",
       "weather",

@@ -8,6 +8,7 @@
     "array_tags": [
       "digital",
       "date",
+      "stepprogress",
       "bluetooth",
       "lock",
       "time",
@@ -57,6 +58,7 @@
       "analog",
       "kcal",
       "bluetooth",
+      "stepprogress",
       "pai",
       "lock",
       "time"
@@ -395,6 +397,7 @@
     "list_language": [],
     "array_tags": [
       "kcal",
+      "stepprogress",
       "distance",
       "heartrate",
       "pai",

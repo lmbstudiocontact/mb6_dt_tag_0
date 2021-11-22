@@ -15,6 +15,7 @@
       "analog",
       "kcal",
       "bluetooth",
+      "stepprogress",
       "pai",
       "lock",
       "time"
@@ -343,6 +344,7 @@
     "array_tags": [
       "date",
       "marvel",
+      "stepprogress",
       "bluetooth",
       "notdisturb",
       "alarm",

@@ -8,6 +8,7 @@
     "array_tags": [
       "analog",
       "green",
+      "portugus",
       "english"
     ],
     "list_album": [
@@ -44,6 +45,7 @@
     "id_bin": "1105",
     "list_language": [],
     "array_tags": [
+      "miband6",
       "green",
       "blue",
       "retro"
@@ -101,7 +103,9 @@
     "list_language": [],
     "array_tags": [
       "minimal",
+      "miband6",
       "green",
+      "xiaomimiband6",
       "retro",
       "weather",
       "time",
@@ -184,6 +188,7 @@
     "array_tags": [
       "analog",
       "green",
+      "miband6",
       "weekday",
       "day"
     ],
@@ -272,6 +277,7 @@
       "weather",
       "retro",
       "lock",
+      "dayoftheweek",
       "battery",
       "steps",
       "donotdisturb"

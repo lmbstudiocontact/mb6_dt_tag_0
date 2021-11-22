@@ -28,6 +28,7 @@
     "list_language": [],
     "array_tags": [
       "kcal",
+      "stepprogress",
       "distance",
       "heartrate",
       "pai",
@@ -920,7 +921,8 @@
       "lock",
       "calories",
       "battery",
-      "steps"
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -940,6 +942,7 @@
       "date",
       "distance",
       "heartrate",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
@@ -1061,6 +1064,7 @@
       "heartrate",
       "weather",
       "temperature",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps"

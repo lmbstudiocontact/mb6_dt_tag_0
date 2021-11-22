@@ -966,6 +966,7 @@
       "digital",
       "date",
       "heartrate",
+      "xiaomimiband6",
       "weather",
       "battery",
       "steps"

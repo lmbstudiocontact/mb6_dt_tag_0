@@ -965,11 +965,13 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "heartrate",
       "weather",
       "alarm",
       "animated",
       "health",
+      "dayoftheweek",
       "battery",
       "steps",
       "anime"
@@ -1021,6 +1023,7 @@
       "weather",
       "alarm",
       "pai",
+      "dayoftheweek",
       "calories"
     ],
     "list_album": [

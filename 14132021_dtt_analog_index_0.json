@@ -7,7 +7,8 @@
     "list_language": [],
     "array_tags": [
       "date",
-      "analog"
+      "analog",
+      "dayoftheweek"
     ],
     "list_album": [
       {
@@ -33,6 +34,7 @@
       "analog",
       "kcal",
       "bluetooth",
+      "stepprogress",
       "pai",
       "lock",
       "time"
@@ -94,6 +96,7 @@
     "array_tags": [
       "red",
       "analog",
+      "portugus",
       "english"
     ],
     "list_album": [
@@ -131,6 +134,7 @@
     "array_tags": [
       "analog",
       "green",
+      "portugus",
       "english"
     ],
     "list_album": [
@@ -149,6 +153,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
+      "portugus",
       "english"
     ],
     "list_album": [
@@ -420,6 +425,7 @@
       "digital",
       "date",
       "analog",
+      "stepprogress",
       "pulse",
       "retro",
       "steps"
@@ -442,6 +448,7 @@
       "digital",
       "date",
       "analog",
+      "stepprogress",
       "pulse",
       "retro",
       "steps"
@@ -487,6 +494,7 @@
       "date",
       "distance",
       "heartrate",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",

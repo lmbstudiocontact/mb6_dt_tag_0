@@ -6,6 +6,7 @@
     "id_bin": "1105",
     "list_language": [],
     "array_tags": [
+      "miband6",
       "green",
       "blue",
       "retro"
@@ -28,6 +29,7 @@
       "digital",
       "date",
       "analog",
+      "stepprogress",
       "pulse",
       "retro",
       "steps"
@@ -50,6 +52,7 @@
       "digital",
       "date",
       "analog",
+      "stepprogress",
       "pulse",
       "retro",
       "steps"
@@ -93,6 +96,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "dragonball",
       "goku",
       "retro"
     ],
@@ -153,7 +157,9 @@
     "list_language": [],
     "array_tags": [
       "minimal",
+      "miband6",
       "green",
+      "xiaomimiband6",
       "retro",
       "weather",
       "time",
@@ -256,6 +262,7 @@
       "weather",
       "retro",
       "lock",
+      "dayoftheweek",
       "battery",
       "steps",
       "donotdisturb"

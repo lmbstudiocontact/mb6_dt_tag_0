@@ -8,6 +8,7 @@
     "array_tags": [
       "digital",
       "date",
+      "stepprogress",
       "bluetooth",
       "lock",
       "time",
@@ -304,6 +305,32 @@
     ]
   },
   {
+    "author": "Melero",
+    "link_thumb": "https://live.staticflickr.com/65535/51669746258_92fa8d2b98_o.gif",
+    "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1391.bin",
+    "id_bin": "1391",
+    "list_language": [],
+    "array_tags": [
+      "digital",
+      "date",
+      "distance",
+      "bluetooth",
+      "heartrate",
+      "lock",
+      "calories",
+      "battery",
+      "steps",
+      "donotdisturb"
+    ],
+    "list_album": [
+      {
+        "id_album": "2433880",
+        "link_thumb": "https://live.staticflickr.com/65535/51669746258_92fa8d2b98_o.gif",
+        "title": "None"
+      }
+    ]
+  },
+  {
     "author": "jpcreator",
     "link_thumb": "https://live.staticflickr.com/65535/51669754028_3e137b94dd_o.gif",
     "link_bin": "https://github.com/lmbstudiocontact/mb6_0/raw/main/1451.bin",
@@ -581,6 +608,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "bluetooth",
       "heartrate",
       "lock",
@@ -666,6 +694,7 @@
       "weather",
       "retro",
       "lock",
+      "dayoftheweek",
       "battery",
       "steps",
       "donotdisturb"
@@ -686,6 +715,7 @@
     "list_language": [],
     "array_tags": [
       "bluetooth",
+      "stepprogress",
       "heartrate",
       "weather",
       "lock",
@@ -711,6 +741,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "bluetooth",
       "weekday",
       "lock",

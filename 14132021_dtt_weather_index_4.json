@@ -49,7 +49,8 @@
     "id_bin": "454",
     "list_language": [],
     "array_tags": [
-      "weather"
+      "weather",
+      "dayoftheweek"
     ],
     "list_album": [
       {
@@ -67,6 +68,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "pulse",
       "weather"
@@ -155,6 +157,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "pulse",
       "weather",
@@ -446,6 +449,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -510,6 +514,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "pulse",
       "weather",
@@ -557,6 +562,9 @@
     "id_bin": "560",
     "list_language": [],
     "array_tags": [
+      "dayoftheweek",
+      "battery",
+      "steps",
       "month",
       "bluetooth",
       "weather",
@@ -564,9 +572,7 @@
       "pulse",
       "lock",
       "dnd",
-      "battery",
       "day",
-      "steps",
       "status"
     ],
     "list_album": [
@@ -613,6 +619,7 @@
       "date",
       "analog",
       "distance",
+      "stepprogress",
       "heartrate",
       "weather",
       "calories",
@@ -635,6 +642,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -659,6 +667,7 @@
     "array_tags": [
       "digital",
       "distance",
+      "xiaomimiband6",
       "pulse",
       "weather",
       "simple",
@@ -702,6 +711,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -747,6 +757,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "english",
       "weather",
@@ -912,6 +923,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "weather",
       "pulse",
       "calories",
@@ -1027,6 +1039,7 @@
     "array_tags": [
       "digital",
       "date",
+      "miband6",
       "heartrate",
       "weather",
       "battery",
@@ -1049,6 +1062,7 @@
     "array_tags": [
       "digital",
       "date",
+      "miband6",
       "heartrate",
       "weather",
       "english",
@@ -1095,6 +1109,7 @@
       "digital",
       "date",
       "heartrate",
+      "xiaomimiband6",
       "weather",
       "battery",
       "steps"

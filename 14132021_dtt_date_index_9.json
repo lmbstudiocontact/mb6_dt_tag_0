@@ -44,6 +44,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "xiaomimiband6",
       "day"
     ],
     "list_album": [
@@ -140,6 +141,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "battery",
       "steps",
       "anime"
@@ -267,6 +269,7 @@
     "array_tags": [
       "red",
       "date",
+      "stepprogress",
       "battery",
       "steps",
       "anime"
@@ -290,6 +293,7 @@
       "date",
       "heartrate",
       "weather",
+      "portugus",
       "brasil",
       "battery",
       "steps"
@@ -392,6 +396,7 @@
       "date",
       "distance",
       "heartrate",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
@@ -888,6 +893,7 @@
       "bluetooth",
       "weekday",
       "lock",
+      "dayoftheweek",
       "time",
       "battery",
       "steps"
@@ -908,6 +914,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "bluetooth",
       "heartrate",
       "lock",

@@ -523,6 +523,7 @@
       "digital",
       "date",
       "black",
+      "portugus",
       "pulse",
       "weekday",
       "brasil",
@@ -759,6 +760,7 @@
       "digital",
       "date",
       "analog",
+      "stepprogress",
       "pulse",
       "retro",
       "steps"
@@ -781,6 +783,7 @@
       "digital",
       "date",
       "analog",
+      "stepprogress",
       "pulse",
       "retro",
       "steps"
@@ -1130,7 +1133,8 @@
       "lock",
       "calories",
       "battery",
-      "steps"
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {

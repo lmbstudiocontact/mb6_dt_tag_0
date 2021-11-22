@@ -7,6 +7,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "weather",
       "pulse",
       "calories",
@@ -165,6 +166,7 @@
     "array_tags": [
       "digital",
       "date",
+      "miband6",
       "heartrate",
       "weather",
       "battery",
@@ -187,6 +189,7 @@
     "array_tags": [
       "digital",
       "date",
+      "miband6",
       "heartrate",
       "weather",
       "english",
@@ -233,6 +236,7 @@
       "digital",
       "date",
       "heartrate",
+      "xiaomimiband6",
       "weather",
       "battery",
       "steps"
@@ -278,12 +282,13 @@
       "game",
       "pokemon",
       "heartrate",
+      "dayoftheweek",
+      "battery",
+      "steps",
       "games",
       "temperature",
       "weather",
-      "battery",
-      "day",
-      "steps"
+      "day"
     ],
     "list_album": [
       {
@@ -322,6 +327,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -386,6 +392,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "pulse",
       "weather",
@@ -409,6 +416,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "calories",
@@ -430,6 +438,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -472,6 +481,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -515,6 +525,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "battery",
       "steps",
       "anime"
@@ -665,6 +676,7 @@
     "array_tags": [
       "red",
       "date",
+      "stepprogress",
       "battery",
       "steps",
       "anime"
@@ -688,6 +700,7 @@
       "date",
       "heartrate",
       "weather",
+      "portugus",
       "brasil",
       "battery",
       "steps"
@@ -751,6 +764,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "weekday",
       "black",
       "english",
@@ -775,6 +789,7 @@
       "date",
       "distance",
       "heartrate",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
@@ -917,6 +932,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",

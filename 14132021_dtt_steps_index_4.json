@@ -144,6 +144,7 @@
     "list_language": [],
     "array_tags": [
       "red",
+      "bignumbers",
       "date",
       "white",
       "pulse",
@@ -169,6 +170,7 @@
     "array_tags": [
       "date",
       "bluetooth",
+      "stepprogress",
       "pulse",
       "time",
       "battery",
@@ -423,6 +425,7 @@
     "id_bin": "1689",
     "list_language": [],
     "array_tags": [
+      "bignumbers",
       "bluetooth",
       "weather",
       "battery",
@@ -469,6 +472,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "bignumbers",
       "bluetooth",
       "month",
       "black",

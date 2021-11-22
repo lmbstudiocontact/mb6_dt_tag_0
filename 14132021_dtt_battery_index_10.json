@@ -158,6 +158,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "xiaomimiband6",
       "weekday",
       "simple",
       "battery",
@@ -1110,6 +1111,7 @@
     "array_tags": [
       "digital",
       "date",
+      "dayoftheweek",
       "battery"
     ],
     "list_album": [

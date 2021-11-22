@@ -237,6 +237,7 @@
       "seconds",
       "heartrate",
       "brasil",
+      "dayoftheweek",
       "futebol",
       "battery",
       "steps"
@@ -867,6 +868,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "bignumbers",
       "date",
       "apple",
       "minimal",
@@ -950,6 +952,7 @@
       "steps",
       "colors",
       "bluetooth",
+      "stepprogress",
       "weather",
       "pulse",
       "lock",

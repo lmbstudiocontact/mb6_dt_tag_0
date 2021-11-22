@@ -15,6 +15,7 @@
       "analog",
       "kcal",
       "bluetooth",
+      "stepprogress",
       "pai",
       "lock",
       "time"
@@ -332,6 +333,7 @@
       "temperature",
       "weather",
       "pai",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps"
@@ -447,6 +449,7 @@
     "list_language": [],
     "array_tags": [
       "kcal",
+      "stepprogress",
       "distance",
       "heartrate",
       "pai",
@@ -698,6 +701,7 @@
       "date",
       "game",
       "brasil",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
@@ -1251,6 +1255,7 @@
       "weather",
       "alarm",
       "pai",
+      "dayoftheweek",
       "calories"
     ],
     "list_album": [

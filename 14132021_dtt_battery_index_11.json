@@ -80,8 +80,10 @@
       "digital",
       "date",
       "month",
+      "stepprogress",
       "heartrate",
       "pulse",
+      "dayoftheweek",
       "time",
       "battery",
       "day",
@@ -162,8 +164,10 @@
       "digital",
       "date",
       "month",
+      "stepprogress",
       "heartrate",
       "pulse",
+      "dayoftheweek",
       "time",
       "battery",
       "day",
@@ -391,6 +395,7 @@
       "seconds",
       "heartrate",
       "brasil",
+      "dayoftheweek",
       "futebol",
       "battery",
       "steps"
@@ -436,6 +441,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "xiaomimiband6",
       "battery"
     ],
     "list_album": [
@@ -1053,6 +1059,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "bignumbers",
       "date",
       "apple",
       "minimal",
@@ -1176,6 +1183,7 @@
       "steps",
       "colors",
       "bluetooth",
+      "stepprogress",
       "weather",
       "pulse",
       "lock",

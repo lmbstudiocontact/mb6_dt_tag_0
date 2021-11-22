@@ -10,6 +10,7 @@
       "date",
       "analog",
       "distance",
+      "stepprogress",
       "heartrate",
       "weather",
       "calories",
@@ -34,6 +35,9 @@
       "digital",
       "date",
       "minimal",
+      "miband6",
+      "stepprogress",
+      "xiaomimiband6",
       "weekday",
       "english",
       "battery"
@@ -54,6 +58,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -78,6 +83,7 @@
     "array_tags": [
       "digital",
       "distance",
+      "xiaomimiband6",
       "pulse",
       "weather",
       "simple",
@@ -121,6 +127,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -171,6 +178,7 @@
       "heartrate",
       "weekday",
       "brasil",
+      "dayoftheweek",
       "battery",
       "steps",
       "space",
@@ -195,6 +203,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "english",
       "weather",
@@ -220,6 +229,7 @@
     "array_tags": [
       "digital",
       "date",
+      "dayoftheweek",
       "battery",
       "steps",
       "status"
@@ -313,13 +323,15 @@
       "date",
       "digital",
       "soccer",
-      "blue",
-      "month",
+      "miband6",
       "heartrate",
       "weekday",
+      "dayoftheweek",
       "futebol",
       "battery",
       "steps",
+      "blue",
+      "month",
       "day"
     ],
     "list_album": [
@@ -378,6 +390,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "animated"
     ],
     "list_album": [
@@ -488,6 +501,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "weather",
       "pulse",
       "calories",
@@ -621,6 +635,7 @@
       "digital",
       "month",
       "english",
+      "dayoftheweek",
       "battery",
       "day",
       "anime"
@@ -644,6 +659,7 @@
       "month",
       "english",
       "animated",
+      "dayoftheweek",
       "day",
       "anime"
     ],
@@ -707,6 +723,7 @@
     "array_tags": [
       "digital",
       "date",
+      "miband6",
       "heartrate",
       "weather",
       "battery",
@@ -729,6 +746,7 @@
     "array_tags": [
       "digital",
       "date",
+      "miband6",
       "heartrate",
       "weather",
       "english",
@@ -775,6 +793,7 @@
       "digital",
       "date",
       "heartrate",
+      "xiaomimiband6",
       "weather",
       "battery",
       "steps"
@@ -838,12 +857,13 @@
       "game",
       "pokemon",
       "heartrate",
+      "dayoftheweek",
+      "battery",
+      "steps",
       "games",
       "temperature",
       "weather",
-      "battery",
-      "day",
-      "steps"
+      "day"
     ],
     "list_album": [
       {
@@ -882,6 +902,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -986,6 +1007,8 @@
       "digital",
       "white",
       "black",
+      "portugus",
+      "dayoftheweek",
       "basic",
       "battery",
       "day"
@@ -1043,6 +1066,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "pulse",
       "weather",
@@ -1066,6 +1090,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "calories",
@@ -1087,6 +1112,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",

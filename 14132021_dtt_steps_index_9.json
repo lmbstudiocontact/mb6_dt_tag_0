@@ -97,6 +97,7 @@
       "bluetooth",
       "weekday",
       "lock",
+      "dayoftheweek",
       "time",
       "battery",
       "steps"

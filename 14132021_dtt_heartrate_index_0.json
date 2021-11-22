@@ -66,6 +66,7 @@
       "analog",
       "kcal",
       "bluetooth",
+      "stepprogress",
       "pai",
       "lock",
       "time"
@@ -462,15 +463,16 @@
     "array_tags": [
       "date",
       "digital",
-      "blue",
       "distance",
       "heartrate",
-      "weather",
       "weekday",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
-      "animation"
+      "animation",
+      "blue",
+      "weather"
     ],
     "list_album": [
       {
@@ -1030,6 +1032,7 @@
       "temperature",
       "weather",
       "pai",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps"

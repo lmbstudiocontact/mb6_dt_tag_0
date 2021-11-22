@@ -937,6 +937,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -965,7 +966,8 @@
       "lock",
       "calories",
       "battery",
-      "steps"
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -985,6 +987,7 @@
       "date",
       "distance",
       "heartrate",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",

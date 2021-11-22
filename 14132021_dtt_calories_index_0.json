@@ -66,6 +66,7 @@
       "analog",
       "kcal",
       "bluetooth",
+      "stepprogress",
       "pai",
       "lock",
       "time"
@@ -311,15 +312,16 @@
     "array_tags": [
       "date",
       "digital",
-      "blue",
       "distance",
       "heartrate",
-      "weather",
       "weekday",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
-      "animation"
+      "animation",
+      "blue",
+      "weather"
     ],
     "list_album": [
       {
@@ -567,6 +569,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "pulse",
       "english",
@@ -766,6 +769,7 @@
       "temperature",
       "weather",
       "pai",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps"
@@ -1239,6 +1243,7 @@
       "date",
       "game",
       "brasil",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",

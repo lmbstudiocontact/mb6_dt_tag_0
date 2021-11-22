@@ -176,6 +176,7 @@
       "temperature",
       "weather",
       "pai",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps"
@@ -881,6 +882,7 @@
       "date",
       "game",
       "brasil",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
@@ -1199,6 +1201,7 @@
       "digital",
       "dragonball",
       "goku",
+      "miband6",
       "bluetooth",
       "weekday",
       "lock",

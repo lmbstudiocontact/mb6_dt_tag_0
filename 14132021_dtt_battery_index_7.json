@@ -534,6 +534,7 @@
       "month",
       "heartrate",
       "english",
+      "dayoftheweek",
       "battery",
       "steps",
       "day",
@@ -582,6 +583,7 @@
       "heartrate",
       "english",
       "animated",
+      "dayoftheweek",
       "battery",
       "steps",
       "day",
@@ -748,6 +750,7 @@
       "month",
       "heartrate",
       "english",
+      "dayoftheweek",
       "battery",
       "day",
       "anime"
@@ -788,6 +791,9 @@
     "id_bin": "560",
     "list_language": [],
     "array_tags": [
+      "dayoftheweek",
+      "battery",
+      "steps",
       "month",
       "bluetooth",
       "weather",
@@ -795,9 +801,7 @@
       "pulse",
       "lock",
       "dnd",
-      "battery",
       "day",
-      "steps",
       "status"
     ],
     "list_album": [
@@ -817,6 +821,7 @@
     "array_tags": [
       "digital",
       "date",
+      "dayoftheweek",
       "battery",
       "steps"
     ],
@@ -837,6 +842,7 @@
     "array_tags": [
       "digital",
       "date",
+      "dayoftheweek",
       "battery",
       "steps"
     ],
@@ -904,6 +910,7 @@
       "date",
       "analog",
       "distance",
+      "stepprogress",
       "heartrate",
       "weather",
       "calories",
@@ -928,6 +935,9 @@
       "digital",
       "date",
       "minimal",
+      "miband6",
+      "stepprogress",
+      "xiaomimiband6",
       "weekday",
       "english",
       "battery"
@@ -996,6 +1006,7 @@
       "heartrate",
       "weekday",
       "brasil",
+      "dayoftheweek",
       "battery",
       "steps",
       "space",
@@ -1021,6 +1032,7 @@
     "array_tags": [
       "digital",
       "date",
+      "dayoftheweek",
       "battery",
       "steps",
       "status"
@@ -1112,6 +1124,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
+      "miband6",
       "heartrate",
       "battery",
       "steps"

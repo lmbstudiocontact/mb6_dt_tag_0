@@ -280,6 +280,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "bignumbers",
       "date",
       "apple",
       "minimal",
@@ -386,6 +387,7 @@
       "steps",
       "colors",
       "bluetooth",
+      "stepprogress",
       "weather",
       "pulse",
       "lock",
@@ -666,6 +668,7 @@
       "weather",
       "retro",
       "lock",
+      "dayoftheweek",
       "battery",
       "steps",
       "donotdisturb"
@@ -733,6 +736,7 @@
       "date",
       "distance",
       "english",
+      "dayoftheweek",
       "time",
       "battery",
       "steps"
@@ -754,6 +758,7 @@
     "array_tags": [
       "date",
       "digital",
+      "portugus",
       "steps"
     ],
     "list_album": [
@@ -967,6 +972,7 @@
     "array_tags": [
       "date",
       "marvel",
+      "stepprogress",
       "bluetooth",
       "notdisturb",
       "alarm",
@@ -1079,6 +1085,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "bluetooth",
       "weekday",
       "lock",

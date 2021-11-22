@@ -8,15 +8,16 @@
     "array_tags": [
       "date",
       "digital",
-      "blue",
       "distance",
       "heartrate",
-      "weather",
       "weekday",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
-      "animation"
+      "animation",
+      "blue",
+      "weather"
     ],
     "list_album": [
       {
@@ -33,6 +34,7 @@
     "id_bin": "1105",
     "list_language": [],
     "array_tags": [
+      "miband6",
       "green",
       "blue",
       "retro"
@@ -136,6 +138,7 @@
     "id_bin": "1543",
     "list_language": [],
     "array_tags": [
+      "bignumbers",
       "date",
       "blue",
       "day"
@@ -155,6 +158,7 @@
     "id_bin": "1548",
     "list_language": [],
     "array_tags": [
+      "bignumbers",
       "date",
       "blue",
       "battery",
@@ -175,6 +179,7 @@
     "id_bin": "1549",
     "list_language": [],
     "array_tags": [
+      "bignumbers",
       "date",
       "blue",
       "heartrate",
@@ -293,13 +298,15 @@
       "date",
       "digital",
       "soccer",
-      "blue",
-      "month",
+      "miband6",
       "heartrate",
       "weekday",
+      "dayoftheweek",
       "futebol",
       "battery",
       "steps",
+      "blue",
+      "month",
       "day"
     ],
     "list_album": [

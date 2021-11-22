@@ -250,6 +250,7 @@
       "digital",
       "date",
       "heartrate",
+      "xiaomimiband6",
       "weather",
       "battery",
       "steps"
@@ -523,6 +524,7 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
       "weather",
       "pulse",
@@ -634,15 +636,16 @@
     "list_language": [],
     "array_tags": [
       "digital",
+      "miband6",
       "distance",
-      "month",
       "heartrate",
-      "weather",
       "weekday",
-      "pulse",
-      "pai",
       "calories",
-      "battery"
+      "battery",
+      "month",
+      "weather",
+      "pulse",
+      "pai"
     ],
     "list_album": [
       {
@@ -835,7 +838,9 @@
     "list_language": [],
     "array_tags": [
       "minimal",
+      "miband6",
       "green",
+      "xiaomimiband6",
       "retro",
       "weather",
       "time",
@@ -1065,6 +1070,7 @@
     "id_bin": "441",
     "list_language": [],
     "array_tags": [
+      "miband6",
       "weather",
       "pulse",
       "english",
@@ -1088,6 +1094,7 @@
     "array_tags": [
       "digital",
       "kcal",
+      "miband6",
       "distance",
       "weather",
       "pulse",

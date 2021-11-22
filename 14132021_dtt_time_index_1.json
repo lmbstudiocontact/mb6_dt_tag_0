@@ -167,6 +167,7 @@
     "array_tags": [
       "date",
       "bluetooth",
+      "stepprogress",
       "pulse",
       "time",
       "battery",
@@ -516,7 +517,9 @@
     "list_language": [],
     "array_tags": [
       "minimal",
+      "miband6",
       "green",
+      "xiaomimiband6",
       "retro",
       "weather",
       "time",
@@ -757,6 +760,7 @@
       "bluetooth",
       "weekday",
       "lock",
+      "dayoftheweek",
       "time",
       "battery",
       "steps"
@@ -1055,8 +1059,10 @@
       "digital",
       "date",
       "month",
+      "stepprogress",
       "heartrate",
       "pulse",
+      "dayoftheweek",
       "time",
       "battery",
       "day",

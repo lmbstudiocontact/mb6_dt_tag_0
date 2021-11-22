@@ -8,6 +8,7 @@
     "array_tags": [
       "digital",
       "date",
+      "stepprogress",
       "bluetooth",
       "lock",
       "time",
@@ -39,6 +40,7 @@
       "analog",
       "kcal",
       "bluetooth",
+      "stepprogress",
       "pai",
       "lock",
       "time"
@@ -471,6 +473,7 @@
       "digital",
       "dragonball",
       "goku",
+      "miband6",
       "bluetooth",
       "weekday",
       "lock",
@@ -608,7 +611,8 @@
       "lock",
       "calories",
       "battery",
-      "steps"
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -628,6 +632,7 @@
       "date",
       "distance",
       "heartrate",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
@@ -847,6 +852,9 @@
     "id_bin": "560",
     "list_language": [],
     "array_tags": [
+      "dayoftheweek",
+      "battery",
+      "steps",
       "month",
       "bluetooth",
       "weather",
@@ -854,9 +862,7 @@
       "pulse",
       "lock",
       "dnd",
-      "battery",
       "day",
-      "steps",
       "status"
     ],
     "list_album": [
@@ -904,6 +910,7 @@
       "date",
       "distance",
       "heartrate",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
@@ -1077,6 +1084,7 @@
       "bluetooth",
       "weekday",
       "lock",
+      "dayoftheweek",
       "time",
       "battery",
       "steps"
@@ -1097,6 +1105,7 @@
     "list_language": [],
     "array_tags": [
       "date",
+      "stepprogress",
       "bluetooth",
       "heartrate",
       "lock",

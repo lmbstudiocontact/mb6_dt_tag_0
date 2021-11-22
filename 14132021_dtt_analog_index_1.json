@@ -81,6 +81,7 @@
       "date",
       "analog",
       "distance",
+      "stepprogress",
       "heartrate",
       "weather",
       "calories",
@@ -104,6 +105,7 @@
     "array_tags": [
       "analog",
       "green",
+      "miband6",
       "weekday",
       "day"
     ],
@@ -123,6 +125,7 @@
     "list_language": [],
     "array_tags": [
       "analog",
+      "miband6",
       "heartrate",
       "battery",
       "steps"
@@ -247,6 +250,7 @@
       "date",
       "distance",
       "heartrate",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",

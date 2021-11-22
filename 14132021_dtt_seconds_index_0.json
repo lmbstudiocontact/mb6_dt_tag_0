@@ -354,6 +354,7 @@
     "id_bin": "1434",
     "list_language": [],
     "array_tags": [
+      "bignumbers",
       "date",
       "digital",
       "seconds",
@@ -385,6 +386,7 @@
       "heartrate",
       "weather",
       "temperature",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps"

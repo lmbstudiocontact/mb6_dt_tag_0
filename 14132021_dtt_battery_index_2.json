@@ -33,6 +33,7 @@
       "digital",
       "dragonball",
       "goku",
+      "miband6",
       "bluetooth",
       "weekday",
       "lock",
@@ -547,6 +548,7 @@
       "digital",
       "date",
       "black",
+      "portugus",
       "pulse",
       "weekday",
       "brasil",
@@ -1023,7 +1025,8 @@
       "lock",
       "calories",
       "battery",
-      "steps"
+      "steps",
+      "donotdisturb"
     ],
     "list_album": [
       {
@@ -1065,6 +1068,7 @@
       "date",
       "distance",
       "heartrate",
+      "dayoftheweek",
       "calories",
       "battery",
       "steps",
